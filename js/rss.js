@@ -204,6 +204,18 @@ function updateCount() {
   if (el) el.textContent = String(count);
 }
 
+function refreshScrollState() {
+  requestAnimationFrame(function () {
+    if (window.lenis && typeof window.lenis.resize === 'function') {
+      window.lenis.resize();
+    }
+    if (window.ScrollTrigger && typeof window.ScrollTrigger.refresh === 'function') {
+      window.ScrollTrigger.refresh();
+    }
+    window.dispatchEvent(new Event('scroll'));
+  });
+}
+
 function buildLiveDigest() {
   if (!CONFIG || !CONFIG.categories) return [];
   return Object.keys(CONFIG.categories).flatMap(function (key) {
@@ -256,6 +268,7 @@ function renderBrief() {
         '<p>' + escapeHtml(it.reason || it.source || '') + '</p>' +
       '</article>';
   }).join('');
+  refreshScrollState();
 }
 
 function renderItems(container, items, lang) {
@@ -264,6 +277,7 @@ function renderItems(container, items, lang) {
 
   if (!filtered.length) {
     container.innerHTML = '<div class="feed-empty">Aucun signal disponible pour ce filtre.</div>';
+    refreshScrollState();
     return;
   }
 
@@ -289,6 +303,7 @@ function renderItems(container, items, lang) {
         '</div>' +
       '</article>';
   }).join('');
+  refreshScrollState();
 }
 
 function renderCategory(catKey) {
@@ -371,6 +386,7 @@ function buildPanes(lang) {
       loadCategory(key, cat, lang);
     }
   });
+  refreshScrollState();
 }
 
 async function loadConfig() {

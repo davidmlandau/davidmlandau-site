@@ -5,7 +5,11 @@
 // ---------- Lenis (physics-based smooth scroll) ----------
 let lenis;
 function initLenis() {
-  if (document.getElementById('contactForm')) {
+  const shouldUseNativeScroll =
+    document.getElementById('contactForm') ||
+    document.getElementById('watch-tabs');
+
+  if (shouldUseNativeScroll) {
     document.documentElement.classList.add('native-scroll');
     return;
   }

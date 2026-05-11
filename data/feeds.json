@@ -1,0 +1,72 @@
+{
+  "_comment": "Configuration des flux RSS. Les requetes Google News sont volontairement tres ciblees: elles restent stables, filtrables et faciles a ajuster sans backend.",
+  "categories": {
+    "tech": {
+      "label_fr": "Technologies",
+      "label_en": "Technology",
+      "label_nl": "Technologie",
+      "intro_fr": "Nouvelles technologies utilisees pour produire des ingredients et transformer les aliments : fermentation de precision, extrusion, automatisation, IA, bioprocedes et packaging intelligent.",
+      "intro_en": "New technologies used to produce ingredients and transform food: precision fermentation, extrusion, automation, AI, bioprocessing and smart packaging.",
+      "intro_nl": "Nieuwe technologieen voor ingredientenproductie en voedselverwerking: precisiefermentatie, extrusie, automatisering, AI, bioprocessen en slimme verpakking.",
+      "feeds": [
+        { "name": "AgFunderNews", "url": "https://www.agfundernews.com/feed" },
+        { "name": "Packaging Dive", "url": "https://www.packagingdive.com/feeds/news/" },
+        { "name": "Google News - production technologies", "url": "https://news.google.com/rss/search?q=%28%22ingredient+production%22+OR+%22food+processing+technology%22+OR+%22precision+fermentation%22+OR+%22extrusion+technology%22+OR+%22bioprocessing%22%29+%28food+OR+ingredients%29&hl=fr&gl=FR&ceid=FR:fr" },
+        { "name": "Google News - technologies agroalimentaires", "url": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr" }
+      ]
+    },
+    "trends": {
+      "label_fr": "Tendances",
+      "label_en": "Trends",
+      "label_nl": "Trends",
+      "intro_fr": "Nouveaux gouts, odeurs, textures, associations et melanges qui montent dans les lancements produits, la presse et les conversations consommateurs.",
+      "intro_en": "New tastes, aromas, textures, pairings and blends gaining visibility in launches, media and consumer conversations.",
+      "intro_nl": "Nieuwe smaken, geuren, texturen, combinaties en blends die zichtbaar worden in productlanceringen, media en consumentengesprekken.",
+      "feeds": [
+        { "name": "Food Business News", "url": "https://www.foodbusinessnews.net/rss/topic/261-food" },
+        { "name": "Food Dive", "url": "https://www.fooddive.com/feeds/news/" },
+        { "name": "Google News - flavor trends", "url": "https://news.google.com/rss/search?q=%28%22flavor+trend%22+OR+%22flavour+trend%22+OR+%22taste+trend%22+OR+%22new+flavor%22+OR+%22flavour+combination%22%29+food&hl=fr&gl=FR&ceid=FR:fr" },
+        { "name": "Google News - gouts odeurs melanges", "url": "https://news.google.com/rss/search?q=%28%22nouveau+gout%22+OR+%22tendance+gout%22+OR+%22arome+tendance%22+OR+%22melange+saveurs%22%29+alimentaire&hl=fr&gl=FR&ceid=FR:fr" }
+      ]
+    },
+    "aroma": {
+      "label_fr": "Aromatique",
+      "label_en": "Flavour regulation",
+      "label_nl": "Aromaregulering",
+      "intro_fr": "Developpements en matiere de regulation des aromes, additifs, substances aromatisantes, evaluations EFSA/FDA et cadre europeen.",
+      "intro_en": "Regulatory developments on flavours, additives, flavouring substances, EFSA/FDA assessments and the European framework.",
+      "intro_nl": "Regelgevende ontwikkelingen rond aroma's, additieven, aromastoffen, EFSA/FDA-beoordelingen en Europees kader.",
+      "feeds": [
+        { "name": "Food Safety - Regulatory", "url": "https://www.food-safety.com/rss/topic/296-regulatory" },
+        { "name": "Google News - flavor regulation", "url": "https://news.google.com/rss/search?q=%28%22flavor+regulation%22+OR+%22flavour+regulation%22+OR+%22flavouring+substances%22+OR+%22EFSA+flavouring%22+OR+%22FEMA+GRAS%22%29+food&hl=fr&gl=FR&ceid=FR:fr" },
+        { "name": "Google News - regulation aromes", "url": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr" }
+      ]
+    },
+    "ingredients": {
+      "label_fr": "Ingredients",
+      "label_en": "Ingredients",
+      "label_nl": "Ingredienten",
+      "intro_fr": "Developpements mondiaux sur les ingredients : clean label, proteines alternatives, fibres, texturants, nutrition, fonctionnalite et nouveaux fournisseurs.",
+      "intro_en": "Global ingredient developments: clean label, alternative proteins, fibres, texturants, nutrition, functionality and new suppliers.",
+      "intro_nl": "Wereldwijde ingredientenontwikkelingen: clean label, alternatieve eiwitten, vezels, texturanten, voeding, functionaliteit en nieuwe leveranciers.",
+      "feeds": [
+        { "name": "Food Business News - Ingredients", "url": "https://www.foodbusinessnews.net/rss/topic/335-ingredients" },
+        { "name": "Food Dive", "url": "https://www.fooddive.com/feeds/news/" },
+        { "name": "Google News - ingredient development", "url": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr" }
+      ]
+    },
+    "ma": {
+      "label_fr": "M&A",
+      "label_en": "M&A",
+      "label_nl": "M&A",
+      "intro_fr": "Acquisitions, ventes, fusions, levees de fonds et mouvements strategiques dans l'alimentaire, les ingredients, les aromes et la nutrition.",
+      "intro_en": "Acquisitions, divestments, mergers, funding rounds and strategic moves in food, ingredients, flavours and nutrition.",
+      "intro_nl": "Overnames, verkopen, fusies, financieringsrondes en strategische bewegingen in food, ingredienten, aroma's en voeding.",
+      "feeds": [
+        { "name": "Food Dive - Deals", "url": "https://www.fooddive.com/feeds/news/" },
+        { "name": "AgFunderNews", "url": "https://www.agfundernews.com/feed" },
+        { "name": "Google News - food M&A", "url": "https://news.google.com/rss/search?q=%28%22food+acquisition%22+OR+%22food+merger%22+OR+%22ingredients+acquisition%22+OR+%22flavor+acquisition%22+OR+%22fusion+acquisition+agroalimentaire%22%29&hl=fr&gl=FR&ceid=FR:fr" }
+      ]
+    }
+  }
+}

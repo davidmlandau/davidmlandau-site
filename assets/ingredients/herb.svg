@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Branche d'herbe aromatique">
+  <title>Aromatic herb</title>
+  <g fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round">
+    <path d="M 200 470 Q 195 360 215 280 Q 230 215 220 140 Q 215 95 230 60"/>
+    <g fill="currentColor" stroke="none" opacity="0.85">
+      <ellipse cx="180" cy="430" rx="22" ry="9" transform="rotate(-30 180 430)"/>
+      <ellipse cx="232" cy="402" rx="26" ry="10" transform="rotate(38 232 402)"/>
+      <ellipse cx="178" cy="370" rx="24" ry="9" transform="rotate(-25 178 370)"/>
+      <ellipse cx="240" cy="335" rx="28" ry="11" transform="rotate(40 240 335)"/>
+      <ellipse cx="186" cy="295" rx="26" ry="10" transform="rotate(-20 186 295)"/>
+      <ellipse cx="248" cy="252" rx="30" ry="12" transform="rotate(42 248 252)"/>
+      <ellipse cx="190" cy="208" rx="28" ry="10" transform="rotate(-15 190 208)"/>
+      <ellipse cx="244" cy="165" rx="26" ry="10" transform="rotate(35 244 165)"/>
+      <ellipse cx="200" cy="120" rx="22" ry="8" transform="rotate(-10 200 120)"/>
+      <ellipse cx="232" cy="85" rx="20" ry="8" transform="rotate(28 232 85)"/>
+    </g>
+    <g stroke-width="1" opacity="0.5">
+      <line x1="180" y1="430" x2="200" y2="430"/>
+      <line x1="232" y1="402" x2="218" y2="395"/>
+      <line x1="178" y1="370" x2="200" y2="368"/>
+      <line x1="240" y1="335" x2="222" y2="328"/>
+      <line x1="186" y1="295" x2="207" y2="294"/>
+      <line x1="248" y1="252" x2="230" y2="245"/>
+      <line x1="190" y1="208" x2="212" y2="208"/>
+      <line x1="244" y1="165" x2="228" y2="158"/>
+    </g>
+  </g>
+</svg>

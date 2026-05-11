@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Article — David Landau</title>
+  <meta name="description" content="Article de David Landau sur les ingrédients, la formulation et la chaîne alimentaire.">
+  <link rel="icon" type="image/svg+xml" href="assets/logo-mark.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css?v=20260503-lead-engine">
+  <link rel="stylesheet" href="css/immersive.css?v=20260503-lead-engine">
+</head>
+<body>
+
+<div class="loader" aria-hidden="true">
+  <svg class="loader__mark" viewBox="0 0 100 80">
+    <g fill="currentColor">
+      <path d="M 5 55 L 28 22 L 38 32 L 55 8 L 88 55 Z" opacity=".82"/>
+      <path d="M 38 55 L 55 8 L 70 28 L 88 55 Z"/>
+    </g>
+  </svg>
+</div>
+
+<div class="scroll-progress" aria-hidden="true"><div class="scroll-progress__bar"></div></div>
+
+<header class="site-header">
+  <nav class="container nav">
+    <a class="nav-brand" href="index.html">
+      <svg class="nav-brand__mark" viewBox="0 0 100 80" aria-hidden="true">
+        <g fill="currentColor">
+          <path d="M 5 55 L 28 22 L 38 32 L 55 8 L 88 55 Z" opacity=".82"/>
+          <path d="M 38 55 L 55 8 L 70 28 L 88 55 Z"/>
+          <path d="M 0 60 Q 24 66 50 63 Q 76 60 96 62" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+        </g>
+      </svg>
+      <span>DAVID LANDAU</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="index.html" data-i18n="nav.home">Accueil</a></li>
+      <li><a href="bio.html" data-i18n="nav.bio">Bio</a></li>
+      <li><a href="watch.html" data-i18n="nav.watch">Veille</a></li>
+      <li><a href="news.html" data-i18n="nav.news">Actualités</a></li>
+      <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <div class="lang-switcher" role="group" aria-label="Language">
+        <button data-lang="fr">FR</button>
+        <button data-lang="en">UK</button>
+        <button data-lang="nl">NL</button>
+      </div>
+      <button class="nav-toggle" aria-label="Menu"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+</header>
+
+<main class="section section--dark article-page">
+  <article class="container article-shell" id="articleShell">
+    <a class="article-back" href="news.html" data-i18n="article.back">Retour aux actualités</a>
+    <div id="articleMount"></div>
+  </article>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">
+          <svg viewBox="0 0 100 80" aria-hidden="true">
+            <g fill="currentColor">
+              <path d="M 5 55 L 28 22 L 38 32 L 55 8 L 88 55 Z" opacity=".82"/>
+              <path d="M 38 55 L 55 8 L 70 28 L 88 55 Z"/>
+            </g>
+          </svg>
+          <span>DAVID LANDAU</span>
+        </div>
+        <p class="footer-tagline" data-i18n="footer.tagline">Marketing et intelligence pour la chaîne alimentaire.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Navigation</h4>
+        <ul>
+          <li><a href="index.html" data-i18n="nav.home">Accueil</a></li>
+          <li><a href="bio.html" data-i18n="nav.bio">Bio</a></li>
+          <li><a href="watch.html" data-i18n="nav.watch">Veille</a></li>
+          <li><a href="news.html" data-i18n="nav.news">Actualités</a></li>
+          <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Direct</h4>
+        <ul>
+          <li><a href="mailto:david@davidmlandau.com">david@davidmlandau.com</a></li>
+          <li><a href="tel:+32475255308">+32 475 255308</a></li>
+          <li><a href="https://www.linkedin.com/in/davidmlandau" target="_blank" rel="noopener">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; <span id="y"></span> David Landau.</span>
+      <a href="contact.html" data-i18n="footer.contact">Me contacter</a>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/lenis@1.1.20/dist/lenis.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="js/i18n.js?v=20260503-lead-engine"></script>
+<script src="js/main.js?v=20260503-lead-engine"></script>
+<script src="js/immersive.js?v=20260502-disruptive-funnel"></script>
+<script src="js/animations.js"></script>
+<script src="js/articles-data.js?v=20260503-article-dates"></script>
+<script src="js/article-visuals.js?v=20260502-article-motion"></script>
+<script src="js/article.js?v=20260503-lead-engine"></script>
+<script>document.getElementById("y").textContent = new Date().getFullYear();</script>
+</body>
+</html>

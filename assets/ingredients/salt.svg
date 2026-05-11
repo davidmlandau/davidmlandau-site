@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Cristaux de sel">
+  <title>Salt crystals</title>
+  <g fill="currentColor" fill-opacity="0.9" stroke="currentColor" stroke-width="1.2" stroke-linejoin="round">
+    <polygon points="200,160 250,200 235,260 165,260 150,200" fill-opacity="0.18"/>
+    <polygon points="120,260 160,290 145,330 100,320 95,275" fill-opacity="0.25"/>
+    <polygon points="240,250 295,280 285,335 225,335 215,285" fill-opacity="0.16"/>
+    <polygon points="180,310 220,335 215,375 175,375 165,335" fill-opacity="0.28"/>
+    <polygon points="280,330 320,355 315,395 270,390 265,355" fill-opacity="0.20"/>
+    <polygon points="80,355 115,375 110,410 75,408 70,378" fill-opacity="0.22"/>
+    <polygon points="155,395 195,415 188,450 150,448 145,418" fill-opacity="0.18"/>
+    <polygon points="220,395 260,418 252,455 218,452 210,420" fill-opacity="0.24"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="0.7" opacity="0.55">
+    <line x1="200" y1="160" x2="200" y2="260"/>
+    <line x1="150" y1="200" x2="250" y2="200"/>
+    <line x1="120" y1="260" x2="145" y2="330"/>
+    <line x1="240" y1="250" x2="285" y2="335"/>
+  </g>
+</svg>

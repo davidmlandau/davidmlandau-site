@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" role="img">
+  <title>David Landau</title>
+  <g transform="translate(0, 18)" fill="currentColor">
+    <path d="M 5 55 L 28 22 L 38 32 L 55 8 L 88 55 Z" opacity=".82"/>
+    <path d="M 38 55 L 55 8 L 70 28 L 88 55 Z"/>
+    <path d="M 0 60 Q 24 66 50 63 Q 76 60 96 62" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".55"/>
+    <path d="M 14 68 Q 50 71 86 68" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".32"/>
+  </g>
+  <text x="140" y="68" font-family="'Manrope', system-ui, sans-serif" font-weight="700" font-size="44" letter-spacing="6" fill="currentColor">DAVID LANDAU</text>
+</svg>

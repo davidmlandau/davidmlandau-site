@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Graines">
+  <title>Seeds</title>
+  <g fill="currentColor" stroke="none">
+    <ellipse cx="120" cy="180" rx="14" ry="22" transform="rotate(-15 120 180)"/>
+    <ellipse cx="170" cy="140" rx="13" ry="20" transform="rotate(20 170 140)"/>
+    <ellipse cx="225" cy="125" rx="14" ry="22" transform="rotate(-25 225 125)"/>
+    <ellipse cx="280" cy="170" rx="13" ry="21" transform="rotate(15 280 170)"/>
+    <ellipse cx="100" cy="240" rx="14" ry="22" transform="rotate(40 100 240)"/>
+    <ellipse cx="160" cy="220" rx="12" ry="19" transform="rotate(-10 160 220)"/>
+    <ellipse cx="215" cy="200" rx="14" ry="23" transform="rotate(28 215 200)"/>
+    <ellipse cx="270" cy="240" rx="13" ry="20" transform="rotate(-30 270 240)"/>
+    <ellipse cx="130" cy="300" rx="14" ry="21" transform="rotate(-22 130 300)"/>
+    <ellipse cx="195" cy="285" rx="13" ry="20" transform="rotate(15 195 285)"/>
+    <ellipse cx="255" cy="305" rx="14" ry="22" transform="rotate(35 255 305)"/>
+    <ellipse cx="305" cy="265" rx="12" ry="18" transform="rotate(-12 305 265)"/>
+    <ellipse cx="155" cy="365" rx="13" ry="21" transform="rotate(20 155 365)"/>
+    <ellipse cx="220" cy="375" rx="14" ry="22" transform="rotate(-18 220 375)"/>
+    <ellipse cx="285" cy="365" rx="13" ry="20" transform="rotate(8 285 365)"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="0.9" opacity="0.55">
+    <path d="M 120 168 Q 122 168 124 168" stroke-linecap="round"/>
+    <path d="M 225 113 Q 227 113 229 113" stroke-linecap="round"/>
+    <path d="M 215 188 Q 217 188 219 188" stroke-linecap="round"/>
+  </g>
+</svg>

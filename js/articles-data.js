@@ -1,0 +1,1633 @@
+window.DL_ARTICLES = {
+  "_comment": "Articles multilingues pour la rubrique Actualites. Ajouter linkedinUrl apres publication du post LinkedIn.",
+  "articles": [
+    {
+      "id": "retail-discreet-allies",
+      "date": "2025-11-15",
+      "category": {
+        "fr": "Retail",
+        "en": "Retail",
+        "nl": "Retail"
+      },
+      "title": {
+        "fr": "Les meilleurs alliés discrets de la grande distribution",
+        "en": "Retail’s best discreet allies",
+        "nl": "De beste stille bondgenoten van de retail"
+      },
+      "excerpt": {
+        "fr": "Conservateurs, colorants et arômes naturels sont souvent critiqués, mais ils jouent un rôle essentiel dans la sécurité, la qualité et l’accessibilité alimentaires.",
+        "en": "Preservatives, colours and natural flavours are often criticised, yet they play an essential role in food safety, quality and accessibility.",
+        "nl": "Conserveermiddelen, kleurstoffen en natuurlijke aroma’s worden vaak bekritiseerd, maar ze spelen een essentiële rol in voedselveiligheid, kwaliteit en toegankelijkheid."
+      },
+      "linkedinUrl": "",
+      "body": {
+        "fr": [
+          {
+            "type": "p",
+            "text": "Derrière les discours sur le “mieux manger”, la grande distribution repose sur des acteurs souvent critiqués mais essentiels : les conservateurs, les colorants et les arômes naturels. Loin d’être des ennemis, ils permettent de garantir sécurité, qualité et accessibilité des produits alimentaires."
+          },
+          {
+            "type": "h2",
+            "text": "Le rôle clé des conservateurs"
+          },
+          {
+            "type": "p",
+            "text": "Les conservateurs assurent la sécurité microbiologique des aliments et prolongent leur durée de vie. Sans eux :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "les produits se détérioreraient rapidement",
+              "les risques sanitaires augmenteraient",
+              "le gaspillage alimentaire exploserait"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ils sont indispensables à notre mode de consommation moderne."
+          },
+          {
+            "type": "h2",
+            "text": "Le rôle des colorants"
+          },
+          {
+            "type": "p",
+            "text": "Le consommateur mange d’abord avec les yeux. Les colorants permettent de maintenir une apparence constante malgré les variations naturelles des matières premières et les contraintes logistiques. Sans eux, de nombreux produits perdraient en attractivité."
+          },
+          {
+            "type": "h2",
+            "text": "Le rôle des arômes naturels"
+          },
+          {
+            "type": "p",
+            "text": "Avec l’industrialisation et les contraintes agricoles, les aliments perdent parfois en intensité gustative. Les arômes naturels permettent de restituer le goût attendu sans remplacer la matière première."
+          },
+          {
+            "type": "h2",
+            "text": "Un équilibre nécessaire"
+          },
+          {
+            "type": "p",
+            "text": "Supprimer ces ingrédients entraînerait :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "une forte réduction de la durée de vie des produits",
+              "des prix plus élevés",
+              "une variabilité importante en goût et en aspect",
+              "une hausse du gaspillage alimentaire"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "La réalité est faite de compromis entre sécurité, qualité, coût et logistique."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Les conservateurs, colorants et arômes naturels ne sont pas des ennemis, mais des outils. L’enjeu n’est pas de les supprimer, mais de les utiliser avec discernement."
+          },
+          {
+            "type": "p",
+            "text": "Une approche équilibrée, basée sur la science et la transparence, est essentielle pour concilier santé publique, accessibilité et durabilité alimentaire."
+          }
+        ],
+        "en": [
+          {
+            "type": "p",
+            "text": "Behind the rhetoric around “eating better”, modern retail relies on players that are often criticised yet essential: preservatives, colours and natural flavours. Far from being enemies, they help guarantee food safety, product quality and accessibility."
+          },
+          {
+            "type": "h2",
+            "text": "The key role of preservatives"
+          },
+          {
+            "type": "p",
+            "text": "Preservatives protect the microbiological safety of food and extend shelf life. Without them:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "products would deteriorate rapidly",
+              "health risks would increase",
+              "food waste would rise dramatically"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "They are indispensable to the way modern food supply works."
+          },
+          {
+            "type": "h2",
+            "text": "The role of colours"
+          },
+          {
+            "type": "p",
+            "text": "Consumers eat first with their eyes. Colours help maintain a consistent appearance despite natural variations in raw materials and logistical constraints. Without them, many products would lose much of their appeal."
+          },
+          {
+            "type": "h2",
+            "text": "The role of natural flavours"
+          },
+          {
+            "type": "p",
+            "text": "With industrialisation and agricultural constraints, foods can sometimes lose flavour intensity. Natural flavours help restore the taste consumers expect without replacing the raw material itself."
+          },
+          {
+            "type": "h2",
+            "text": "A necessary balance"
+          },
+          {
+            "type": "p",
+            "text": "Removing these ingredients would lead to:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "a major reduction in product shelf life",
+              "higher prices",
+              "greater variability in taste and appearance",
+              "more food waste"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The reality of food production is built on trade-offs between safety, quality, cost and logistics."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Preservatives, colours and natural flavours are not enemies; they are tools. The issue is not to eliminate them, but to use them with discernment."
+          },
+          {
+            "type": "p",
+            "text": "A balanced approach, grounded in science and transparency, is essential to reconcile public health, accessibility and food sustainability."
+          }
+        ],
+        "nl": [
+          {
+            "type": "p",
+            "text": "Achter het discours over “beter eten” steunt de moderne retail op actoren die vaak bekritiseerd worden, maar essentieel zijn: conserveermiddelen, kleurstoffen en natuurlijke aroma’s. Ze zijn geen vijanden, maar helpen voedselveiligheid, kwaliteit en toegankelijkheid te garanderen."
+          },
+          {
+            "type": "h2",
+            "text": "De sleutelrol van conserveermiddelen"
+          },
+          {
+            "type": "p",
+            "text": "Conserveermiddelen waarborgen de microbiologische veiligheid van voedingsmiddelen en verlengen hun houdbaarheid. Zonder hen:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "zouden producten snel bederven",
+              "zouden gezondheidsrisico’s toenemen",
+              "zou voedselverspilling sterk stijgen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ze zijn onmisbaar voor onze moderne manier van consumeren."
+          },
+          {
+            "type": "h2",
+            "text": "De rol van kleurstoffen"
+          },
+          {
+            "type": "p",
+            "text": "De consument eet eerst met de ogen. Kleurstoffen helpen een constante uitstraling te behouden ondanks natuurlijke variaties in grondstoffen en logistieke beperkingen. Zonder kleurstoffen zouden veel producten minder aantrekkelijk worden."
+          },
+          {
+            "type": "h2",
+            "text": "De rol van natuurlijke aroma’s"
+          },
+          {
+            "type": "p",
+            "text": "Door industrialisering en landbouwkundige beperkingen verliezen voedingsmiddelen soms aan smaakintensiteit. Natuurlijke aroma’s helpen de verwachte smaak terug te brengen zonder de grondstof te vervangen."
+          },
+          {
+            "type": "h2",
+            "text": "Een noodzakelijk evenwicht"
+          },
+          {
+            "type": "p",
+            "text": "Het schrappen van deze ingrediënten zou leiden tot:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "een sterke vermindering van de houdbaarheid",
+              "hogere prijzen",
+              "meer variatie in smaak en uiterlijk",
+              "meer voedselverspilling"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "De realiteit bestaat uit compromissen tussen veiligheid, kwaliteit, kostprijs en logistiek."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusie"
+          },
+          {
+            "type": "p",
+            "text": "Conserveermiddelen, kleurstoffen en natuurlijke aroma’s zijn geen vijanden, maar hulpmiddelen. De uitdaging is niet om ze te verwijderen, maar om ze met onderscheidingsvermogen te gebruiken."
+          },
+          {
+            "type": "p",
+            "text": "Een evenwichtige aanpak, gebaseerd op wetenschap en transparantie, is essentieel om volksgezondheid, toegankelijkheid en duurzame voeding met elkaar te verzoenen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "natural-preservation-fermentation",
+      "date": "2025-12-15",
+      "category": {
+        "fr": "Conservation",
+        "en": "Preservation",
+        "nl": "Conservering"
+      },
+      "title": {
+        "fr": "La conservation de demain sera naturelle",
+        "en": "Tomorrow’s preservation will be natural",
+        "nl": "De conservering van morgen wordt natuurlijk"
+      },
+      "excerpt": {
+        "fr": "Face à la demande clean label, les solutions issues de la fermentation ouvrent une nouvelle génération de bioconservation performante.",
+        "en": "As clean-label demand grows, fermentation-derived solutions are opening a new generation of effective biopreservation.",
+        "nl": "Door de groeiende vraag naar clean label openen fermentatie-oplossingen een nieuwe generatie performante bioconservering."
+      },
+      "linkedinUrl": "",
+      "body": {
+        "fr": [
+          {
+            "type": "p",
+            "text": "Face à la demande croissante de produits “clean label”, l’industrie agroalimentaire doit concilier naturalité, sécurité et performance. La conservation reste un enjeu clé pour garantir la sécurité microbiologique, limiter le gaspillage et préserver la qualité des aliments."
+          },
+          {
+            "type": "p",
+            "text": "Aujourd’hui, les solutions issues de la fermentation s’imposent comme une alternative prometteuse aux conservateurs traditionnels."
+          },
+          {
+            "type": "h2",
+            "text": "La fermentation : une technologie réinventée"
+          },
+          {
+            "type": "p",
+            "text": "Utilisée depuis des siècles, la fermentation repose sur l’action de micro-organismes produisant naturellement des composés antimicrobiens, comme des acides organiques, peptides et métabolites."
+          },
+          {
+            "type": "p",
+            "text": "Ces mécanismes sont aujourd’hui exploités de manière contrôlée dans des systèmes de bioconservation modernes."
+          },
+          {
+            "type": "h2",
+            "text": "Les nouvelles solutions naturelles"
+          },
+          {
+            "type": "p",
+            "text": "Plusieurs approches se développent :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "les fermentats : ingrédients naturels obtenus par fermentation, capables de remplacer certains conservateurs",
+              "les cultures protectrices : micro-organismes bénéfiques qui inhibent les bactéries indésirables",
+              "les peptides antimicrobiens, comme la nisine, pour une protection ciblée contre certains pathogènes"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ces solutions offrent une action combinée, renforçant leur efficacité microbiologique."
+          },
+          {
+            "type": "h2",
+            "text": "Une approche par combinaison"
+          },
+          {
+            "type": "p",
+            "text": "Contrairement aux conservateurs classiques, la conservation naturelle repose sur la combinaison de plusieurs leviers :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "pH",
+              "activité de l’eau",
+              "ingrédients fermentés",
+              "conditions de stockage",
+              "emballage"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Cette “technologie des barrières” permet d’assurer une sécurité optimale tout en simplifiant l’étiquetage."
+          },
+          {
+            "type": "h2",
+            "text": "Applications industrielles"
+          },
+          {
+            "type": "p",
+            "text": "Ces solutions trouvent des applications dans de nombreux segments :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "sauces et condiments",
+              "produits panés et snacks",
+              "plats préparés",
+              "produits carnés"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Elles peuvent être intégrées directement dans les formulations ou dans des systèmes fonctionnels comme les coatings."
+          },
+          {
+            "type": "h2",
+            "text": "Un enjeu R&D majeur"
+          },
+          {
+            "type": "p",
+            "text": "La mise en œuvre de ces technologies nécessite une approche sur mesure, adaptée à chaque matrice alimentaire. Elle implique une collaboration étroite entre R&D, microbiologie et technologie alimentaire."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "La conservation naturelle ne se limite pas à remplacer des additifs, mais transforme en profondeur la formulation des aliments."
+          },
+          {
+            "type": "p",
+            "text": "Les solutions issues de la fermentation représentent une nouvelle génération d’ingrédients capables de répondre aux enjeux de sécurité, de naturalité et de performance industrielle."
+          },
+          {
+            "type": "p",
+            "text": "Une évolution majeure pour l’industrie alimentaire de demain."
+          }
+        ],
+        "en": [
+          {
+            "type": "p",
+            "text": "Faced with growing demand for clean-label products, the food industry must reconcile naturality, safety and performance. Preservation remains a key challenge: it protects microbiological safety, reduces waste and preserves food quality."
+          },
+          {
+            "type": "p",
+            "text": "Today, fermentation-derived solutions are emerging as a promising alternative to traditional preservatives."
+          },
+          {
+            "type": "h2",
+            "text": "Fermentation: a reinvented technology"
+          },
+          {
+            "type": "p",
+            "text": "Used for centuries, fermentation relies on micro-organisms that naturally produce antimicrobial compounds such as organic acids, peptides and metabolites."
+          },
+          {
+            "type": "p",
+            "text": "These mechanisms are now being harnessed in a controlled way within modern biopreservation systems."
+          },
+          {
+            "type": "h2",
+            "text": "New natural solutions"
+          },
+          {
+            "type": "p",
+            "text": "Several approaches are developing:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "fermentates: natural ingredients obtained through fermentation that can replace some preservatives",
+              "protective cultures: beneficial micro-organisms that inhibit unwanted bacteria",
+              "antimicrobial peptides, such as nisin, for targeted protection against specific pathogens"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These solutions provide combined action, strengthening microbiological efficacy."
+          },
+          {
+            "type": "h2",
+            "text": "A combined approach"
+          },
+          {
+            "type": "p",
+            "text": "Unlike conventional preservatives, natural preservation relies on combining several levers:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "pH",
+              "water activity",
+              "fermented ingredients",
+              "storage conditions",
+              "packaging"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "This “hurdle technology” helps ensure optimal safety while simplifying labelling."
+          },
+          {
+            "type": "h2",
+            "text": "Industrial applications"
+          },
+          {
+            "type": "p",
+            "text": "These solutions are relevant across many segments:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "sauces and condiments",
+              "breaded products and snacks",
+              "ready meals",
+              "meat products"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "They can be integrated directly into formulations or into functional systems such as coatings."
+          },
+          {
+            "type": "h2",
+            "text": "A major R&D challenge"
+          },
+          {
+            "type": "p",
+            "text": "Implementing these technologies requires a tailored approach adapted to each food matrix. It also calls for close collaboration between R&D, microbiology and food technology teams."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Natural preservation is not simply about replacing additives; it is reshaping food formulation in depth."
+          },
+          {
+            "type": "p",
+            "text": "Fermentation-derived solutions represent a new generation of ingredients able to meet the challenges of safety, naturality and industrial performance."
+          },
+          {
+            "type": "p",
+            "text": "A major evolution for the food industry of tomorrow."
+          }
+        ],
+        "nl": [
+          {
+            "type": "p",
+            "text": "Door de groeiende vraag naar clean-labelproducten moet de voedingsindustrie natuurlijkheid, veiligheid en prestaties met elkaar verzoenen. Conservering blijft een sleuteluitdaging om microbiologische veiligheid te waarborgen, verspilling te beperken en kwaliteit te behouden."
+          },
+          {
+            "type": "p",
+            "text": "Vandaag ontwikkelen oplossingen op basis van fermentatie zich tot een veelbelovend alternatief voor traditionele conserveermiddelen."
+          },
+          {
+            "type": "h2",
+            "text": "Fermentatie: een heruitgevonden technologie"
+          },
+          {
+            "type": "p",
+            "text": "Fermentatie wordt al eeuwen gebruikt en steunt op micro-organismen die van nature antimicrobiële verbindingen produceren, zoals organische zuren, peptiden en metabolieten."
+          },
+          {
+            "type": "p",
+            "text": "Deze mechanismen worden nu gecontroleerd toegepast in moderne systemen voor bioconservering."
+          },
+          {
+            "type": "h2",
+            "text": "Nieuwe natuurlijke oplossingen"
+          },
+          {
+            "type": "p",
+            "text": "Meerdere benaderingen ontwikkelen zich:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "fermentaten: natuurlijke ingrediënten verkregen via fermentatie die bepaalde conserveermiddelen kunnen vervangen",
+              "beschermende culturen: nuttige micro-organismen die ongewenste bacteriën remmen",
+              "antimicrobiële peptiden, zoals nisine, voor gerichte bescherming tegen bepaalde pathogenen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deze oplossingen combineren verschillende werkingen en versterken zo hun microbiologische doeltreffendheid."
+          },
+          {
+            "type": "h2",
+            "text": "Een gecombineerde aanpak"
+          },
+          {
+            "type": "p",
+            "text": "In tegenstelling tot klassieke conserveermiddelen steunt natuurlijke conservering op de combinatie van verschillende hefbomen:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "pH",
+              "wateractiviteit",
+              "gefermenteerde ingrediënten",
+              "bewaarcondities",
+              "verpakking"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deze “hurdle technology” maakt optimale veiligheid mogelijk terwijl de etikettering eenvoudiger wordt."
+          },
+          {
+            "type": "h2",
+            "text": "Industriële toepassingen"
+          },
+          {
+            "type": "p",
+            "text": "Deze oplossingen zijn inzetbaar in veel segmenten:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "sauzen en condimenten",
+              "gepaneerde producten en snacks",
+              "kant-en-klaarmaaltijden",
+              "vleesproducten"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ze kunnen rechtstreeks in formuleringen worden geïntegreerd of in functionele systemen zoals coatings."
+          },
+          {
+            "type": "h2",
+            "text": "Een grote R&D-uitdaging"
+          },
+          {
+            "type": "p",
+            "text": "De toepassing van deze technologieën vereist maatwerk, aangepast aan elke voedingsmatrix. Ze vraagt ook nauwe samenwerking tussen R&D, microbiologie en voedingstechnologie."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusie"
+          },
+          {
+            "type": "p",
+            "text": "Natuurlijke conservering beperkt zich niet tot het vervangen van additieven, maar verandert de formulering van voedingsmiddelen fundamenteel."
+          },
+          {
+            "type": "p",
+            "text": "Oplossingen uit fermentatie vormen een nieuwe generatie ingrediënten die inspelen op veiligheid, natuurlijkheid en industriële prestaties."
+          },
+          {
+            "type": "p",
+            "text": "Een belangrijke evolutie voor de voedingsindustrie van morgen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "masking-agents-sensory-performance",
+      "date": "2026-01-15",
+      "category": {
+        "fr": "Sensoriel",
+        "en": "Sensory",
+        "nl": "Sensoriek"
+      },
+      "title": {
+        "fr": "Les agents masquants : un levier clé de la performance sensorielle",
+        "en": "Masking agents: a key lever for sensory performance",
+        "nl": "Maskerende agentia: een sleutelhefboom voor sensorische prestaties"
+      },
+      "excerpt": {
+        "fr": "Amertume, astringence, notes métalliques : les agents masquants corrigent les défauts sensoriels sans dénaturer le produit.",
+        "en": "Bitterness, astringency, metallic notes: masking agents correct sensory defects without distorting the product.",
+        "nl": "Bitterheid, astringentie, metaalachtige tonen: maskerende agentia corrigeren sensorische afwijkingen zonder het product te vervormen."
+      },
+      "linkedinUrl": "",
+      "body": {
+        "fr": [
+          {
+            "type": "p",
+            "text": "Dans l’industrie agroalimentaire, certains ingrédients ou procédés génèrent des goûts indésirables : amertume, astringence, notes métalliques. Les agents masquants, principalement sous forme d’arômes, permettent de corriger ces défauts et d’améliorer l’acceptabilité des produits."
+          },
+          {
+            "type": "h2",
+            "text": "Comment fonctionnent les agents masquants ?"
+          },
+          {
+            "type": "p",
+            "text": "Le masquage repose sur plusieurs mécanismes :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "suppression : réduction directe de la perception de l’amertume",
+              "distraction : un arôme dominant détourne l’attention sensorielle",
+              "synergie : renforcement de certaines perceptions, comme le sucré ou l’umami"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ces effets résultent d’interactions entre goût, odorat et sensations trigéminales."
+          },
+          {
+            "type": "h2",
+            "text": "Les principales solutions"
+          },
+          {
+            "type": "p",
+            "text": "Plusieurs types d’ingrédients sont utilisés :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "arômes sucrés, fruités, épicés ou umami",
+              "extraits végétaux, comme la réglisse, la stevia ou les huiles essentielles",
+              "composés bloquants spécifiques des récepteurs gustatifs"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les technologies d’encapsulation permettent également une libération contrôlée, améliorant l’efficacité du masquage dans le temps."
+          },
+          {
+            "type": "h2",
+            "text": "Stratégies de formulation"
+          },
+          {
+            "type": "p",
+            "text": "Une approche combinée est souvent nécessaire :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "association de plusieurs arômes pour créer une synergie",
+              "adaptation de la texture avec épaississants ou émulsifiants",
+              "ajustement du pH et de la matrice alimentaire"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "L’objectif est d’obtenir un équilibre sensoriel sans altérer le profil global du produit."
+          },
+          {
+            "type": "h2",
+            "text": "Applications et enjeux"
+          },
+          {
+            "type": "p",
+            "text": "Les agents masquants sont essentiels pour :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "les protéines végétales, afin de réduire l’amertume",
+              "les produits sans sucre",
+              "les aliments fonctionnels et compléments"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ils répondent également aux exigences croissantes en matière de naturalité et de clean label."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Les agents masquants ne sont pas de simples correcteurs de goût, mais des outils stratégiques de formulation. Bien utilisés, ils permettent d’améliorer significativement la qualité sensorielle tout en respectant les contraintes industrielles, réglementaires et marketing."
+          },
+          {
+            "type": "p",
+            "text": "Une approche scientifique et multidisciplinaire est essentielle pour optimiser leur efficacité et développer des produits compétitifs."
+          }
+        ],
+        "en": [
+          {
+            "type": "p",
+            "text": "In the food industry, some ingredients or processes generate undesirable tastes: bitterness, astringency or metallic notes. Masking agents, mainly used in flavour systems, help correct these defects and improve product acceptability."
+          },
+          {
+            "type": "h2",
+            "text": "How do masking agents work?"
+          },
+          {
+            "type": "p",
+            "text": "Masking is based on several mechanisms:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "suppression: directly reducing the perception of bitterness",
+              "distraction: a dominant flavour redirects sensory attention",
+              "synergy: strengthening certain perceptions, such as sweetness or umami"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These effects result from interactions between taste, smell and trigeminal sensations."
+          },
+          {
+            "type": "h2",
+            "text": "The main solutions"
+          },
+          {
+            "type": "p",
+            "text": "Several types of ingredients are used:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "sweet, fruity, spicy or umami flavours",
+              "plant extracts such as liquorice, stevia or essential oils",
+              "specific compounds that block taste receptors"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Encapsulation technologies can also provide controlled release, improving masking efficacy over time."
+          },
+          {
+            "type": "h2",
+            "text": "Formulation strategies"
+          },
+          {
+            "type": "p",
+            "text": "A combined approach is often required:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "combining several flavours to create synergy",
+              "adapting texture through thickeners or emulsifiers",
+              "adjusting pH and the food matrix"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The aim is to achieve sensory balance without altering the overall profile of the product."
+          },
+          {
+            "type": "h2",
+            "text": "Applications and challenges"
+          },
+          {
+            "type": "p",
+            "text": "Masking agents are essential for:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "plant proteins, to reduce bitterness",
+              "sugar-free products",
+              "functional foods and supplements"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "They also respond to growing expectations around naturality and clean label."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Masking agents are not merely taste correctors; they are strategic formulation tools. Used well, they can significantly improve sensory quality while meeting industrial, regulatory and marketing constraints."
+          },
+          {
+            "type": "p",
+            "text": "A scientific and multidisciplinary approach is essential to optimise their efficacy and develop competitive products."
+          }
+        ],
+        "nl": [
+          {
+            "type": "p",
+            "text": "In de voedingsindustrie veroorzaken sommige ingrediënten of processen ongewenste smaken: bitterheid, astringentie of metaalachtige tonen. Maskerende agentia, meestal in de vorm van aroma’s, helpen deze defecten te corrigeren en de acceptatie van producten te verbeteren."
+          },
+          {
+            "type": "h2",
+            "text": "Hoe werken maskerende agentia?"
+          },
+          {
+            "type": "p",
+            "text": "Maskering steunt op verschillende mechanismen:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "onderdrukking: directe vermindering van de perceptie van bitterheid",
+              "afleiding: een dominant aroma leidt de sensorische aandacht af",
+              "synergie: versterking van bepaalde percepties, zoals zoet of umami"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deze effecten ontstaan uit interacties tussen smaak, geur en trigeminale sensaties."
+          },
+          {
+            "type": "h2",
+            "text": "De belangrijkste oplossingen"
+          },
+          {
+            "type": "p",
+            "text": "Meerdere types ingrediënten worden gebruikt:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "zoete, fruitige, kruidige of umami-aroma’s",
+              "plantenextracten zoals zoethout, stevia of etherische oliën",
+              "specifieke verbindingen die smaakreceptoren blokkeren"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Encapsulatietechnologieën maken ook gecontroleerde vrijgave mogelijk, waardoor de maskering in de tijd efficiënter wordt."
+          },
+          {
+            "type": "h2",
+            "text": "Formulatiestrategieën"
+          },
+          {
+            "type": "p",
+            "text": "Vaak is een gecombineerde aanpak nodig:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "combinatie van meerdere aroma’s om synergie te creëren",
+              "aanpassing van textuur met verdikkingsmiddelen of emulgatoren",
+              "bijsturing van pH en voedingsmatrix"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Het doel is een sensorisch evenwicht te bereiken zonder het globale productprofiel te wijzigen."
+          },
+          {
+            "type": "h2",
+            "text": "Toepassingen en uitdagingen"
+          },
+          {
+            "type": "p",
+            "text": "Maskerende agentia zijn essentieel voor:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "plantaardige eiwitten, om bitterheid te verminderen",
+              "suikervrije producten",
+              "functionele voedingsmiddelen en supplementen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ze beantwoorden ook aan groeiende eisen rond natuurlijkheid en clean label."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusie"
+          },
+          {
+            "type": "p",
+            "text": "Maskerende agentia zijn geen eenvoudige smaakcorrectoren, maar strategische formulatie-instrumenten. Goed gebruikt verbeteren ze de sensorische kwaliteit aanzienlijk, met respect voor industriële, regelgevende en marketingbeperkingen."
+          },
+          {
+            "type": "p",
+            "text": "Een wetenschappelijke en multidisciplinaire aanpak is essentieel om hun doeltreffendheid te optimaliseren en competitieve producten te ontwikkelen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coatings-21st-century",
+      "date": "2026-02-15",
+      "category": {
+        "fr": "Technologie",
+        "en": "Technology",
+        "nl": "Technologie"
+      },
+      "title": {
+        "fr": "Les coatings au XXIᵉ siècle : un levier technologique clé",
+        "en": "Coatings in the 21st century: a key technological lever",
+        "nl": "Coatings in de 21e eeuw: een technologische sleutelhefboom"
+      },
+      "excerpt": {
+        "fr": "Les systèmes d’enrobage pour frites sont devenus des solutions technologiques qui optimisent texture, sécurité, huile et performance industrielle.",
+        "en": "Coating systems for fries have become technological solutions that optimise texture, safety, oil management and industrial performance.",
+        "nl": "Coatingsystemen voor frieten zijn technologische oplossingen geworden die textuur, veiligheid, oliebeheer en industriële prestaties optimaliseren."
+      },
+      "linkedinUrl": "",
+      "body": {
+        "fr": [
+          {
+            "type": "p",
+            "text": "Les systèmes d’enrobage pour frites ont fortement évolué. D’ingrédients simples, ils sont devenus des solutions technologiques essentielles pour améliorer la qualité produit, l’efficacité industrielle et la sécurité des opérations de friture."
+          },
+          {
+            "type": "p",
+            "text": "Aujourd’hui, les industriels attendent des coatings capables de garantir une texture constante, une croustillance prolongée, une absorption d’huile maîtrisée et des process plus sûrs."
+          },
+          {
+            "type": "h2",
+            "text": "Trois leviers clés de performance"
+          },
+          {
+            "type": "p",
+            "text": "La performance des coatings modernes repose sur trois paramètres majeurs :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "la maîtrise de la viscosité",
+              "l’optimisation du pickup, c’est-à-dire la quantité d’enrobage",
+              "la réduction des particules dans l’huile"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ces avancées sont rendues possibles grâce à des combinaisons d’amidons fonctionnels et de fibres alimentaires."
+          },
+          {
+            "type": "h2",
+            "text": "Un rôle central dans la qualité produit"
+          },
+          {
+            "type": "p",
+            "text": "Le coating agit comme une barrière entre la pomme de terre et l’huile, permettant :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "une réduction de l’absorption d’huile",
+              "une croustillance durable",
+              "une meilleure tenue en température",
+              "une stabilité pendant le service"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Il influence également la coloration et certains paramètres critiques comme la formation d’acrylamide."
+          },
+          {
+            "type": "h2",
+            "text": "Viscosité et pickup : au cœur de la performance"
+          },
+          {
+            "type": "p",
+            "text": "La viscosité du bain d’enrobage est déterminante :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "trop faible : coating irrégulier",
+              "trop élevée : surconsommation et défauts"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Le pickup conditionne directement la performance en friture et la régularité du produit final. Sa maîtrise permet une meilleure homogénéité, tant visuelle que sensorielle."
+          },
+          {
+            "type": "h2",
+            "text": "Sécurité et efficacité industrielle"
+          },
+          {
+            "type": "p",
+            "text": "Les coatings modernes permettent de limiter les particules dans l’huile, ce qui :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "prolonge la durée de vie de l’huile",
+              "réduit les opérations de maintenance",
+              "améliore la constance produit",
+              "diminue les risques liés à la friture"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Une huile plus propre contribue également à la sécurité des installations."
+          },
+          {
+            "type": "h2",
+            "text": "Vers une nouvelle génération de coatings"
+          },
+          {
+            "type": "p",
+            "text": "Les coatings actuels permettent d’obtenir des frites plus croustillantes, plus stables et mieux adaptées aux contraintes du foodservice et de la livraison."
+          },
+          {
+            "type": "p",
+            "text": "Ils ouvrent également la voie à des améliorations nutritionnelles, notamment via la réduction de l’absorption d’huile et l’intégration de fibres."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Les coatings ne sont plus de simples ingrédients, mais de véritables solutions technologiques. Leur conception nécessite une approche globale intégrant formulation, process et sécurité."
+          },
+          {
+            "type": "p",
+            "text": "Bien maîtrisés, ils permettent d’optimiser simultanément qualité produit, performance industrielle et sécurité."
+          }
+        ],
+        "en": [
+          {
+            "type": "p",
+            "text": "Coating systems for fries have evolved significantly. From simple ingredients, they have become essential technological solutions for improving product quality, industrial efficiency and the safety of frying operations."
+          },
+          {
+            "type": "p",
+            "text": "Today, manufacturers expect coatings to deliver consistent texture, prolonged crispiness, controlled oil absorption and safer processes."
+          },
+          {
+            "type": "h2",
+            "text": "Three key performance levers"
+          },
+          {
+            "type": "p",
+            "text": "The performance of modern coatings depends on three major parameters:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "control of viscosity",
+              "optimisation of pickup, meaning the amount of coating applied",
+              "reduction of particles in the oil"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These advances are made possible by combinations of functional starches and dietary fibres."
+          },
+          {
+            "type": "h2",
+            "text": "A central role in product quality"
+          },
+          {
+            "type": "p",
+            "text": "The coating acts as a barrier between the potato and the oil, enabling:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "reduced oil absorption",
+              "long-lasting crispiness",
+              "better heat holding",
+              "stability during service"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It also influences colour and certain critical parameters such as acrylamide formation."
+          },
+          {
+            "type": "h2",
+            "text": "Viscosity and pickup: at the heart of performance"
+          },
+          {
+            "type": "p",
+            "text": "The viscosity of the coating bath is decisive:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "too low: irregular coating",
+              "too high: overconsumption and defects"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pickup directly determines frying performance and the consistency of the final product. Controlling it improves both visual and sensory homogeneity."
+          },
+          {
+            "type": "h2",
+            "text": "Safety and industrial efficiency"
+          },
+          {
+            "type": "p",
+            "text": "Modern coatings help reduce particles in the oil, which:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "extends oil life",
+              "reduces maintenance operations",
+              "improves product consistency",
+              "reduces frying-related risks"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Cleaner oil also contributes to safer installations."
+          },
+          {
+            "type": "h2",
+            "text": "Towards a new generation of coatings"
+          },
+          {
+            "type": "p",
+            "text": "Today’s coatings make it possible to produce fries that are crispier, more stable and better suited to the demands of foodservice and delivery."
+          },
+          {
+            "type": "p",
+            "text": "They also open the door to nutritional improvements, particularly through reduced oil absorption and the integration of fibres."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Coatings are no longer simple ingredients; they are true technological solutions. Designing them requires a global approach that integrates formulation, process and safety."
+          },
+          {
+            "type": "p",
+            "text": "When well controlled, they optimise product quality, industrial performance and safety at the same time."
+          }
+        ],
+        "nl": [
+          {
+            "type": "p",
+            "text": "Coatingsystemen voor frieten zijn sterk geëvolueerd. Van eenvoudige ingrediënten zijn ze uitgegroeid tot essentiële technologische oplossingen om productkwaliteit, industriële efficiëntie en veiligheid van frituurprocessen te verbeteren."
+          },
+          {
+            "type": "p",
+            "text": "Vandaag verwachten producenten coatings die een constante textuur, langdurige krokantheid, gecontroleerde olieopname en veiligere processen garanderen."
+          },
+          {
+            "type": "h2",
+            "text": "Drie belangrijke prestatiehefbomen"
+          },
+          {
+            "type": "p",
+            "text": "De prestaties van moderne coatings steunen op drie grote parameters:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "controle van viscositeit",
+              "optimalisatie van pickup, de hoeveelheid aangebrachte coating",
+              "vermindering van deeltjes in de olie"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Deze vooruitgang is mogelijk dankzij combinaties van functionele zetmelen en voedingsvezels."
+          },
+          {
+            "type": "h2",
+            "text": "Een centrale rol in productkwaliteit"
+          },
+          {
+            "type": "p",
+            "text": "De coating werkt als een barrière tussen de aardappel en de olie, waardoor:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "olieopname wordt verminderd",
+              "krokantheid langer behouden blijft",
+              "het product beter warm blijft",
+              "stabiliteit tijdens service verbetert"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ze beïnvloedt ook de kleur en kritische parameters zoals de vorming van acrylamide."
+          },
+          {
+            "type": "h2",
+            "text": "Viscositeit en pickup: kern van de prestaties"
+          },
+          {
+            "type": "p",
+            "text": "De viscositeit van het coatingbad is bepalend:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "te laag: onregelmatige coating",
+              "te hoog: oververbruik en defecten"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Pickup bepaalt rechtstreeks de frituurprestaties en de regelmaat van het eindproduct. Een goede beheersing verbetert zowel visuele als sensorische homogeniteit."
+          },
+          {
+            "type": "h2",
+            "text": "Veiligheid en industriële efficiëntie"
+          },
+          {
+            "type": "p",
+            "text": "Moderne coatings beperken deeltjes in de olie, wat:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "de levensduur van de olie verlengt",
+              "onderhoud vermindert",
+              "productconstantheid verbetert",
+              "risico’s rond frituren verlaagt"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Schonere olie draagt ook bij aan veiligere installaties."
+          },
+          {
+            "type": "h2",
+            "text": "Naar een nieuwe generatie coatings"
+          },
+          {
+            "type": "p",
+            "text": "Huidige coatings maken frieten mogelijk die krokanter, stabieler en beter aangepast zijn aan foodservice en levering."
+          },
+          {
+            "type": "p",
+            "text": "Ze openen ook de weg naar nutritionele verbeteringen, met name via verminderde olieopname en de integratie van vezels."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusie"
+          },
+          {
+            "type": "p",
+            "text": "Coatings zijn geen eenvoudige ingrediënten meer, maar echte technologische oplossingen. Hun ontwerp vraagt een globale aanpak die formulatie, proces en veiligheid integreert."
+          },
+          {
+            "type": "p",
+            "text": "Goed beheerst optimaliseren ze tegelijk productkwaliteit, industriële prestaties en veiligheid."
+          }
+        ]
+      }
+    },
+    {
+      "id": "new-inquisitors-e-numbers",
+      "date": "2026-03-15",
+      "category": {
+        "fr": "Tribune",
+        "en": "Opinion",
+        "nl": "Opinie"
+      },
+      "title": {
+        "fr": "Les nouveaux inquisiteurs : entre peur des “E” et perte de discernement",
+        "en": "The new inquisitors: fear of “E numbers” and the loss of discernment",
+        "nl": "De nieuwe inquisiteurs: angst voor E-nummers en verlies van onderscheidingsvermogen"
+      },
+      "excerpt": {
+        "fr": "Le rejet systématique des additifs masque une réalité plus complexe : sécurité, dose, fonction et maîtrise scientifique.",
+        "en": "The systematic rejection of additives hides a more complex reality: safety, dose, function and scientific control.",
+        "nl": "De systematische afwijzing van additieven verbergt een complexere realiteit: veiligheid, dosis, functie en wetenschappelijke beheersing."
+      },
+      "linkedinUrl": "",
+      "body": {
+        "fr": [
+          {
+            "type": "p",
+            "text": "Depuis quelques années, un tribunal populaire s’est installé dans nos assiettes. Les additifs, et notamment les fameux numéros E, sont devenus des coupables désignés, souvent sans nuance. Être « chimique » suffit désormais à être perçu comme dangereux."
+          },
+          {
+            "type": "p",
+            "text": "Pourtant, cette vision simpliste masque une réalité bien plus complexe."
+          },
+          {
+            "type": "h2",
+            "text": "Le mythe du “sans”"
+          },
+          {
+            "type": "p",
+            "text": "Le marché valorise les produits “sans” : sans additifs, sans conservateurs, sans transformation. Mais ces mentions marketing ne disent rien de concret sur la qualité réelle d’un produit."
+          },
+          {
+            "type": "p",
+            "text": "Car tout est chimie. La vitamine C, E300, le bicarbonate, E500, ou encore la lécithine, E322, sont naturels… et pourtant classés comme additifs. Un numéro E ne signifie pas danger, mais validation par des autorités sanitaires européennes."
+          },
+          {
+            "type": "h2",
+            "text": "Naturel vs chimique : un faux débat"
+          },
+          {
+            "type": "p",
+            "text": "Opposer “naturel” et “chimique” n’a pas de sens. Certaines substances naturelles sont hautement toxiques, tandis que des composés synthétiques sont sûrs et maîtrisés."
+          },
+          {
+            "type": "p",
+            "text": "La sécurité alimentaire repose sur trois piliers essentiels :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "la dose",
+              "la fonction",
+              "la maîtrise scientifique"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "L’exemple des nitrites"
+          },
+          {
+            "type": "p",
+            "text": "Les nitrites ont permis de sécuriser les produits carnés en luttant contre des bactéries dangereuses comme le botulisme. Toutefois, une consommation excessive est aujourd’hui associée à des risques accrus de cancer colorectal."
+          },
+          {
+            "type": "p",
+            "text": "Face à cela, l’industrie a évolué et cherche des alternatives, même si celles-ci nécessitent encore du recul scientifique."
+          },
+          {
+            "type": "h2",
+            "text": "Le rôle essentiel des additifs"
+          },
+          {
+            "type": "p",
+            "text": "Utilisés intelligemment, les additifs permettent :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "d’assurer la sécurité microbiologique",
+              "d’améliorer la conservation",
+              "de stabiliser les textures",
+              "de réduire le gaspillage alimentaire",
+              "parfois de diminuer sel, sucre ou matières grasses"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Les supprimer sans réflexion peut entraîner :"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "une hausse des prix",
+              "une réduction de la durée de vie des produits",
+              "plus de gaspillage",
+              "davantage de risques sanitaires"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Retrouver du discernement"
+          },
+          {
+            "type": "p",
+            "text": "Le débat actuel est souvent dominé par des positions extrêmes. Pourtant, nourrir des millions de personnes implique des compromis entre santé, sécurité, coût et logistique."
+          },
+          {
+            "type": "p",
+            "text": "La solution ne réside ni dans le rejet systématique, ni dans l’acceptation aveugle, mais dans une approche équilibrée fondée sur la science."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "Nous n’avons pas besoin d’une nouvelle inquisition alimentaire, mais de discernement."
+          },
+          {
+            "type": "p",
+            "text": "Un dialogue constructif entre consommateurs, industriels et autorités est essentiel pour construire une alimentation plus sûre, durable et accessible."
+          }
+        ],
+        "en": [
+          {
+            "type": "p",
+            "text": "In recent years, a kind of popular tribunal has moved onto our plates. Additives, especially the famous E numbers, have become designated culprits, often without nuance. Being “chemical” is now enough to be perceived as dangerous."
+          },
+          {
+            "type": "p",
+            "text": "Yet this simplistic view hides a far more complex reality."
+          },
+          {
+            "type": "h2",
+            "text": "The myth of “free from”"
+          },
+          {
+            "type": "p",
+            "text": "The market rewards “free from” claims: no additives, no preservatives, no processing. But these marketing statements say very little about the real quality of a product."
+          },
+          {
+            "type": "p",
+            "text": "Everything is chemistry. Vitamin C, E300, bicarbonate, E500, and lecithin, E322, can be natural and yet are classified as additives. An E number does not mean danger; it means validation by European food safety authorities."
+          },
+          {
+            "type": "h2",
+            "text": "Natural vs chemical: a false debate"
+          },
+          {
+            "type": "p",
+            "text": "Opposing “natural” and “chemical” makes little sense. Some natural substances are highly toxic, while some synthetic compounds are safe and controlled."
+          },
+          {
+            "type": "p",
+            "text": "Food safety rests on three essential pillars:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "dose",
+              "function",
+              "scientific control"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "The example of nitrites"
+          },
+          {
+            "type": "p",
+            "text": "Nitrites have helped secure meat products by fighting dangerous bacteria such as those responsible for botulism. However, excessive consumption is now associated with increased risks of colorectal cancer."
+          },
+          {
+            "type": "p",
+            "text": "In response, the industry has evolved and is searching for alternatives, even though those alternatives still require scientific perspective."
+          },
+          {
+            "type": "h2",
+            "text": "The essential role of additives"
+          },
+          {
+            "type": "p",
+            "text": "Used intelligently, additives can:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "ensure microbiological safety",
+              "improve preservation",
+              "stabilise textures",
+              "reduce food waste",
+              "sometimes reduce salt, sugar or fat"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Removing them without proper consideration can lead to:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "higher prices",
+              "shorter shelf life",
+              "more waste",
+              "greater health risks"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Recovering discernment"
+          },
+          {
+            "type": "p",
+            "text": "The current debate is often dominated by extreme positions. Yet feeding millions of people involves trade-offs between health, safety, cost and logistics."
+          },
+          {
+            "type": "p",
+            "text": "The answer lies neither in systematic rejection nor in blind acceptance, but in a balanced approach grounded in science."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusion"
+          },
+          {
+            "type": "p",
+            "text": "We do not need a new food inquisition; we need discernment."
+          },
+          {
+            "type": "p",
+            "text": "Constructive dialogue between consumers, manufacturers and authorities is essential to build food that is safer, more sustainable and more accessible."
+          }
+        ],
+        "nl": [
+          {
+            "type": "p",
+            "text": "De laatste jaren is er een soort volkstribunaal op ons bord verschenen. Additieven, en vooral de bekende E-nummers, zijn aangewezen schuldigen geworden, vaak zonder nuance. “Chemisch” zijn volstaat vandaag om als gevaarlijk te worden gezien."
+          },
+          {
+            "type": "p",
+            "text": "Toch verbergt deze simplistische visie een veel complexere realiteit."
+          },
+          {
+            "type": "h2",
+            "text": "De mythe van “zonder”"
+          },
+          {
+            "type": "p",
+            "text": "De markt waardeert producten “zonder”: zonder additieven, zonder conserveermiddelen, zonder verwerking. Maar deze marketingclaims zeggen weinig concreets over de echte kwaliteit van een product."
+          },
+          {
+            "type": "p",
+            "text": "Alles is chemie. Vitamine C, E300, bicarbonaat, E500, of lecithine, E322, kunnen natuurlijk zijn en toch als additief worden geklasseerd. Een E-nummer betekent geen gevaar, maar validatie door Europese voedselveiligheidsautoriteiten."
+          },
+          {
+            "type": "h2",
+            "text": "Natuurlijk versus chemisch: een vals debat"
+          },
+          {
+            "type": "p",
+            "text": "“Natuurlijk” tegenover “chemisch” plaatsen heeft weinig zin. Sommige natuurlijke stoffen zijn zeer toxisch, terwijl bepaalde synthetische verbindingen veilig en gecontroleerd zijn."
+          },
+          {
+            "type": "p",
+            "text": "Voedselveiligheid steunt op drie essentiële pijlers:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "dosis",
+              "functie",
+              "wetenschappelijke beheersing"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Het voorbeeld van nitrieten"
+          },
+          {
+            "type": "p",
+            "text": "Nitrieten hebben vleesproducten veiliger gemaakt door gevaarlijke bacteriën, zoals de bacteriën achter botulisme, te bestrijden. Overmatige consumptie wordt vandaag echter in verband gebracht met een verhoogd risico op colorectale kanker."
+          },
+          {
+            "type": "p",
+            "text": "Daarom is de industrie geëvolueerd en zoekt ze alternatieven, al vragen die nog steeds wetenschappelijke terughoudendheid."
+          },
+          {
+            "type": "h2",
+            "text": "De essentiële rol van additieven"
+          },
+          {
+            "type": "p",
+            "text": "Intelligent gebruikt maken additieven het mogelijk om:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "microbiologische veiligheid te verzekeren",
+              "bewaring te verbeteren",
+              "texturen te stabiliseren",
+              "voedselverspilling te verminderen",
+              "soms zout, suiker of vet te verlagen"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Ze zonder nadenken verwijderen kan leiden tot:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "hogere prijzen",
+              "kortere houdbaarheid",
+              "meer verspilling",
+              "meer gezondheidsrisico’s"
+            ]
+          },
+          {
+            "type": "h2",
+            "text": "Opnieuw onderscheidingsvermogen vinden"
+          },
+          {
+            "type": "p",
+            "text": "Het huidige debat wordt vaak gedomineerd door extreme standpunten. Maar miljoenen mensen voeden vraagt compromissen tussen gezondheid, veiligheid, kostprijs en logistiek."
+          },
+          {
+            "type": "p",
+            "text": "De oplossing ligt niet in systematische afwijzing en ook niet in blinde aanvaarding, maar in een evenwichtige aanpak gebaseerd op wetenschap."
+          },
+          {
+            "type": "h2",
+            "text": "Conclusie"
+          },
+          {
+            "type": "p",
+            "text": "We hebben geen nieuwe voedselinquisitie nodig, maar onderscheidingsvermogen."
+          },
+          {
+            "type": "p",
+            "text": "Een constructieve dialoog tussen consumenten, industrie en overheden is essentieel om voeding te bouwen die veiliger, duurzamer en toegankelijker is."
+          }
+        ]
+      }
+    }
+  ]
+};

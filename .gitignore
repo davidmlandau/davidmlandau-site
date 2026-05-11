@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and caches
+node_modules/
+.cache/
+.parcel-cache/
+.vite/
+
+# Generated local exports
+exports/
+*.log
+

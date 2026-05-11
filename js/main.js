@@ -7,7 +7,8 @@ let lenis;
 function initLenis() {
   const shouldUseNativeScroll =
     document.getElementById('contactForm') ||
-    document.getElementById('watch-tabs');
+    document.getElementById('watch-tabs') ||
+    document.getElementById('newsGrid');
 
   if (shouldUseNativeScroll) {
     document.documentElement.classList.add('native-scroll');

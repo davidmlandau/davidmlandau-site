@@ -35,6 +35,18 @@ function newsLabel(key, fallback) {
   return window.t ? (window.t(key) || fallback) : fallback;
 }
 
+function refreshNewsScrollState() {
+  requestAnimationFrame(function () {
+    if (window.lenis && typeof window.lenis.resize === 'function') {
+      window.lenis.resize();
+    }
+    if (window.ScrollTrigger && typeof window.ScrollTrigger.refresh === 'function') {
+      window.ScrollTrigger.refresh();
+    }
+    window.dispatchEvent(new Event('scroll'));
+  });
+}
+
 function renderNews() {
   const grid = document.getElementById('newsGrid');
   if (!grid || !NEWS_DATA) return;
@@ -69,6 +81,7 @@ function renderNews() {
         action +
       '</article>';
   }).join('');
+  refreshNewsScrollState();
 }
 
 async function loadNews() {

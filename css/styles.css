@@ -24,10 +24,10 @@ ul, ol { list-style: none; padding: 0; margin: 0; }
 
 :root {
   /* Light palette derived from logo */
-  --bg-cream: #F7F4ED;          /* base warm cream */
-  --bg-blue: #CDE0F2;            /* powder blue from logo */
-  --bg-blue-soft: #E5EEF9;       /* lighter blue */
-  --bg-blue-deep: #B7CCE5;       /* darker blue (manifesto / footer) */
+  --bg-cream: #F7FBFF;          /* clear sky-tinted base */
+  --bg-blue: #C9DEF4;            /* powder blue from logo */
+  --bg-blue-soft: #EEF6FE;       /* lighter blue */
+  --bg-blue-deep: #AFCBE8;       /* deeper logo blue */
   --bg-card: #FFFFFF;
 
   --text-primary: #3F454D;       /* logo slate grey */

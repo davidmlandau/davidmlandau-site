@@ -8,7 +8,8 @@ function initLenis() {
   const shouldUseNativeScroll =
     document.getElementById('contactForm') ||
     document.getElementById('watch-tabs') ||
-    document.getElementById('newsGrid');
+    document.getElementById('newsGrid') ||
+    document.querySelector('.press-grid');
 
   if (shouldUseNativeScroll) {
     document.documentElement.classList.add('native-scroll');
@@ -166,6 +167,39 @@ function initLeadPrefill() {
   });
 }
 
+function initLeadEmailForms() {
+  document.querySelectorAll('.watch-lead__form, .lead-panel__form').forEach(function (form) {
+    form.addEventListener('submit', function (event) {
+      const email = form.elements.email ? String(form.elements.email.value || '').trim() : '';
+      const company = form.elements.company ? String(form.elements.company.value || '').trim() : '';
+
+      if (!form.checkValidity()) {
+        event.preventDefault();
+        form.reportValidity();
+        return;
+      }
+
+      event.preventDefault();
+      const isWatch = form.classList.contains('watch-lead__form');
+      const source = isWatch ? 'veille ingredients' : 'analyses ingredients';
+      const subject = 'Demande ' + source + (company ? ' - ' + company : '');
+      const body = [
+        'Nouvelle demande depuis davidmlandau.com',
+        '',
+        'Type: ' + source,
+        'Email: ' + email,
+        'Societe: ' + company,
+        '',
+        'Page source: ' + window.location.href
+      ].join('\n');
+
+      window.location.href = 'mailto:david@davidmlandau.com' +
+        '?subject=' + encodeURIComponent(subject) +
+        '&body=' + encodeURIComponent(body);
+    });
+  });
+}
+
 // ---------- Init ----------
 window.addEventListener('load', function () {
   initLenis();
@@ -174,6 +208,7 @@ window.addEventListener('load', function () {
   initServiceCards();
   initScrollProgress();
   initLeadPrefill();
+  initLeadEmailForms();
   hideLoader();
 });
 

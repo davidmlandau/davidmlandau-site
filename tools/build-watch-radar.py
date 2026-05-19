@@ -9,6 +9,7 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
+from argparse import ArgumentParser
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -127,21 +128,45 @@ def days_old(pub_date: str) -> float:
         return 30.0
 
 
-def reason(category: str, matched: list[str], age: float) -> str:
-    first = (
-        "Signal detecte autour de " + ", ".join(matched[:3]) + "."
-        if matched else
-        "Signal recent repere dans les sources specialisees."
-    )
-    hot = " Actualite chaude." if age <= 7 else " A suivre dans la duree."
-    angle = {
-        "tech": " Angle technologie.",
-        "trends": " Angle tendances sensorielles.",
-        "aroma": " Angle regulation aromatique.",
-        "ingredients": " Angle ingredients.",
-        "ma": " Angle operations strategiques.",
-    }.get(category, "")
-    return first + hot + angle
+def reasons(category: str, matched: list[str], age: float) -> dict[str, str]:
+    terms = ", ".join(matched[:3])
+    angles = {
+        "fr": {
+            "tech": " Angle technologie.",
+            "trends": " Angle tendances sensorielles.",
+            "aroma": " Angle regulation aromatique.",
+            "ingredients": " Angle ingredients.",
+            "ma": " Angle operations strategiques.",
+        },
+        "en": {
+            "tech": " Technology angle.",
+            "trends": " Sensory trend angle.",
+            "aroma": " Flavour regulation angle.",
+            "ingredients": " Ingredients angle.",
+            "ma": " Strategic transactions angle.",
+        },
+        "nl": {
+            "tech": " Technologiehoek.",
+            "trends": " Sensorische trendhoek.",
+            "aroma": " Aromareguleringhoek.",
+            "ingredients": " Ingredientenhoek.",
+            "ma": " Strategische transactieshoek.",
+        },
+    }
+    return {
+        "fr": (
+            ("Signal detecte autour de " + terms + ".") if matched else
+            "Signal recent repere dans les sources specialisees."
+        ) + (" Actualite chaude." if age <= 7 else " A suivre dans la duree.") + angles["fr"].get(category, ""),
+        "en": (
+            ("Signal detected around " + terms + ".") if matched else
+            "Recent signal found in specialist sources."
+        ) + (" Hot item." if age <= 7 else " Worth tracking over time.") + angles["en"].get(category, ""),
+        "nl": (
+            ("Signaal gedetecteerd rond " + terms + ".") if matched else
+            "Recent signaal gevonden in gespecialiseerde bronnen."
+        ) + (" Actueel signaal." if age <= 7 else " Op te volgen in de tijd.") + angles["nl"].get(category, ""),
+    }
 
 
 def score_item(category: str, item: dict) -> dict:
@@ -164,7 +189,17 @@ def score_item(category: str, item: dict) -> dict:
         score += 4
     if re.search(r"exclusive|launch|regulation|acquisition|merger|funding|innovation", item["title"] + " " + item.get("description", ""), re.I):
         score += 6
-    return {**item, "category": category, "score": min(100, round(score)), "matchedKeywords": matched[:5], "reason": reason(category, matched, age)}
+    localized_reasons = reasons(category, matched, age)
+    return {
+        **item,
+        "category": category,
+        "score": min(100, round(score)),
+        "matchedKeywords": matched[:5],
+        "reason": localized_reasons["fr"],
+        "reason_fr": localized_reasons["fr"],
+        "reason_en": localized_reasons["en"],
+        "reason_nl": localized_reasons["nl"],
+    }
 
 
 def dedupe(items: list[dict]) -> list[dict]:
@@ -193,28 +228,46 @@ def build_digest(categories: dict) -> list[dict]:
             digest.append({
                 "category": key,
                 "label_fr": category["label_fr"],
+                "label_en": category["label_en"],
+                "label_nl": category["label_nl"],
                 "title": item["title"],
                 "source": item["source"],
                 "link": item["link"],
                 "pubDate": item["pubDate"],
                 "score": item["score"],
                 "reason": item["reason"],
+                "reason_fr": item["reason_fr"],
+                "reason_en": item["reason_en"],
+                "reason_nl": item["reason_nl"],
             })
     return sorted(digest, key=lambda item: item["score"], reverse=True)[:12]
 
 
 def digest_html(payload: dict) -> str:
     generated = datetime.fromisoformat(payload["generatedAt"].replace("Z", "+00:00")).strftime("%d/%m/%Y %H:%M UTC")
-    articles = []
-    for item in payload["digest"]:
-        articles.append(
-            f"""      <article>
-        <p><strong>{html.escape(item["label_fr"])}</strong> - score {item["score"]}</p>
-        <h2><a href="{html.escape(item["link"])}">{html.escape(item["title"])}</a></h2>
-        <p>{html.escape(item["source"])} - {html.escape(item["reason"])}</p>
+    languages = [
+        ("fr", "Francais", "Aucun signal disponible pour cette generation."),
+        ("en", "English", "No signal available for this generation."),
+        ("nl", "Nederlands", "Geen signaal beschikbaar voor deze generatie."),
+    ]
+
+    sections = []
+    for lang, label, empty in languages:
+        articles = []
+        for item in payload["digest"]:
+            articles.append(
+                f"""      <article>
+        <p><strong>{html.escape(item["label_" + lang])}</strong> - score {item["score"]}</p>
+        <h3><a href="{html.escape(item["link"])}">{html.escape(item["title"])}</a></h3>
+        <p>{html.escape(item["source"])} - {html.escape(item["reason_" + lang])}</p>
       </article>"""
-        )
-    body = "\n".join(articles) or "      <p>Aucun signal disponible pour cette generation.</p>"
+            )
+        body = "\n".join(articles) or f"      <p>{html.escape(empty)}</p>"
+        sections.append(f"""    <section>
+      <h2>{html.escape(label)}</h2>
+{body}
+    </section>""")
+
     return f"""<!doctype html>
 <html lang="fr">
 <head>
@@ -224,8 +277,9 @@ def digest_html(payload: dict) -> str:
   <style>
     body {{ font-family: Arial, sans-serif; color: #141a20; line-height: 1.55; max-width: 760px; margin: 0 auto; padding: 32px 18px; }}
     article {{ border-top: 1px solid #d8dde2; padding: 18px 0; }}
-    h1, h2 {{ line-height: 1.15; }}
-    h2 {{ font-size: 20px; margin: 6px 0; }}
+    h1, h2, h3 {{ line-height: 1.15; }}
+    h2 {{ margin-top: 32px; }}
+    h3 {{ font-size: 20px; margin: 6px 0; }}
     a {{ color: #1f4c68; }}
     p {{ margin: 0 0 8px; }}
   </style>
@@ -233,13 +287,24 @@ def digest_html(payload: dict) -> str:
 <body>
   <h1>Synthese Radar Veille</h1>
   <p>Generation automatique du {html.escape(generated)}.</p>
-{body}
+{chr(10).join(sections)}
 </body>
 </html>
 """
 
 
+def parse_args() -> object:
+    parser = ArgumentParser(description="Generate watch radar JSON and digest HTML.")
+    parser.add_argument(
+        "--allow-errors",
+        action="store_true",
+        help="Write output and exit successfully even if one or more feeds failed.",
+    )
+    return parser.parse_args()
+
+
 def main() -> int:
+    args = parse_args()
     config = json.loads(FEEDS_PATH.read_text())
     categories = {}
     errors = []
@@ -285,7 +350,7 @@ def main() -> int:
     print(f"Radar generated: {payload['totals']['items']} items, {len(payload['digest'])} digest signals, {len(errors)} feed errors.")
     for error in errors:
         print(f"- {error['feed']}: {error['error']}", file=sys.stderr)
-    return 1 if errors else 0
+    return 0 if args.allow_errors else (1 if errors else 0)
 
 
 if __name__ == "__main__":

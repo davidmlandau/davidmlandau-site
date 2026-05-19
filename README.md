@@ -69,7 +69,9 @@ python3 tools/build-watch-radar.py
 node tools/build-watch-radar.mjs
 ```
 
-Automatisation conseillée : lancer cette commande chaque matin, ou une fois par semaine pour générer la synthèse. Si `RADAR_WEBHOOK_URL` est défini, le script envoie aussi le digest JSON à un outil externe (newsletter, CRM, Make, Zapier, n8n).
+Automatisation active : le workflow GitHub Actions `.github/workflows/update-watch-radar.yml` lance `python3 tools/build-watch-radar.py --allow-errors` chaque jour à 05:20 UTC, commit les fichiers `data/watch-radar.json` et `data/watch-digest.html` s'ils ont changé, puis pousse la branche. Cloudflare Pages redéploie ensuite le site statique.
+
+Filet de sécurité côté visiteur : si `data/watch-radar.json` a plus de 36 heures, `watch.html` ignore ce fichier et recharge les flux live dans le navigateur via `rss2json`, avec les libellés et explications en FR / EN / NL.
 
 ## Personnalisation rapide
 
@@ -80,7 +82,7 @@ Automatisation conseillée : lancer cette commande chaque matin, ou une fois par
 | Réseaux sociaux      | tous fichiers          | Remplacer toutes les occurrences de `REMPLACER`         |
 | Téléphone / email    | `contact.html`         | Remplacer `+33 0 00 00 00 00` et `contact@davidlandau.com` |
 | Flux RSS             | `data/feeds.json`      | Ajouter / retirer / remplacer les sources               |
-| Radar automatique    | `tools/build-watch-radar.mjs` | Agréger, classer, dédoublonner les flux          |
+| Radar automatique    | `tools/build-watch-radar.py` + `.github/workflows/update-watch-radar.yml` | Agréger, classer, dédoublonner et publier les flux |
 | Textes (3 langues)   | `data/translations.json` | Editer les chaînes par clé                            |
 | Couleurs / fonts     | `css/styles.css`       | Variables CSS dans `:root`                              |
 

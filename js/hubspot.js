@@ -53,9 +53,64 @@ const HUBSPOT_FORM_GUID = 'YOUR_FORM_GUID';     // ex : '8a6f43c0-1234-abcd-...'
     }
   }
 
+  function fieldValue(name) {
+    const el = form.elements[name];
+    return el ? String(el.value || '').trim() : '';
+  }
+
+  function subjectLabel(value) {
+    const select = form.elements.subject;
+    if (!select) return value || 'Diagnostic';
+    const option = Array.prototype.find.call(select.options, function (item) {
+      return item.value === value;
+    });
+    return option ? option.textContent.trim() : (value || 'Diagnostic');
+  }
+
+  function buildEmailBody() {
+    const lines = [
+      'Nouvelle demande de diagnostic depuis davidmlandau.com',
+      '',
+      'Prenom: ' + fieldValue('firstname'),
+      'Nom: ' + fieldValue('lastname'),
+      'Email: ' + fieldValue('email'),
+      'Societe: ' + fieldValue('company'),
+      'Telephone: ' + fieldValue('phone'),
+      'Secteur: ' + fieldValue('sector'),
+      'Horizon: ' + fieldValue('timeline'),
+      'Enjeu prioritaire: ' + subjectLabel(fieldValue('subject')),
+      '',
+      'Message:',
+      fieldValue('message'),
+      '',
+      'Page source: ' + window.location.href
+    ];
+    return lines.join('\n');
+  }
+
+  function openMailClient() {
+    const requester = [fieldValue('firstname'), fieldValue('lastname')].filter(Boolean).join(' ');
+    const subjectParts = ['Demande de diagnostic'];
+    const selectedSubject = subjectLabel(fieldValue('subject'));
+    if (selectedSubject) subjectParts.push(selectedSubject);
+    if (fieldValue('company')) subjectParts.push(fieldValue('company'));
+    if (requester) subjectParts.push(requester);
+
+    const mailto = 'mailto:david@davidmlandau.com' +
+      '?subject=' + encodeURIComponent(subjectParts.join(' - ')) +
+      '&body=' + encodeURIComponent(buildEmailBody());
+
+    window.location.href = mailto;
+  }
+
   form.addEventListener('submit', async function (e) {
     e.preventDefault();
     if (errorBlock) errorBlock.hidden = true;
+
+    if (!form.checkValidity()) {
+      form.reportValidity();
+      return;
+    }
 
     // Construit le payload conforme a l'API HubSpot Forms v3
     const fields = ['firstname', 'lastname', 'email', 'company', 'phone', 'sector', 'timeline', 'subject', 'message']
@@ -85,12 +140,11 @@ const HUBSPOT_FORM_GUID = 'YOUR_FORM_GUID';     // ex : '8a6f43c0-1234-abcd-...'
       }
     };
 
-    // Si la configuration HubSpot n'a pas encore ete renseignee, on simule l'envoi
-    // (utile en developpement) et on signale le placeholder dans la console.
+    // Si HubSpot n'est pas configure, on ne simule plus un succes silencieux :
+    // on ouvre un email prerempli vers l'adresse de contact.
     if (HUBSPOT_PORTAL_ID === 'YOUR_PORTAL_ID' || HUBSPOT_FORM_GUID === 'YOUR_FORM_GUID') {
-      console.warn('[HubSpot] PORTAL_ID / FORM_GUID non configures dans js/hubspot.js. Envoi simule.');
-      setLoading(true);
-      setTimeout(function () { setLoading(false); showSuccess(); }, 700);
+      console.warn('[Contact] HubSpot non configure. Ouverture email vers david@davidmlandau.com.');
+      openMailClient();
       return;
     }
 

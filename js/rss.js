@@ -7,6 +7,8 @@
 
 const API_BASE = 'https://api.rss2json.com/v1/api.json';
 const ITEMS_PER_FEED = 6;
+const RADAR_MAX_AGE_HOURS = 36;
+const WATCH_DATA_VERSION = '20260518-auto-watch';
 const CLIENT_KEYWORDS = {
   tech: ['precision fermentation', 'fermentation', 'extrusion', 'automation', 'automatisation', 'ai', 'ia', 'bioprocessing', 'food processing', 'ingredient production', 'smart packaging'],
   trends: ['flavor trend', 'flavour trend', 'taste trend', 'new flavor', 'nouveau gout', 'texture', 'sensory', 'blend', 'melange', 'pairing', 'limited edition'],
@@ -177,12 +179,57 @@ function scoreLiveItem(categoryKey, item) {
   else if (age <= 14) score += 10;
   else if (age <= 30) score += 4;
 
+  const reasons = buildLiveReasons(categoryKey, matched, age);
   return Object.assign({}, item, {
     score: Math.min(100, Math.round(score)),
-    reason: matched.length
-      ? 'Signal detecte autour de ' + matched.slice(0, 3).join(', ') + '.'
-      : 'Signal recent repere dans les sources specialisees.'
+    reason: reasons.fr,
+    reason_fr: reasons.fr,
+    reason_en: reasons.en,
+    reason_nl: reasons.nl
   });
+}
+
+function buildLiveReasons(categoryKey, matched, age) {
+  const terms = matched.slice(0, 3).join(', ');
+  const angle = {
+    fr: {
+      tech: ' Angle technologie.',
+      trends: ' Angle tendances sensorielles.',
+      aroma: ' Angle regulation aromatique.',
+      ingredients: ' Angle ingredients.',
+      ma: ' Angle operations strategiques.'
+    },
+    en: {
+      tech: ' Technology angle.',
+      trends: ' Sensory trend angle.',
+      aroma: ' Flavour regulation angle.',
+      ingredients: ' Ingredients angle.',
+      ma: ' Strategic transactions angle.'
+    },
+    nl: {
+      tech: ' Technologiehoek.',
+      trends: ' Sensorische trendhoek.',
+      aroma: ' Aromareguleringhoek.',
+      ingredients: ' Ingredientenhoek.',
+      ma: ' Strategische transactieshoek.'
+    }
+  };
+
+  return {
+    fr: (matched.length ? 'Signal detecte autour de ' + terms + '.' : 'Signal recent repere dans les sources specialisees.') +
+      (age <= 7 ? ' Actualite chaude.' : ' A suivre dans la duree.') +
+      (angle.fr[categoryKey] || ''),
+    en: (matched.length ? 'Signal detected around ' + terms + '.' : 'Recent signal found in specialist sources.') +
+      (age <= 7 ? ' Hot item.' : ' Worth tracking over time.') +
+      (angle.en[categoryKey] || ''),
+    nl: (matched.length ? 'Signaal gedetecteerd rond ' + terms + '.' : 'Recent signaal gevonden in gespecialiseerde bronnen.') +
+      (age <= 7 ? ' Actueel signaal.' : ' Op te volgen in de tijd.') +
+      (angle.nl[categoryKey] || '')
+  };
+}
+
+function localizedReason(item, lang) {
+  return item['reason_' + lang] || item.reason || item.source || '';
 }
 
 function getSearchQuery() {
@@ -265,7 +312,7 @@ function renderBrief() {
           '<strong>' + escapeHtml(String(it.score || 0)) + '</strong>' +
         '</div>' +
         '<h3><a href="' + escapeHtml(it.link) + '" target="_blank" rel="noopener">' + escapeHtml(it.title) + '</a></h3>' +
-        '<p>' + escapeHtml(it.reason || it.source || '') + '</p>' +
+        '<p>' + escapeHtml(localizedReason(it, CURRENT_LANG)) + '</p>' +
       '</article>';
   }).join('');
   refreshScrollState();
@@ -288,7 +335,8 @@ function renderItems(container, items, lang) {
   container.innerHTML = filtered.map(function (it) {
     const desc = it.description + (it.description.length >= 240 ? '...' : '');
     const score = it.score ? '<span class="feed-score">Score ' + escapeHtml(String(it.score)) + '</span>' : '';
-    const reason = it.reason ? '<p class="feed-reason">' + escapeHtml(it.reason) + '</p>' : '';
+    const reasonText = localizedReason(it, lang);
+    const reason = reasonText ? '<p class="feed-reason">' + escapeHtml(reasonText) + '</p>' : '';
     return '' +
       '<article class="feed-item">' +
         '<div class="feed-meta">' +
@@ -391,7 +439,7 @@ function buildPanes(lang) {
 
 async function loadConfig() {
   try {
-    const r = await fetch('data/feeds.json?v=20260509-watch-radar', { cache: 'no-store' });
+    const r = await fetch('data/feeds.json?v=' + WATCH_DATA_VERSION, { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     return await r.json();
   } catch (e) {
@@ -402,15 +450,25 @@ async function loadConfig() {
 
 async function loadRadarData() {
   try {
-    const r = await fetch('data/watch-radar.json?v=20260509-watch-radar', { cache: 'no-store' });
+    const r = await fetch('data/watch-radar.json?v=' + WATCH_DATA_VERSION, { cache: 'no-store' });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const data = await r.json();
     if (!data || !data.totals || !data.totals.items) return null;
+    if (!isRadarFresh(data)) {
+      console.warn('watch radar stale, live fallback used', data.generatedAt);
+      return null;
+    }
     return data;
   } catch (e) {
     console.warn('watch radar fallback', e.message);
     return null;
   }
+}
+
+function isRadarFresh(data) {
+  const generated = Date.parse(data.generatedAt || '');
+  if (Number.isNaN(generated)) return false;
+  return (Date.now() - generated) <= RADAR_MAX_AGE_HOURS * 60 * 60 * 1000;
 }
 
 async function init() {

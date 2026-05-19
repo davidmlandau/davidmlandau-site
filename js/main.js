@@ -1,50 +1,14 @@
 /* ============================================================
-   main.js — Lenis smooth scroll, nav, custom cursor, loader
+   main.js — native scroll, nav, custom cursor, loader
    ============================================================ */
 
-// ---------- Lenis (physics-based smooth scroll) ----------
-let lenis;
-function initLenis() {
-  const shouldUseNativeScroll =
-    document.getElementById('contactForm') ||
-    document.getElementById('watch-tabs') ||
-    document.getElementById('newsGrid') ||
-    document.querySelector('.press-grid');
-
-  if (shouldUseNativeScroll) {
-    document.documentElement.classList.add('native-scroll');
-    return;
-  }
-  if (typeof Lenis === 'undefined') return;
-  lenis = new Lenis({
-    duration: 1.05,
-    easing: function (t) { return 1 - Math.pow(1 - t, 3); },
-    smoothWheel: true,
-    wheelMultiplier: 0.9,
-    touchMultiplier: 1.35,
-    lerp: 0.075,
-  });
-
-  // Lenis must be driven by one animation clock only; double RAF makes scroll feel uneven.
-  if (window.gsap && window.ScrollTrigger) {
-    lenis.on('scroll', function () {
-      ScrollTrigger.update();
-      document.dispatchEvent(new CustomEvent('lenisScroll'));
-    });
-    gsap.ticker.add(function (t) { lenis.raf(t * 1000); });
-    gsap.ticker.lagSmoothing(0);
-  } else {
-    lenis.on('scroll', function () {
-      document.dispatchEvent(new CustomEvent('lenisScroll'));
-    });
-    function raf(time) {
-      lenis.raf(time);
-      requestAnimationFrame(raf);
-    }
-    requestAnimationFrame(raf);
-  }
-
-  window.lenis = lenis;
+// ---------- Scroll mode ----------
+function initScrollMode() {
+  // Use native scrolling everywhere. It is more reliable with long dynamic pages,
+  // anchored forms, browser history and mobile touch inertia.
+  document.documentElement.classList.add('native-scroll');
+  window.lenis = null;
+  document.dispatchEvent(new CustomEvent('lenisScroll'));
 }
 
 // ---------- Loader ----------
@@ -203,7 +167,7 @@ function initLeadEmailForms() {
 
 // ---------- Init ----------
 window.addEventListener('load', function () {
-  initLenis();
+  initScrollMode();
   initNav();
   initCursor();
   initServiceCards();

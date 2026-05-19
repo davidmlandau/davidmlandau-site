@@ -58,6 +58,20 @@ const HUBSPOT_FORM_GUID = 'YOUR_FORM_GUID';     // ex : '8a6f43c0-1234-abcd-...'
     return el ? String(el.value || '').trim() : '';
   }
 
+  function applyQueryPrefill() {
+    const params = new URLSearchParams(window.location.search);
+    ['email', 'company', 'subject', 'message', 'firstname', 'lastname', 'phone', 'sector', 'timeline'].forEach(function (name) {
+      const value = params.get(name);
+      const el = form.elements[name];
+      if (!value || !el) return;
+      el.value = value;
+    });
+    if (params.get('subject') === 'watch' && form.elements.message && !form.elements.message.value.trim()) {
+      form.elements.message.value = (window.t && window.t('contact.watch.prefill')) ||
+        'Je souhaite recevoir la veille mensuelle ingrédients.';
+    }
+  }
+
   function subjectLabel(value) {
     const select = form.elements.subject;
     if (!select) return value || 'Diagnostic';
@@ -145,6 +159,12 @@ const HUBSPOT_FORM_GUID = 'YOUR_FORM_GUID';     // ex : '8a6f43c0-1234-abcd-...'
     if (HUBSPOT_PORTAL_ID === 'YOUR_PORTAL_ID' || HUBSPOT_FORM_GUID === 'YOUR_FORM_GUID') {
       console.warn('[Contact] HubSpot non configure. Ouverture email vers david@davidmlandau.com.');
       openMailClient();
+      if (successBlock) {
+        successBlock.textContent = (window.t && window.t('contact.mailto_notice')) ||
+          'Votre client email va s’ouvrir avec le message préparé. Il reste à envoyer l’email pour finaliser la demande.';
+        successBlock.hidden = false;
+        successBlock.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
       return;
     }
 
@@ -171,4 +191,6 @@ const HUBSPOT_FORM_GUID = 'YOUR_FORM_GUID';     // ex : '8a6f43c0-1234-abcd-...'
       setLoading(false);
     }
   });
+
+  applyQueryPrefill();
 })();

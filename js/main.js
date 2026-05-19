@@ -170,6 +170,7 @@ function initLeadPrefill() {
 function initLeadEmailForms() {
   document.querySelectorAll('.watch-lead__form, .lead-panel__form').forEach(function (form) {
     form.addEventListener('submit', function (event) {
+      if (form.dataset.mailto !== 'true') return;
       const email = form.elements.email ? String(form.elements.email.value || '').trim() : '';
       const company = form.elements.company ? String(form.elements.company.value || '').trim() : '';
 

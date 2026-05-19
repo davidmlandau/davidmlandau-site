@@ -10,7 +10,7 @@
 
   async function loadTranslations() {
     try {
-      const res = await fetch('data/translations.json?v=20260503-lead-engine', { cache: 'no-store' });
+      const res = await fetch('data/translations.json?v=20260519-diagnostic', { cache: 'no-store' });
       translations = await res.json();
     } catch (e) {
       console.warn('i18n: translations.json indisponible', e);

@@ -49,7 +49,7 @@ window.addEventListener('load', function () {
   revealOnScroll('.lede, .manifesto__body, .about__body p, .section__head p', { duration: 1.05 });
 
   // -------- Stagger groups --------
-  document.querySelectorAll('.services-grid, .news-grid, .press-grid, .about__stats, .feed-list, .offer-cards, .bio-snapshot, .funnel-proof, .funnel-offers').forEach(function (grid) {
+  document.querySelectorAll('.services-grid, .news-grid, .press-grid, .about__stats, .feed-list, .offer-cards, .bio-snapshot, .funnel-proof, .funnel-offers, .diagnostic-blocks, .diagnostic-steps, .diagnostic-list, .watch-editorial__cards').forEach(function (grid) {
     const items = grid.children;
     if (!items.length) return;
     gsap.from(items, {

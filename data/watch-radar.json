@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-18T11:35:08.767Z",
+  "generatedAt": "2026-05-20T16:37:37.538Z",
   "generatedBy": "site/tools/build-watch-radar.py",
   "totals": {
     "categories": 5,
-    "items": 163,
+    "items": 162,
     "errors": 0
   },
   "categories": {
@@ -37,10 +37,27 @@
         {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "More litigation expected over California recycling regulations",
-          "link": "https://www.packagingdive.com/news/california-recycling-regulations-lawsuits-nrdc/820027/",
-          "pubDate": "Wed, 13 May 2026 11:30:00 -0400",
-          "description": "Packaging EPR law SB 54 could spark lawsuits from environmental groups and businesses alike. Meanwhile, certain industry groups are seeking a preliminary injunction with recyclability labeling law SB 343.",
+          "title": "Kenvue tracks packaging through recycling stream with Greyparrot’s AI",
+          "link": "https://www.packagingdive.com/news/greyparrot-deepnest-kenvue-packaging-analytics-recycling-design-sortation/820662/",
+          "pubDate": "Wed, 20 May 2026 10:50:00 -0400",
+          "description": "The collaboration spotlights use cases for AI in packaging, such as pinpointing the optimal hue for shampoo bottles to ensure recyclability. Identifying design changes gains importance as the packaging regulation landscape widens.",
+          "category": "tech",
+          "score": 80,
+          "matchedKeywords": [
+            "ai"
+          ],
+          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
+        },
+        {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "North American aluminum demand resilient, Aluminum Association reports",
+          "link": "https://www.packagingdive.com/news/aluminum-demand-data-2025-tariff-relief/820406/",
+          "pubDate": "Mon, 18 May 2026 12:56:50 -0400",
+          "description": "Preliminary 2025 data showed a small year-over-year bump in domestic shipments and imports. While there may be new incentives for heavy-duty steel and aluminum, canmakers still await tariff relief.",
           "category": "tech",
           "score": 79,
           "matchedKeywords": [
@@ -73,10 +90,10 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch",
-          "link": "https://agfundernews.com/brightseed-layers-agentic-ai-onto-forager-bioactives-discovery-platform-with-hummingbird-launch",
-          "pubDate": "Wed, 13 May 2026 13:00:46 +0000",
-          "description": "“One of our customers came back to us and said that through Hummingbird, one of its PhD scientists just did in two weeks with our platform what it used to take six months to achieve,\" says cofounder Lee Chae, PhD. The post Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch appeared first on AgFunderNews .",
+          "title": "GrainFlow targets grain elevator gridlock with AI scheduling system",
+          "link": "https://agfundernews.com/grainflow-targets-grain-elevator-gridlock-with-ai-scheduling-system",
+          "pubDate": "Tue, 19 May 2026 11:00:02 +0000",
+          "description": "At many grain elevators, trucks simply arrive and line up, says Grainflow founder Bryan Wattie. “There is no appointment system and no slot reservation.\" The post GrainFlow targets grain elevator gridlock with AI scheduling system appeared first on AgFunderNews .",
           "category": "tech",
           "score": 74,
           "matchedKeywords": [
@@ -86,23 +103,6 @@
           "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
           "reason_en": "Signal detected around ai. Hot item. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Enifer enters petfood market as commercial mycoprotein plant nears launch",
-          "link": "https://agfundernews.com/enifer-enters-petfood-market-as-commercial-pekilo-plant-nears-launch",
-          "pubDate": "Tue, 12 May 2026 07:00:53 +0000",
-          "description": "\"Our goal is to establish PEKILO as a widely used ingredient across pet food categories, and ultimately across food categories in human nutrition,\" says CEO Simo Ellilä. The post Enifer enters petfood market as commercial mycoprotein plant nears launch appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 74,
-          "matchedKeywords": [
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -141,6 +141,24 @@
           "reason_nl": "Signaal gedetecteerd rond ai, ia. Actueel signaal. Technologiehoek."
         },
         {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "More litigation expected over California recycling regulations",
+          "link": "https://www.packagingdive.com/news/california-recycling-regulations-lawsuits-nrdc/820027/",
+          "pubDate": "Wed, 13 May 2026 11:30:00 -0400",
+          "description": "Packaging EPR law SB 54 could spark lawsuits from environmental groups and businesses alike. Meanwhile, certain industry groups are seeking a preliminary injunction with recyclability labeling law SB 343.",
+          "category": "tech",
+          "score": 71,
+          "matchedKeywords": [
+            "ai",
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Boomitra hits major milestone as ranchers reap real financial gains from regenerative grazing in Mexico",
@@ -157,24 +175,6 @@
           "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’",
-          "link": "https://agfundernews.com/niqo-robotics-expands-reach-targets-profitability-in-2026-7-farmers-dont-want-ai-hype-they-want-roi",
-          "pubDate": "Tue, 05 May 2026 11:00:17 +0000",
-          "description": "\"Farmers just want to know when it will pay off, what's the maintenance like, and how it will make or save me money,\" says Niqo Robotics CEO Jaisimha Rao. The post Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’ appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 70,
-          "matchedKeywords": [
-            "robotics",
-            "ai"
-          ],
-          "reason": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around robotics, ai. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond robotics, ai. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -197,12 +197,12 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Global frameworks for regenerative agriculture still need local context, says SAI",
-          "link": "https://agfundernews.com/global-frameworks-for-regenerative-agriculture-still-need-local-context-says-sai",
-          "pubDate": "Wed, 13 May 2026 14:06:23 +0000",
-          "description": "SAI created its Regenerating Together program to make global regenerative agriculture standards adaptable at the local level. The post Global frameworks for regenerative agriculture still need local context, says SAI appeared first on AgFunderNews .",
+          "title": "The cracks in chemical farming are getting hard to ignore. These startups are providing alternatives",
+          "link": "https://agfundernews.com/the-cracks-in-chemical-farming-are-getting-hard-to-ignore-these-startups-are-providing-alternatives",
+          "pubDate": "Tue, 19 May 2026 19:58:13 +0000",
+          "description": "Deeptech startups are bringing a range of solutions to help, from multiplex gene editing to AI-powered robotic systems. The post The cracks in chemical farming are getting hard to ignore. These startups are providing alternatives appeared first on AgFunderNews .",
           "category": "tech",
-          "score": 68,
+          "score": 69,
           "matchedKeywords": [
             "ai"
           ],
@@ -214,12 +214,12 @@
         {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "Smurfit Westrock introduces 2030 sustainability goals",
-          "link": "https://www.packagingdive.com/news/smurfit-westrock-2025-sustainability-report-2030-targets-emissions/820043/",
-          "pubDate": "Wed, 13 May 2026 12:10:00 -0400",
-          "description": "In its first sustainability report covering the integrated company, Smurfit Westrock laid out targets for reducing greenhouse gas emissions, water use and waste. It also teased that more goals could be coming.",
+          "title": "Lidless paper cups maker Nothing eyes expansion, driven by microplastics concerns",
+          "link": "https://www.packagingdive.com/news/nothing-sofi-paper-lidless-cups/820442/",
+          "pubDate": "Tue, 19 May 2026 11:00:00 -0400",
+          "description": "The recently rebranded company is looking to set up U.S. production, said co-founder Brandon Leeds, as it aims to appeal to foodservice businesses and microplastics-wary consumers with foldable hot and cold cup designs.",
           "category": "tech",
-          "score": 68,
+          "score": 69,
           "matchedKeywords": [
             "ai"
           ],
@@ -227,6 +227,23 @@
           "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
           "reason_en": "Signal detected around ai. Hot item. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
+        },
+        {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "Polystyrene recycling group cites medical, transport packaging as key end markets",
+          "link": "https://www.packagingdive.com/news/polystyrene-recycling-alliance-medical-transport-packaging-end-markets/820601/",
+          "pubDate": "Tue, 19 May 2026 10:30:00 -0400",
+          "description": "A study conducted by Resource Recycling Systems on behalf of the Polystyrene Recycling Alliance identified 81 companies and 119 total facilities that handle expanded or extruded polystyrene foam.",
+          "category": "tech",
+          "score": 69,
+          "matchedKeywords": [
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
         },
         {
           "source": "Packaging Dive",
@@ -246,22 +263,21 @@
           "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
         },
         {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "CAA seeks to standardize responsible end market requirements",
-          "link": "https://www.packagingdive.com/news/circular-action-alliance-proposed-responsible-end-market-standard-packaging-epr/819731/",
-          "pubDate": "Mon, 11 May 2026 09:12:00 -0400",
-          "description": "Circular Action Alliance is accepting public comments on a proposed REM standard meant to be cohesive across packaging EPR states. It aims to ensure materials are handled in an environmentally sound way.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Renaissance Bioscience unveils yeast-derived VLP platform for next-gen RNAi biopesticides",
+          "link": "https://agfundernews.com/renaissance-bioscience-unveils-yeast-derived-vlp-platform-for-next-gen-rnai-biopesticides",
+          "pubDate": "Mon, 18 May 2026 07:05:52 +0000",
+          "description": "Virus like particles could pave the way for next-gen RNAi biopesticides with broader applications and lower costs, claims Renaissance Bioscience. The post Renaissance Bioscience unveils yeast-derived VLP platform for next-gen RNAi biopesticides appeared first on AgFunderNews .",
           "category": "tech",
           "score": 68,
           "matchedKeywords": [
-            "ai",
-            "ia"
+            "ai"
           ],
-          "reason": "Signal detecte autour de ai, ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai, ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ai, ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai, ia. Actueel signaal. Technologiehoek."
+          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -283,10 +299,10 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
-          "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
-          "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
-          "description": "By sterilizing bioreactors with UV light instead of complex steam-in-place systems, firms can slash capex and opex costs, claims Biosphere. The post Biosphere lands Pentagon funding to build portable “protein from air” bioreactors appeared first on AgFunderNews .",
+          "title": "Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch",
+          "link": "https://agfundernews.com/brightseed-layers-agentic-ai-onto-forager-bioactives-discovery-platform-with-hummingbird-launch",
+          "pubDate": "Wed, 13 May 2026 13:00:46 +0000",
+          "description": "“One of our customers came back to us and said that through Hummingbird, one of its PhD scientists just did in two weeks with our platform what it used to take six months to achieve,\" says cofounder Lee Chae, PhD. The post Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch appeared first on AgFunderNews .",
           "category": "tech",
           "score": 66,
           "matchedKeywords": [
@@ -296,6 +312,23 @@
           "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Enifer enters petfood market as commercial mycoprotein plant nears launch",
+          "link": "https://agfundernews.com/enifer-enters-petfood-market-as-commercial-pekilo-plant-nears-launch",
+          "pubDate": "Tue, 12 May 2026 07:00:53 +0000",
+          "description": "\"Our goal is to establish PEKILO as a widely used ingredient across pet food categories, and ultimately across food categories in human nutrition,\" says CEO Simo Ellilä. The post Enifer enters petfood market as commercial mycoprotein plant nears launch appeared first on AgFunderNews .",
+          "category": "tech",
+          "score": 66,
+          "matchedKeywords": [
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ia. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ia. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -304,23 +337,6 @@
           "link": "https://agfundernews.com/beyond-meat-ceo-fleshes-out-beverage-launch-plans-for-new-york-retail-debut-after-grim-q1",
           "pubDate": "Thu, 07 May 2026 00:36:39 +0000",
           "description": "Beyond Meat’s new sparkling protein beverage will hit stores in New York this summer, while Beyond Steak will launch in select retailers later this year. The post Beyond Meat CEO fleshes out beverage launch plans for New York retail debut after grim Q1 appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 66,
-          "matchedKeywords": [
-            "ai"
-          ],
-          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed",
-          "link": "https://agfundernews.com/terrablaster-aims-for-late-2026-launch-with-real-time-npk-soil-mapping-at-tractor-speed",
-          "pubDate": "Mon, 04 May 2026 15:31:29 +0000",
-          "description": "Right now, TerraBlaster's tech works at 5mph, a speed CEO Jorge Heraud reckons he can double to 10mph “pretty soon.” The post TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed appeared first on AgFunderNews .",
           "category": "tech",
           "score": 66,
           "matchedKeywords": [
@@ -347,6 +363,24 @@
           "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’",
+          "link": "https://agfundernews.com/niqo-robotics-expands-reach-targets-profitability-in-2026-7-farmers-dont-want-ai-hype-they-want-roi",
+          "pubDate": "Tue, 05 May 2026 11:00:17 +0000",
+          "description": "\"Farmers just want to know when it will pay off, what's the maintenance like, and how it will make or save me money,\" says Niqo Robotics CEO Jaisimha Rao. The post Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’ appeared first on AgFunderNews .",
+          "category": "tech",
+          "score": 64,
+          "matchedKeywords": [
+            "robotics",
+            "ai"
+          ],
+          "reason": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around robotics, ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond robotics, ai. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -400,23 +434,6 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Technologiehoek."
         },
         {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "CalRecycle publishes new SB 54 guidance for producers",
-          "link": "https://www.packagingdive.com/news/calrecycle-sb54-producer-guidance-documents/819941/",
-          "pubDate": "Tue, 12 May 2026 11:40:00 -0400",
-          "description": "The agency is shedding more light on identifying producer status and covered materials under the packaging EPR and source reduction law, as well as declaring food and agricultural packaging that may be excluded.",
-          "category": "tech",
-          "score": 63,
-          "matchedKeywords": [
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
-        },
-        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Heura Foods hits positive EBITDA in Q1: ‘a turning point for the European plant-based sector’",
@@ -434,38 +451,38 @@
           "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
         },
         {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "Class action lawsuit alleges Graphic Packaging misled investors",
-          "link": "https://www.packagingdive.com/news/graphic-packaging-international-federal-securities-lawsuit-mike-doss-stephen-scherger/819803/",
-          "pubDate": "Mon, 11 May 2026 16:59:00 -0400",
-          "description": "The lawsuit, which also names former GPI CEO Mike Doss and former CFO Stephen Scherger as defendants, claims shareholders endured harm from investment decisions based on misleading or withheld information.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Global frameworks for regenerative agriculture still need local context, says SAI",
+          "link": "https://agfundernews.com/global-frameworks-for-regenerative-agriculture-still-need-local-context-says-sai",
+          "pubDate": "Wed, 13 May 2026 14:06:23 +0000",
+          "description": "SAI created its Regenerating Together program to make global regenerative agriculture standards adaptable at the local level. The post Global frameworks for regenerative agriculture still need local context, says SAI appeared first on AgFunderNews .",
           "category": "tech",
-          "score": 63,
+          "score": 60,
           "matchedKeywords": [
             "ai"
           ],
-          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
+          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "20% of US residents can now recycle paper cups, FPI says",
-          "link": "https://www.packagingdive.com/news/paper-cup-recycling-access-foodservice-packaging-institute/819750/",
-          "pubDate": "Mon, 11 May 2026 11:24:00 -0400",
-          "description": "Paper cup recycling access quadrupled in the last decade, according to the Foodservice Packaging Institute. But more work is needed, including on end markets, as some mills that accepted the material have backed out.",
+          "title": "Smurfit Westrock introduces 2030 sustainability goals",
+          "link": "https://www.packagingdive.com/news/smurfit-westrock-2025-sustainability-report-2030-targets-emissions/820043/",
+          "pubDate": "Wed, 13 May 2026 12:10:00 -0400",
+          "description": "In its first sustainability report covering the integrated company, Smurfit Westrock laid out targets for reducing greenhouse gas emissions, water use and waste. It also teased that more goals could be coming.",
           "category": "tech",
-          "score": 63,
+          "score": 60,
           "matchedKeywords": [
-            "ia"
+            "ai"
           ],
-          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
+          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "Google News - technologies agroalimentaires",
@@ -488,20 +505,36 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Endgame looms in EPG antitrust fight as David Protein urges judge to toss case for good",
-          "link": "https://agfundernews.com/endgame-looms-in-epg-antitrust-fight-as-david-protein-urges-judge-to-toss-case-for-good",
-          "pubDate": "Mon, 04 May 2026 18:56:50 +0000",
-          "description": "Plaintiffs “have now tried four times to plead a viable complaint,” says David Protein. “The third amended complaint should be dismissed, this time with prejudice.” The post Endgame looms in EPG antitrust fight as David Protein urges judge to toss case for good appeared first on AgFunderNews .",
+          "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
+          "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
+          "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
+          "description": "By sterilizing bioreactors with UV light instead of complex steam-in-place systems, firms can slash capex and opex costs, claims Biosphere. The post Biosphere lands Pentagon funding to build portable “protein from air” bioreactors appeared first on AgFunderNews .",
           "category": "tech",
           "score": 60,
           "matchedKeywords": [
-            "ai",
-            "ia"
+            "ai"
           ],
-          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
+          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed",
+          "link": "https://agfundernews.com/terrablaster-aims-for-late-2026-launch-with-real-time-npk-soil-mapping-at-tractor-speed",
+          "pubDate": "Mon, 04 May 2026 15:31:29 +0000",
+          "description": "Right now, TerraBlaster's tech works at 5mph, a speed CEO Jorge Heraud reckons he can double to 10mph “pretty soon.” The post TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed appeared first on AgFunderNews .",
+          "category": "tech",
+          "score": 60,
+          "matchedKeywords": [
+            "ai"
+          ],
+          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -510,23 +543,6 @@
           "link": "https://agfundernews.com/guest-article-open-source-education-is-key-to-helping-agriculture-overcome-its-data-phobia",
           "pubDate": "Fri, 08 May 2026 16:00:32 +0000",
           "description": "The data-phobia problem means helping the industry engage with structured information, statistical thinking, and predictive modeling. The post Guest article: Open-source education is key to helping agriculture overcome its data phobia appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 60,
-          "matchedKeywords": [
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "Packaging, materials groups testify in Section 301 tariff probe",
-          "link": "https://www.packagingdive.com/news/packaging-materials-groups-testify-section-301-tariff-probe-ustr-trade/819687/",
-          "pubDate": "Fri, 08 May 2026 12:38:00 -0400",
-          "description": "Representatives from the Can Manufacturers Institute and Association of Plastic Recyclers were among the groups testifying this week about foreign countries’ trade actions that harm U.S. manufacturers.",
           "category": "tech",
           "score": 60,
           "matchedKeywords": [
@@ -594,24 +610,6 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "🎥 AgriPass on ag robotics 2.0: ‘We’re replicating the human weeding process but making it affordable at scale’",
-          "link": "https://agfundernews.com/agripass-on-ag-robotics-2-0-were-replicating-the-human-weeding-process-but-making-it-affordable-at-scale",
-          "pubDate": "Mon, 20 Apr 2026 15:54:02 +0000",
-          "description": "\"The AI handles contextual analysis and decision-making to identify which weeds to target and how, in the way an experienced farmer would in real time,\" says CEO Liron Cohen Yanay. The post 🎥 AgriPass on ag robotics 2.0: ‘We’re replicating the human weeding process but making it affordable at scale’ appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 59,
-          "matchedKeywords": [
-            "robotics",
-            "ai"
-          ],
-          "reason": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de robotics, ai. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around robotics, ai. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond robotics, ai. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
           "title": "US Senate fertilizer hearing: Farmers ‘can’t take much more’ as prices surge",
           "link": "https://agfundernews.com/us-senate-fertilizer-hearing-farmers-cant-take-much-more-as-prices-surge",
           "pubDate": "Wed, 13 May 2026 21:46:42 +0000",
@@ -627,10 +625,10 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves",
-          "link": "https://agfundernews.com/resurrect-bio-expands-series-a-to-10-3m-to-scale-tech-helping-plants-to-defend-themselves",
-          "pubDate": "Wed, 13 May 2026 15:37:37 +0000",
-          "description": "Following a joint development agreement with Corteva, Resurrect Bio is seeking to engage more seed companies and breeders as partners. The post Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves appeared first on AgFunderNews .",
+          "title": "AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ",
+          "link": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
+          "pubDate": "Thu, 14 May 2026 19:00:03 +0000",
+          "description": "Plus: A World Bank-hosted fund opens grant money to bolster food security. The post AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ appeared first on AgFunderNews .",
           "category": "tech",
           "score": 58,
           "matchedKeywords": [],
@@ -640,12 +638,12 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Technologiehoek."
         },
         {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ",
-          "link": "https://agfundernews.com/agrifood-signals-s2g-investments-bags-1bn-oishii-makes-first-close-of-series-c-corteva-picks-crop-protection-hq",
-          "pubDate": "Thu, 14 May 2026 19:00:03 +0000",
-          "description": "Plus: A World Bank-hosted fund opens grant money to bolster food security. The post AgriFood Signals: S2G Investments bags $1bn, Oishii makes first close of Series C, Corteva picks crop protection HQ appeared first on AgFunderNews .",
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "Mondi, Poly Craft Industries, PolyFlex announce expansions",
+          "link": "https://www.packagingdive.com/news/Packaging-company-expansions-mondi-poly-craft-polyflex/820462/",
+          "pubDate": "Mon, 18 May 2026 11:15:00 -0400",
+          "description": "Paper and plastic packaging companies announced capacity expansions in the Midwest and on the East Coast.",
           "category": "tech",
           "score": 58,
           "matchedKeywords": [],
@@ -681,32 +679,32 @@
           "url": "https://news.google.com/rss/search?q=%28%22nouveau+gout%22+OR+%22tendance+gout%22+OR+%22arome+tendance%22+OR+%22melange+saveurs%22%29+alimentaire&hl=fr&gl=FR&ceid=FR:fr"
         }
       ],
-      "total": 19,
+      "total": 18,
       "items": [
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Cargill to launch cocoa-free chocolate in US",
-          "link": "https://www.fooddive.com/news/cargill-voyage-foods-coca-free-chocolate-alternative-nextcoa/820275/",
-          "pubDate": "Thu, 14 May 2026 13:31:00 -0400",
-          "description": "NextCoa, made in partnership with Voyage Foods, gives food companies a new option to “future-proof” supply, a Cargill senior product line specialist said.",
+          "title": "Ferrero to revive Wonka candy brand with Netflix",
+          "link": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+          "pubDate": "Wed, 20 May 2026 10:47:00 -0400",
+          "description": "The candy giant is collaborating with the streaming platform on 10 seasonal and limited-edition products this fall, spanning categories including chocolate, cereal and ice cream.",
           "category": "trends",
-          "score": 74,
+          "score": 69,
           "matchedKeywords": [
-            "launch"
+            "limited edition"
           ],
-          "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
-          "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
+          "reason": "Signal detecte autour de limited edition. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal detecte autour de limited edition. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Signal detected around limited edition. Hot item. Sensory trend angle.",
+          "reason_nl": "Signaal gedetecteerd rond limited edition. Actueel signaal. Sensorische trendhoek."
         },
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
-          "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-          "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
-          "description": "A potential acquisition would expand Ingredion’s position in texture and mouthfeel.",
+          "title": "Ring Pop maker Bazooka expands into international flavors with new candy brand",
+          "link": "https://www.fooddive.com/news/bazooka-brands-go-wandr-mochi-gummy-international-flavors/820606/",
+          "pubDate": "Tue, 19 May 2026 11:01:00 -0400",
+          "description": "Go Wandr looks to tap into consumer interest in global flavors and textures, starting with a Japan-inspired mochi gummy.",
           "category": "trends",
           "score": 69,
           "matchedKeywords": [
@@ -720,12 +718,102 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Building a solid ad budget amid more economic uncertainty",
-          "link": "https://www.fooddive.com/spons/building-a-solid-ad-budget-amid-more-economic-uncertainty/820201/",
-          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
-          "description": "Spend smarter, not quieter: How food brands can build resilient ad budgets now.",
+          "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+          "link": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+          "pubDate": "Wed, 20 May 2026 10:14:00 -0400",
+          "description": "An NGA analysis found that every $1 in indie grocery sales generates an additional 58 cents in supply chain and household spending nationwide.",
           "category": "trends",
           "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Once Upon a Farm soars as parents seek healthier kids’ foods despite inflation",
+          "link": "https://www.fooddive.com/news/once-upon-a-farm-soars-as-parents-seek-healthier-kids-foods-despite-inflat/819748/",
+          "pubDate": "Wed, 20 May 2026 09:30:00 -0400",
+          "description": "John Foraker, the company’s CEO and co-founder, said consumer demand for better-for-you offerings remains robust even as rising prices prompt shoppers to cut back on spending in other areas.",
+          "category": "trends",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Danone exits stake in Lifeway Foods",
+          "link": "https://www.fooddive.com/news/danone-sells-stake-lifeway-kefir/820590/",
+          "pubDate": "Tue, 19 May 2026 10:03:00 -0400",
+          "description": "The dairy giant is selling off its shares in the kefir maker, ending a long and tumultuous relationship between the two companies.",
+          "category": "trends",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Kraft Heinz’s biggest portfolio campaign to date celebrates America250",
+          "link": "https://www.fooddive.com/news/kraft-heinzs-biggest-portfolio-campaign-to-date-celebrates-america250/820583/",
+          "pubDate": "Tue, 19 May 2026 09:37:00 -0400",
+          "description": "The CPG giant is uniting several of its top brands to capitalize on cookout season as it ramps up marketing spend to support its turnaround.",
+          "category": "trends",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "FDA names safety vet acting head of food",
+          "link": "https://www.fooddive.com/news/fda-human-foods-program-donald-prater/820484/",
+          "pubDate": "Mon, 18 May 2026 11:00:00 -0400",
+          "description": "Donald Prater will lead the Human Foods Program and replace Kyle Diamantas, who is taking over as department commissioner.",
+          "category": "trends",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Grocery inflation hits highest level since mid-2023",
+          "link": "https://www.fooddive.com/news/grocery-inflation-april-2026-tomatoes-beef-coffee/820465/",
+          "pubDate": "Mon, 18 May 2026 09:51:00 -0400",
+          "description": "Tomato prices were up nearly 40% year over year in April, the quickest rate of inflation among the food-at-home categories that the BLS tracks.",
+          "category": "trends",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
+          "link": "https://www.fooddive.com/news/utzs-regional-potato-chip-brand-salty-snack-giant/812739/",
+          "pubDate": "Mon, 18 May 2026 09:23:00 -0400",
+          "description": "The 105-year-old pretzel and chip maker is in the midst of a slow but steady national expansion as it competes with PepsiCo’s Frito-Lay and scores of smaller local brands.",
+          "category": "trends",
+          "score": 58,
           "matchedKeywords": [],
           "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
           "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
@@ -739,96 +827,6 @@
           "link": "https://www.fooddive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/819381/",
           "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
           "description": "How can you secure success and meet consumer demands in the shelf-stable food category?",
-          "category": "trends",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Leftovers: Welch’s debuts biggest ‘function-forward innovation’ | Mother’s sprinkles Nerds on frosted cookies",
-          "link": "https://www.fooddive.com/news/welchs-fruit-snacks-probiotic-mothers-cookies-nerds-saint-james-iced-tea/820353/",
-          "pubDate": "Fri, 15 May 2026 10:21:00 -0400",
-          "description": "A new probiotic-packed yogurt fruit snack looks to answer demand for gut-friendly foods, while Saint James Iced Tea adds its twist to Arnold Palmer.",
-          "category": "trends",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ben & Jerry’s owner to offer ice cream at entertainment venues through Mini Melts partnership",
-          "link": "https://www.fooddive.com/news/magnum-ice-cream-mini-melts-partnership/820114/",
-          "pubDate": "Wed, 13 May 2026 11:15:00 -0400",
-          "description": "The agreement advances Magnum's out-of-home growth strategy by targeting consumers in high-traffic locations.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Jack Link’s names president of North America",
-          "link": "https://www.fooddive.com/news/jack-links-names-president-of-north-america/820101/",
-          "pubDate": "Thu, 14 May 2026 10:54:00 -0400",
-          "description": "Jeff Caswell joins the beef jerky maker from Mid America Pet Food, where he was CEO and a board member for the past two years.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "BuzzBallz owner takes stake in influencer Alix Earle’s cocktail brand Sipmargs",
-          "link": "https://www.fooddive.com/news/sazerac-stake-sipmargs-alix-earle/820231/",
-          "pubDate": "Thu, 14 May 2026 10:00:00 -0400",
-          "description": "The deal is Sazerac's second investment in a celebrity-backed brand in two weeks after it purchased equity in Kendall Jenner’s 818 Tequila.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "PepsiCo’s Muscle Milk flexes rebrand in crowded protein drink space",
-          "link": "https://www.fooddive.com/news/pepsicos-muscle-milk-flexes-rebrand-in-crowded-protein-drink-space/819873/",
-          "pubDate": "Fri, 15 May 2026 11:00:00 -0400",
-          "description": "The reformulated beverage amps up the protein while cutting artificial colors, sweeteners and flavors, positioning it to stand out among competitors like Coca-Cola's Core Power.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Canmakers say capacity is tight as beverage industry gears up for big summer",
-          "link": "https://www.fooddive.com/news/beverage-food-cans-earnings-ball-ab-inbev-crown-ardagh-/820259/",
-          "pubDate": "Fri, 15 May 2026 10:31:00 -0400",
-          "description": "Ball, Crown and Ardagh are navigating higher input costs and inflationary pressures as brands prepare promotions related to the World Cup and America250 celebrations.",
           "category": "trends",
           "score": 58,
           "matchedKeywords": [],
@@ -891,21 +889,6 @@
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaF9nZzRKdTJkMk1BYkZEX3k0dWJteUV4S2l6QzdiR21JNnlHdmM0eDZqY0pCdmFtQ2lySWphMzlHZm1tMmhMeFhHRmFHRjlpSHBsdGdvVmJpY1BBVEt6MW0xU09oSFJDYXBkTGliRml6dF9XS2pmVUtZenlQSkN6V18tdW5WS00?oc=5",
           "pubDate": "Thu, 05 Oct 2023 07:00:00 GMT",
           "description": "Après le salé, le sucré, l'amer, l'acide et l'umami, des chercheurs viennent de découvrir un nouveau goût Marie Claire",
-          "category": "trends",
-          "score": 36,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Sensorische trendhoek."
-        },
-        {
-          "source": "Google News - flavor trends",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22flavor+trend%22+OR+%22flavour+trend%22+OR+%22taste+trend%22+OR+%22new+flavor%22+OR+%22flavour+combination%22%29+food&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Un Nouveau Chapitre Créatif au Pink Pearl by Olivier E. du JW Marriott - Tatler Asia",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzdoLTVORHNsVlZJVFMyVEt2SmJyLXJPVmd6OElJR2JlOExQeVMwNmMtMmZxcUU5eEl6X1MzVndCa3lwZlZRcmh2WDNCczdJanlNdFVQdGF3WUhIZm5EeTJJVnp2WDd5NjMtYWFZU01iRkw2U2JrRjdNSnRwOVAwclNReUUtZ0ZvNVN1ZFFxaWllcEowS05XUDJtS25HNlg0UU9vdmhRcGU1M1hUbmlkQ2RfUTczYW96OHNR?oc=5",
-          "pubDate": "Sun, 12 Apr 2026 07:00:00 GMT",
-          "description": "Un Nouveau Chapitre Créatif au Pink Pearl by Olivier E. du JW Marriott Tatler Asia",
           "category": "trends",
           "score": 36,
           "matchedKeywords": [],
@@ -1002,19 +985,19 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FDA Finalizes Systematic Post-Market Food Chemical Review Process",
-          "link": "https://www.food-safety.com/articles/11422-fda-finalizes-systematic-post-market-food-chemical-review-process",
-          "pubDate": "Tue, 12 May 2026 12:55:16 -0400",
-          "description": "The agency also announced the launch of reassessments for butylated hydroxytoluene (BHT) and azodicarbonamide (ADA).",
+          "title": "EPA Issues Rules Rolling Back Biden-Era Drinking Water Limits for PFAS",
+          "link": "https://www.food-safety.com/articles/11437-epa-issues-rules-rolling-back-biden-era-drinking-water-limits-for-pfas",
+          "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+          "description": "With two proposed rules issued on May 18, the Trump EPA followed through on its stated intent to rescind or extend the compliance date for Biden-era drinking water limits for several “forever chemicals” of concern.",
           "category": "aroma",
-          "score": 74,
+          "score": 69,
           "matchedKeywords": [
-            "fda"
+            "compliance"
           ],
-          "reason": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Hot item. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Actueel signaal. Aromareguleringhoek."
+          "reason": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Signal detected around compliance. Hot item. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond compliance. Actueel signaal. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1023,23 +1006,6 @@
           "link": "https://www.food-safety.com/articles/11425-fda-encourages-industry-to-develop-best-practices-use-root-cause-analyses",
           "pubDate": "Wed, 13 May 2026 16:30:48 -0400",
           "description": "The agency has released two new web resources to help stakeholders work with FDA as they develop best practices and implement root cause analyses.",
-          "category": "aroma",
-          "score": 68,
-          "matchedKeywords": [
-            "fda"
-          ],
-          "reason": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Hot item. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FDA Commissioner Steps Down, To Be Replaced by Agency’s Human Foods Leader",
-          "link": "https://www.food-safety.com/articles/11423-fda-commissioner-steps-down-to-be-replaced-by-agencys-human-foods-leader",
-          "pubDate": "Tue, 12 May 2026 14:15:50 -0400",
-          "description": "Marty Makary, M.D., has been ousted as FDA Commissioner. He will reportedly be replaced by the agency’s Deputy Commissioner for Human Foods, Kyle Diamantas, J.D.",
           "category": "aroma",
           "score": 68,
           "matchedKeywords": [
@@ -1104,6 +1070,23 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "FDA Finalizes Systematic Post-Market Food Chemical Review Process",
+          "link": "https://www.food-safety.com/articles/11422-fda-finalizes-systematic-post-market-food-chemical-review-process",
+          "pubDate": "Tue, 12 May 2026 12:55:16 -0400",
+          "description": "The agency also announced the launch of reassessments for butylated hydroxytoluene (BHT) and azodicarbonamide (ADA).",
+          "category": "aroma",
+          "score": 66,
+          "matchedKeywords": [
+            "fda"
+          ],
+          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Updated EU Food Chemical Safety Information Database Now Available",
           "link": "https://www.food-safety.com/articles/11413-updated-eu-food-chemical-safety-information-database-now-available",
           "pubDate": "Thu, 07 May 2026 11:57:08 -0400",
@@ -1119,6 +1102,36 @@
           "reason_fr": "Signal detecte autour de efsa, flavoring, additive. A suivre dans la duree. Angle regulation aromatique.",
           "reason_en": "Signal detected around efsa, flavoring, additive. Worth tracking over time. Flavour regulation angle.",
           "reason_nl": "Signaal gedetecteerd rond efsa, flavoring, additive. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "Codex Moves to Adopt Standardized Precautionary Allergen Labeling, Kicks UPFs Can Down the Road",
+          "link": "https://www.food-safety.com/articles/11435-codex-moves-to-adopt-standardized-precautionary-allergen-labeling-kicks-upfs-can-down-the-road",
+          "pubDate": "Tue, 19 May 2026 12:22:46 -0400",
+          "description": "During the 49 th Meeting of the Codex Committee on Food Labeling (CCFL49), guidelines on risk-based precautionary allergen labeling, labeling for multipack foods, and emergency flexible labeling were recommended for adoption. CCFL also declined a proposal to initiate work related to ultra-processed foods.",
+          "category": "aroma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "CDC: Produce, Salmonella Drove Multistate Foodborne Enteric Disease Outbreaks in 2024",
+          "link": "https://www.food-safety.com/articles/11433-cdc-produce-salmonella-drove-multistate-foodborne-enteric-disease-outbreaks-in-2024",
+          "pubDate": "Tue, 19 May 2026 05:26:00 -0400",
+          "description": "CDC has published a report summarizing the multistate enteric disease outbreaks it solved in 2024, of which 29 were foodborne, resulting in 1,533 illnesses, 519 hospitalizations, and 19 deaths.",
+          "category": "aroma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1141,23 +1154,6 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Better Use of Restaurant Inspection Data Could Help Prevent Foodborne Illness Outbreaks",
-          "link": "https://www.food-safety.com/articles/11407-better-use-of-restaurant-inspection-data-could-help-prevent-foodborne-illness-outbreaks",
-          "pubDate": "Wed, 13 May 2026 05:00:00 -0400",
-          "description": "In a new peer-reviewed article, researchers make a case for linking data from both routine foodservice establishment inspections and foodborne illness surveillance, while acknowledging existing challenges, like inconsistent adoption of FDA’s Food Code and electronic data collection systems.",
-          "category": "aroma",
-          "score": 63,
-          "matchedKeywords": [
-            "fda"
-          ],
-          "reason": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Hot item. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Top U.S. Food Safety Officials Discuss Regulatory Landscape at Food Safety Summit",
           "link": "https://www.food-safety.com/articles/11426-top-us-food-safety-officials-discuss-regulatory-landscape-at-food-safety-summit",
           "pubDate": "Thu, 14 May 2026 13:06:25 -0400",
@@ -1175,71 +1171,19 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "USDA-FSIS Publishes Revised Food Safety Guideline for Egg Products",
-          "link": "https://www.food-safety.com/articles/11402-usda-fsis-publishes-revised-food-safety-guideline-for-egg-products",
-          "pubDate": "Tue, 05 May 2026 12:46:17 -0400",
-          "description": "The guideline is designed to help small and very small plants producing egg products meet the regulatory requirements under the Egg Products Inspection Regulations Final Rule , including sanitation and HACCP requirements.",
-          "category": "aroma",
-          "score": 61,
-          "matchedKeywords": [
-            "regulation"
-          ],
-          "reason": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around regulation. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond regulation. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Europeans Exposed to High Doses of Glycerol in Drinks, EFSA Recommends Setting Limits",
-          "link": "https://www.food-safety.com/articles/11404-europeans-exposed-to-high-doses-of-glycerol-in-drinks-efsa-recommends-setting-limits",
-          "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
-          "description": "EFSA conducted an acute exposure assessment for glycerol in slushies and dealcoholized wine following reports of toddlers and young children experiencing glycerol intoxication due to excessive slushie consumption in a single sitting.",
+          "title": "FDA Commissioner Steps Down, To Be Replaced by Agency’s Human Foods Leader",
+          "link": "https://www.food-safety.com/articles/11423-fda-commissioner-steps-down-to-be-replaced-by-agencys-human-foods-leader",
+          "pubDate": "Tue, 12 May 2026 14:15:50 -0400",
+          "description": "Marty Makary, M.D., has been ousted as FDA Commissioner. He will reportedly be replaced by the agency’s Deputy Commissioner for Human Foods, Kyle Diamantas, J.D.",
           "category": "aroma",
           "score": 60,
           "matchedKeywords": [
-            "efsa"
+            "fda"
           ],
-          "reason": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around efsa. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond efsa. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "EU Introduces Regulations for Crops Bred Through New Genomic Techniques",
-          "link": "https://www.food-safety.com/articles/11382-eu-introduces-regulations-for-crops-bred-through-new-genomic-techniques",
-          "pubDate": "Tue, 28 Apr 2026 11:50:41 -0400",
-          "description": "According to the European Commission, NGTs have the potential to contribute to sustainable agri-food systems and help respond to food security challenges. The new rules would separate plants developed through NGTs from legislation applying to GMOs.",
-          "category": "aroma",
-          "score": 60,
-          "matchedKeywords": [
-            "regulation"
-          ],
-          "reason": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around regulation. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond regulation. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Monitoring Data Show EU Food Mostly Compliant with Pesticide Limits",
-          "link": "https://www.food-safety.com/articles/11400-monitoring-data-show-eu-food-mostly-compliant-with-pesticide-limits",
-          "pubDate": "Tue, 05 May 2026 08:31:37 -0400",
-          "description": "Based on the results of testing more than 125,000 food samples collected across Europe, compliance with EU pesticide maximum residue levels remains high, reported the European Food Safety Authority (EFSA).",
-          "category": "aroma",
-          "score": 60,
-          "matchedKeywords": [
-            "efsa",
-            "compliance"
-          ],
-          "reason": "Signal detecte autour de efsa, compliance. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de efsa, compliance. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around efsa, compliance. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond efsa, compliance. Op te volgen in de tijd. Aromareguleringhoek."
+          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1279,10 +1223,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Report: ‘Ultra-Processed’ Classification Does Not Reliably Indicate Nutritional Value",
-          "link": "https://www.food-safety.com/articles/11405-report-ultra-processed-classification-does-not-reliably-indicate-nutritional-value",
-          "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
-          "description": "However, ultra-processed foods were consistently more affordable and dominated total U.S. grocery sales. The report, commissioned by IFIC, suggests that dietary recommendations and discussions about UPFs must be grounded in real-world consumer behavior, rather than treating these products as easily avoidable, and consider nutritional value.",
+          "title": "Plasma-Activated Mist Shows Promise for Biofilm Removal in Food Facilities",
+          "link": "https://www.food-safety.com/articles/11409-plasma-activated-mist-shows-promise-for-biofilm-removal-in-food-facilities",
+          "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
+          "description": "Researchers achieved microbial reductions of 1.56–1.64 log CFU/cm 2 by applying plasma-activated water and water–chemical solutions to dual-species E. coli biofilms on stainless steel, suggesting the technology’s potential as a sustainable, safe alternative to traditional sanitizer treatments.",
           "category": "aroma",
           "score": 58,
           "matchedKeywords": [],
@@ -1294,10 +1238,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Plasma-Activated Mist Shows Promise for Biofilm Removal in Food Facilities",
-          "link": "https://www.food-safety.com/articles/11409-plasma-activated-mist-shows-promise-for-biofilm-removal-in-food-facilities",
-          "pubDate": "Thu, 14 May 2026 05:00:00 -0400",
-          "description": "Researchers achieved microbial reductions of 1.56–1.64 log CFU/cm 2 by applying plasma-activated water and water–chemical solutions to dual-species E. coli biofilms on stainless steel, suggesting the technology’s potential as a sustainable, safe alternative to traditional sanitizer treatments.",
+          "title": "FAO Highlights Food Safety Risks of Recycled, Renewable Plastics Used for Food Packaging",
+          "link": "https://www.food-safety.com/articles/11428-fao-highlights-food-safety-risks-of-recycled-renewable-plastics-used-for-food-packaging",
+          "pubDate": "Mon, 18 May 2026 10:04:12 -0400",
+          "description": "Chemical migration and microplastics shedding from recycled plastic food contact materials pose potential food safety concerns. Biopolymer risks are also not yet fully understood. The Codex Alimentarius Commission is considering developing guidance on recycled materials used in food packaging.",
           "category": "aroma",
           "score": 58,
           "matchedKeywords": [],
@@ -1327,6 +1271,40 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "Better Use of Restaurant Inspection Data Could Help Prevent Foodborne Illness Outbreaks",
+          "link": "https://www.food-safety.com/articles/11407-better-use-of-restaurant-inspection-data-could-help-prevent-foodborne-illness-outbreaks",
+          "pubDate": "Wed, 13 May 2026 05:00:00 -0400",
+          "description": "In a new peer-reviewed article, researchers make a case for linking data from both routine foodservice establishment inspections and foodborne illness surveillance, while acknowledging existing challenges, like inconsistent adoption of FDA’s Food Code and electronic data collection systems.",
+          "category": "aroma",
+          "score": 55,
+          "matchedKeywords": [
+            "fda"
+          ],
+          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "USDA-FSIS Publishes Revised Food Safety Guideline for Egg Products",
+          "link": "https://www.food-safety.com/articles/11402-usda-fsis-publishes-revised-food-safety-guideline-for-egg-products",
+          "pubDate": "Tue, 05 May 2026 12:46:17 -0400",
+          "description": "The guideline is designed to help small and very small plants producing egg products meet the regulatory requirements under the Egg Products Inspection Regulations Final Rule , including sanitation and HACCP requirements.",
+          "category": "aroma",
+          "score": 55,
+          "matchedKeywords": [
+            "regulation"
+          ],
+          "reason": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de regulation. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around regulation. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond regulation. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "NASEM Seeks Experts for Membership in Food Forum",
           "link": "https://www.food-safety.com/articles/11393-nasem-seeks-experts-for-membership-in-food-forum",
           "pubDate": "Fri, 01 May 2026 05:30:00 -0400",
@@ -1344,19 +1322,37 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FDA Testing Shows U.S. Infant Formula is Safe, with Undetectable or Very Low Chemical Contamination",
-          "link": "https://www.food-safety.com/articles/11388-fda-testing-shows-us-infant-formula-is-safe-with-undetectable-or-very-low-chemical-contamination",
-          "pubDate": "Wed, 29 Apr 2026 12:00:39 -0400",
-          "description": "Samples were tested for arsenic, cadmium, lead, mercury, PFAS, pesticides, and phthalates/plasticizers. When toxic heavy metals were detected in some samples, it was at levels far below EPA drinking water limits.",
+          "title": "Europeans Exposed to High Doses of Glycerol in Drinks, EFSA Recommends Setting Limits",
+          "link": "https://www.food-safety.com/articles/11404-europeans-exposed-to-high-doses-of-glycerol-in-drinks-efsa-recommends-setting-limits",
+          "pubDate": "Wed, 06 May 2026 05:00:00 -0400",
+          "description": "EFSA conducted an acute exposure assessment for glycerol in slushies and dealcoholized wine following reports of toddlers and young children experiencing glycerol intoxication due to excessive slushie consumption in a single sitting.",
           "category": "aroma",
           "score": 54,
           "matchedKeywords": [
-            "fda"
+            "efsa"
           ],
-          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
+          "reason": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around efsa. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond efsa. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "Monitoring Data Show EU Food Mostly Compliant with Pesticide Limits",
+          "link": "https://www.food-safety.com/articles/11400-monitoring-data-show-eu-food-mostly-compliant-with-pesticide-limits",
+          "pubDate": "Tue, 05 May 2026 08:31:37 -0400",
+          "description": "Based on the results of testing more than 125,000 food samples collected across Europe, compliance with EU pesticide maximum residue levels remains high, reported the European Food Safety Authority (EFSA).",
+          "category": "aroma",
+          "score": 54,
+          "matchedKeywords": [
+            "efsa",
+            "compliance"
+          ],
+          "reason": "Signal detecte autour de efsa, compliance. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de efsa, compliance. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around efsa, compliance. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond efsa, compliance. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1378,10 +1374,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Food Safety Five Ep. 31: Rare, Unusual, and Emerging Foodborne Pathogens of Growing Concern",
-          "link": "https://www.food-safety.com/articles/11396-food-safety-five-ep-31-rare-unusual-and-emerging-foodborne-pathogens-of-growing-concern",
-          "pubDate": "Tue, 05 May 2026 05:30:00 -0400",
-          "description": "This episode of Food Safety Five discusses several foodborne pathogens that have been recently highlighted by researchers due to their unusual nature, emergence, and increasing public health significance, including a rare Salmonella strain, an STEC/ETEC hybrid, Group B Streptococcus , and drug-resistant Shigella .",
+          "title": "Report: ‘Ultra-Processed’ Classification Does Not Reliably Indicate Nutritional Value",
+          "link": "https://www.food-safety.com/articles/11405-report-ultra-processed-classification-does-not-reliably-indicate-nutritional-value",
+          "pubDate": "Tue, 12 May 2026 05:00:00 -0400",
+          "description": "However, ultra-processed foods were consistently more affordable and dominated total U.S. grocery sales. The report, commissioned by IFIC, suggests that dietary recommendations and discussions about UPFs must be grounded in real-world consumer behavior, rather than treating these products as easily avoidable, and consider nutritional value.",
           "category": "aroma",
           "score": 50,
           "matchedKeywords": [],
@@ -1423,21 +1419,6 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Australia to Develop Foodborne Campylobacter Action Plan",
-          "link": "https://www.food-safety.com/articles/11395-australia-to-develop-foodborne-campylobacter-action-plan",
-          "pubDate": "Mon, 04 May 2026 10:34:07 -0400",
-          "description": "The action plan would outline strategies to mitigate Campylobacter and reduce cases of foodborne illness. Those who are interested in contributing to the development of the action plan are invited to register to receive communications about stakeholder engagement.",
-          "category": "aroma",
-          "score": 50,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Scientists Tackle Food Waste with More Accurate ‘Sell By’ Dates Based on Meat Microbial Activity",
           "link": "https://www.food-safety.com/articles/11414-scientists-tackle-food-waste-with-more-accurate-sell-by-dates-based-on-meat-microbial-activity",
           "pubDate": "Fri, 08 May 2026 05:00:00 -0400",
@@ -1449,23 +1430,6 @@
           "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle regulation aromatique.",
           "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Flavour regulation angle.",
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Federal Preemption of State Food Safety Laws Debated During Congressional Hearing",
-          "link": "https://www.food-safety.com/articles/11389-federal-preemption-of-state-food-safety-laws-debated-during-congressional-hearing",
-          "pubDate": "Wed, 29 Apr 2026 17:42:08 -0400",
-          "description": "In an April 29 Congressional hearing considering 28 active food safety bills, U.S. Representatives and witnesses from industry and consumer protection groups debated federal preemption of state food safety laws, GRAS and chemical ingredient oversight, and FDA– state information-sharing during outbreaks.",
-          "category": "aroma",
-          "score": 49,
-          "matchedKeywords": [
-            "fda"
-          ],
-          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1602,6 +1566,23 @@
           "reason_fr": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
           "reason_en": "Signal detected around additif. Worth tracking over time. Flavour regulation angle.",
           "reason_nl": "Signaal gedetecteerd rond additif. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Google News - regulation aromes",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Additifs alimentaires : la liste noire des substances les plus néfastes identifiées par les chercheurs - Doctissimo",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNX1B5TlRlWDAwN01FUEVmSFFCVWZFSnR1bGp1eXBrbHFDeGplR0x1bkhmeWJ6bGc2U0EyUHR3UzVXQ1NnY1NNcmwtYUtyZjJya1ZkSTc3YWtyeEVXVDk2QTVQOUVpSUtYc0N1Vm5ycnk1WWQ2N0cyTVVySVp3WVVoT3dwcDkzS1gtOVYxZE1NcnpBQTZ5bmtONDk2YUxfX3k5aEMyM0hMY3BwRWpFNTJob1BYNzBLWFBVSDViX3J4R21XVmhqYW5qR08zRHNPMDRWQ1puZXNyTExsSmJIWHZ5X2V2eXE3MXhRdExnTjVnT3haTVVqVmhtTk1ybGw0RklmTVJzOVJta2tQUm5vd3VuZmNvMW1wX2tFWG85NWZYN0V3TkVtS3RIcVl1X2FON2xuVTJ3dy1Rd28tRTczNWxjQ3N2ZG56M3JSeWlycw?oc=5",
+          "pubDate": "Tue, 02 Sep 2025 07:00:00 GMT",
+          "description": "Additifs alimentaires : la liste noire des substances les plus néfastes identifiées par les chercheurs Doctissimo",
+          "category": "aroma",
+          "score": 46,
+          "matchedKeywords": [
+            "additif"
+          ],
+          "reason": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around additif. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond additif. Op te volgen in de tijd. Aromareguleringhoek."
         }
       ]
     },
@@ -1628,24 +1609,6 @@
       ],
       "total": 36,
       "items": [
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
-          "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-          "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
-          "description": "A potential acquisition would expand Ingredion’s position in texture and mouthfeel.",
-          "category": "ingredients",
-          "score": 84,
-          "matchedKeywords": [
-            "ingredient",
-            "ingredients"
-          ],
-          "reason": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
-          "reason_en": "Signal detected around ingredient, ingredients. Hot item. Ingredients angle.",
-          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Actueel signaal. Ingredientenhoek."
-        },
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
@@ -1686,10 +1649,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Cargill to launch cocoa-free chocolate in US",
-          "link": "https://www.fooddive.com/news/cargill-voyage-foods-coca-free-chocolate-alternative-nextcoa/820275/",
-          "pubDate": "Thu, 14 May 2026 13:31:00 -0400",
-          "description": "NextCoa, made in partnership with Voyage Foods, gives food companies a new option to “future-proof” supply, a Cargill senior product line specialist said.",
+          "title": "Ferrero to revive Wonka candy brand with Netflix",
+          "link": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+          "pubDate": "Wed, 20 May 2026 10:47:00 -0400",
+          "description": "The candy giant is collaborating with the streaming platform on 10 seasonal and limited-edition products this fall, spanning categories including chocolate, cereal and ice cream.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1701,10 +1664,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Building a solid ad budget amid more economic uncertainty",
-          "link": "https://www.fooddive.com/spons/building-a-solid-ad-budget-amid-more-economic-uncertainty/820201/",
-          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
-          "description": "Spend smarter, not quieter: How food brands can build resilient ad budgets now.",
+          "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+          "link": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+          "pubDate": "Wed, 20 May 2026 10:14:00 -0400",
+          "description": "An NGA analysis found that every $1 in indie grocery sales generates an additional 58 cents in supply chain and household spending nationwide.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1716,10 +1679,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "How can you meet the evolving demands of today’s consumers?",
-          "link": "https://www.fooddive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/819381/",
-          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
-          "description": "How can you secure success and meet consumer demands in the shelf-stable food category?",
+          "title": "Once Upon a Farm soars as parents seek healthier kids’ foods despite inflation",
+          "link": "https://www.fooddive.com/news/once-upon-a-farm-soars-as-parents-seek-healthier-kids-foods-despite-inflat/819748/",
+          "pubDate": "Wed, 20 May 2026 09:30:00 -0400",
+          "description": "John Foraker, the company’s CEO and co-founder, said consumer demand for better-for-you offerings remains robust even as rising prices prompt shoppers to cut back on spending in other areas.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1731,10 +1694,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Leftovers: Welch’s debuts biggest ‘function-forward innovation’ | Mother’s sprinkles Nerds on frosted cookies",
-          "link": "https://www.fooddive.com/news/welchs-fruit-snacks-probiotic-mothers-cookies-nerds-saint-james-iced-tea/820353/",
-          "pubDate": "Fri, 15 May 2026 10:21:00 -0400",
-          "description": "A new probiotic-packed yogurt fruit snack looks to answer demand for gut-friendly foods, while Saint James Iced Tea adds its twist to Arnold Palmer.",
+          "title": "Ring Pop maker Bazooka expands into international flavors with new candy brand",
+          "link": "https://www.fooddive.com/news/bazooka-brands-go-wandr-mochi-gummy-international-flavors/820606/",
+          "pubDate": "Tue, 19 May 2026 11:01:00 -0400",
+          "description": "Go Wandr looks to tap into consumer interest in global flavors and textures, starting with a Japan-inspired mochi gummy.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1746,19 +1709,32 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "PepsiCo’s Muscle Milk flexes rebrand in crowded protein drink space",
-          "link": "https://www.fooddive.com/news/pepsicos-muscle-milk-flexes-rebrand-in-crowded-protein-drink-space/819873/",
-          "pubDate": "Fri, 15 May 2026 11:00:00 -0400",
-          "description": "The reformulated beverage amps up the protein while cutting artificial colors, sweeteners and flavors, positioning it to stand out among competitors like Coca-Cola's Core Power.",
+          "title": "Danone exits stake in Lifeway Foods",
+          "link": "https://www.fooddive.com/news/danone-sells-stake-lifeway-kefir/820590/",
+          "pubDate": "Tue, 19 May 2026 10:03:00 -0400",
+          "description": "The dairy giant is selling off its shares in the kefir maker, ending a long and tumultuous relationship between the two companies.",
           "category": "ingredients",
-          "score": 63,
-          "matchedKeywords": [
-            "sweetener"
-          ],
-          "reason": "Signal detecte autour de sweetener. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal detecte autour de sweetener. Actualite chaude. Angle ingredients.",
-          "reason_en": "Signal detected around sweetener. Hot item. Ingredients angle.",
-          "reason_nl": "Signaal gedetecteerd rond sweetener. Actueel signaal. Ingredientenhoek."
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Kraft Heinz’s biggest portfolio campaign to date celebrates America250",
+          "link": "https://www.fooddive.com/news/kraft-heinzs-biggest-portfolio-campaign-to-date-celebrates-america250/820583/",
+          "pubDate": "Tue, 19 May 2026 09:37:00 -0400",
+          "description": "The CPG giant is uniting several of its top brands to capitalize on cookout season as it ramps up marketing spend to support its turnaround.",
+          "category": "ingredients",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
         },
         {
           "source": "Google News - ingredient development",
@@ -1817,10 +1793,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ben & Jerry’s owner to offer ice cream at entertainment venues through Mini Melts partnership",
-          "link": "https://www.fooddive.com/news/magnum-ice-cream-mini-melts-partnership/820114/",
-          "pubDate": "Wed, 13 May 2026 11:15:00 -0400",
-          "description": "The agreement advances Magnum's out-of-home growth strategy by targeting consumers in high-traffic locations.",
+          "title": "FDA names safety vet acting head of food",
+          "link": "https://www.fooddive.com/news/fda-human-foods-program-donald-prater/820484/",
+          "pubDate": "Mon, 18 May 2026 11:00:00 -0400",
+          "description": "Donald Prater will lead the Human Foods Program and replace Kyle Diamantas, who is taking over as department commissioner.",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -1832,10 +1808,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Jack Link’s names president of North America",
-          "link": "https://www.fooddive.com/news/jack-links-names-president-of-north-america/820101/",
-          "pubDate": "Thu, 14 May 2026 10:54:00 -0400",
-          "description": "Jeff Caswell joins the beef jerky maker from Mid America Pet Food, where he was CEO and a board member for the past two years.",
+          "title": "Grocery inflation hits highest level since mid-2023",
+          "link": "https://www.fooddive.com/news/grocery-inflation-april-2026-tomatoes-beef-coffee/820465/",
+          "pubDate": "Mon, 18 May 2026 09:51:00 -0400",
+          "description": "Tomato prices were up nearly 40% year over year in April, the quickest rate of inflation among the food-at-home categories that the BLS tracks.",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -1847,10 +1823,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "BuzzBallz owner takes stake in influencer Alix Earle’s cocktail brand Sipmargs",
-          "link": "https://www.fooddive.com/news/sazerac-stake-sipmargs-alix-earle/820231/",
-          "pubDate": "Thu, 14 May 2026 10:00:00 -0400",
-          "description": "The deal is Sazerac's second investment in a celebrity-backed brand in two weeks after it purchased equity in Kendall Jenner’s 818 Tequila.",
+          "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
+          "link": "https://www.fooddive.com/news/utzs-regional-potato-chip-brand-salty-snack-giant/812739/",
+          "pubDate": "Mon, 18 May 2026 09:23:00 -0400",
+          "description": "The 105-year-old pretzel and chip maker is in the midst of a slow but steady national expansion as it competes with PepsiCo’s Frito-Lay and scores of smaller local brands.",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -1862,10 +1838,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Canmakers say capacity is tight as beverage industry gears up for big summer",
-          "link": "https://www.fooddive.com/news/beverage-food-cans-earnings-ball-ab-inbev-crown-ardagh-/820259/",
-          "pubDate": "Fri, 15 May 2026 10:31:00 -0400",
-          "description": "Ball, Crown and Ardagh are navigating higher input costs and inflationary pressures as brands prepare promotions related to the World Cup and America250 celebrations.",
+          "title": "How can you meet the evolving demands of today’s consumers?",
+          "link": "https://www.fooddive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/819381/",
+          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
+          "description": "How can you secure success and meet consumer demands in the shelf-stable food category?",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -2003,8 +1979,26 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Le CEPEX participe à un \"Study Tour\" à l’occasion du salon ’Fi Food Ingredients Europe’’ à Paris - Espacemanager",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDNmS0JqZmNDYWNael92cWpaZEc4TzNMd1FoSDJyS2ZmSHlBbjFXRDJydGZRTGp4WG1hN1lLRlpwaHdvY19Wck92WVJWVmJRMmV5TUlMQzJFaXhqQ21OQlktWEo2TlJEdmpJeGhLSmk0Q2JLQ19xcnZsMWVnMzg3bDJ6cGRRMHJXdnVtM0hQdjJWMEhvZUNKYktZOHZkODZBcmUyendJRVpWMVdBX1h4dlNTSE12TlMyVEt3?oc=5",
+          "pubDate": "Thu, 05 Dec 2019 08:00:00 GMT",
+          "description": "Le CEPEX participe à un \"Study Tour\" à l’occasion du salon ’Fi Food Ingredients Europe’’ à Paris Espacemanager",
+          "category": "ingredients",
+          "score": 56,
+          "matchedKeywords": [
+            "ingredient",
+            "ingredients"
+          ],
+          "reason": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Signal detected around ingredient, ingredients. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Google News - ingredient development",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
           "title": "La Tunisie séduit le monde au Food Ingredients Europe 2025 - tuniscope.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4NGNqeDR0ZHBiN1ZJbXJOelFmR3RwOEdpUEFEcGp5ZW5taDVpSnlybEVvaHhjakVZRjJjV3RobkpBNlEwX1c1VnEtTTZRUzFYYWUtSHd0QUlySlpJUjZBSm4yQTh6MjJEbWpvOHVrNklVd1VZY25ST2ZfZU53Zw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzBzeE9lTkVFSW93N0ZSUG9sVzZaQWtxaV9hdThHcVlLQWdfM0ZDbVNldFRqeXdkcVpaM2ZYeW93R2NTREZOMG1XQURGenJrLXdCZFRzaEtWcGN5RjVlbFBhZDJwM29PbzBqYkFMdHhQNU9obWNPUmhBQUJrUndlZ1hR?oc=5",
           "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
           "description": "La Tunisie séduit le monde au Food Ingredients Europe 2025 tuniscope.com",
           "category": "ingredients",
@@ -2057,24 +2051,6 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Feeding Pets, Fueling the Economy: 600+ Ingredients Drive $51.7B Pet Food Sales, According to New IFEEDER Report - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNDJkX2dQTDlTWGluRThVbXMzampmTlBYSHZjTC13STgweGxPUkFwQ3JjMWNyV01aOUtQUFpHQkl0VnFSa2d3NGowX0kySDdpWVdvQzVfam02ZUdKT1lNbXNKQUZZd3F3c1NBRWZ2dzA5SjZ5YnE2WDlCS3hTMEdCM3pjcmpzTE10UzhrdW9aMXhWQWVjRnllZ01qcGUySU1tdUwweW5uU21MSzdlOEpBMVJmcDZiUUYzd0dFXzkwbVlFTVNhU0R3R2FCWHNFVkR0T2xnSjdOQUZWYlBwWUE3UVB3MjdZaU42WXVEUnlqTnBUM3RhN1dUclU2bVdsQXAtOGNmTTRSWGg3bkpEOUZV?oc=5",
-          "pubDate": "Mon, 07 Apr 2025 07:00:00 GMT",
-          "description": "Feeding Pets, Fueling the Economy: 600+ Ingredients Drive $51.7B Pet Food Sales, According to New IFEEDER Report TradingView",
-          "category": "ingredients",
-          "score": 56,
-          "matchedKeywords": [
-            "ingredient",
-            "ingredients"
-          ],
-          "reason": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
-          "reason_fr": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
-          "reason_en": "Signal detected around ingredient, ingredients. Worth tracking over time. Ingredients angle.",
-          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Op te volgen in de tijd. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
           "title": "Food Ingredients Europe: Madagascar marque sa présence - Newsmada",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXdvVU9rZ2dWdU10b1lRRk5LWEtxSEhDWi1mam01N0w5enluNlF1Qm0yVE12emhJZnBSai1vYmVnd2pENEZ3eFF0a0JhUC03X05CbWh1NmpUaFViTUJ2eTZFSGNjLXJtZlFtQmJCeS1GS2dsS3prVnNpMUFBR2NTZE5QV2hudXhkb1VJX0Mwcw?oc=5",
           "pubDate": "Fri, 22 Nov 2024 08:00:00 GMT",
@@ -2097,6 +2073,24 @@
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdW5ZaWMzU3otYnJIbnNVX2doN1k2X1VsZHdnU0MtOURfbklHRFEzRXlXTmhnMDc1YW5VVUQ5anlLRFFUMnFTNE5talVFdUVjM1I0WWZzM1g1MXFLWW1UYURMU1NfZVVPWGpMOVZGR3g5WFpya3dTd3J1WHZkYmQ1WDJDZTRBa0JmeUF0ZUVXLUFRdzJiWlh0a0J2bzB5aDdYOTRRZHd0X2tRdE11LVE3VmNhZ3g3ZDhYS0dlSS12YkZJM0Z5MmfSAcsBQVVfeXFMUFZxTTJQQTk0X0gwUTdGYUlGdUZLc0ROUGZGcWpseUZ6UUVTUXJjOW5fSEZLQng4cUo1Q2ZFTFZwd1JWd0l6eFhJOWZTZmJaa2dSYzYxY0UxcTVXbzY1SGhDS0syOHFubnJPWms1RG5RN1h5Snotc1R0T3lreTJzYldSVkt1dnNfZFRsWkpyaXhWNmJVOVM5QzRkY0xYQ3l1YW0yS1Y1ZTVIQjhUQkZQUzZlNjl2d1RmMTJEREJNTDhPUmw3NU1TX0ZYNXM?oc=5",
           "pubDate": "Fri, 08 Nov 2024 08:00:00 GMT",
           "description": "AGROALIMENTAIRE – Les produits bios malgaches ajoutés à la liste des ingrédients du « Food ingredients Europe » 2024 2424.mg",
+          "category": "ingredients",
+          "score": 56,
+          "matchedKeywords": [
+            "ingredient",
+            "ingredients"
+          ],
+          "reason": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Signal detected around ingredient, ingredients. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Google News - ingredient development",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Thabico présente ses ingrédients phares au salon Food Ingredients Europe - La France Agricole",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFBuRFZCeWRBM3R5Z3k3Rm1JbnB1WDFpNm10aEVMbHFYZnRrNjVvMUFXTGJLTG1RV0pEZmdtOXhpUko3eE5lWWFMWklkUFNuRUNqRjRlelFnOExLUW1RYWQ2N290RG9GVklMdmF6dXBPckdTbTZFejlvcWdvTlp2bV9PYk4wWFd5c1JTbXNYcldHQ0dlZXhLT1haamtxeFhiQlo5V3ZlZnlaRmh0ZlFLZ0hhZUYwR0xkai0wd2lNMFlyWi1FLUoxcWc1Nmxia0xJWTVwc1NzNFJ0QdIB3wFBVV95cUxPeU1Eekd2VUdkbnFPLXNkdTVsbzd2WGY3SVBKb2ZidzhGNlJtenRhREZtNmV3NlJ3S0xlbHJwWWlRblI5VVo4QWpCTnFwMUYzRHlyUDN2VGJDaFBoVlZ5RHNnMHFEb203aF9lSHpPYi1sTjNvUGZ5UkhDWkhvb3NMWnJPVW56YkszMmNLZFBnRm1OZ0RoaDJLM1ZhZVpNS0tFT2xkT1R4cGs1NGQtSFc4Um1pTmxFTE5KSWN6ZEZtQTJCYnlMek1UMG80c3BYc0dyNVBPUDVPTE4xdWw2VE5B?oc=5",
+          "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT",
+          "description": "Thabico présente ses ingrédients phares au salon Food Ingredients Europe La France Agricole",
           "category": "ingredients",
           "score": 56,
           "matchedKeywords": [
@@ -2140,23 +2134,6 @@
           "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
           "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "FIE 2025 : un salon axé sur la substitution, la nutrition et les épices - Process Alimentaire",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2RuZ05yNVV5RW1uZzRaN01KYVNEaFhLNktPSWt0VEdCRzNUeldfMW43MWpGaVJtdWFISzVWMUhVZGdZOGkxOFBzNEIySGdsc3JqQW5KbnlGR2RDWHJTRVNvbEpfYmpWb0NOU2ExZTV1UnA3VFk0bXBzTFlpN1dxMzJ4WjJDUUVScUZMN0dfcUhoSFhhdlBzX3V2YjBLMm9vNkVtNm1MLVJyTnVZWUpJS0xfZjFBZw?oc=5",
-          "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-          "description": "FIE 2025 : un salon axé sur la substitution, la nutrition et les épices Process Alimentaire",
-          "category": "ingredients",
-          "score": 46,
-          "matchedKeywords": [
-            "nutrition"
-          ],
-          "reason": "Signal detecte autour de nutrition. A suivre dans la duree. Angle ingredients.",
-          "reason_fr": "Signal detecte autour de nutrition. A suivre dans la duree. Angle ingredients.",
-          "reason_en": "Signal detected around nutrition. Worth tracking over time. Ingredients angle.",
-          "reason_nl": "Signaal gedetecteerd rond nutrition. Op te volgen in de tijd. Ingredientenhoek."
         },
         {
           "source": "Food Business News - Ingredients",
@@ -2259,22 +2236,21 @@
       "total": 36,
       "items": [
         {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
-          "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
-          "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
-          "description": "By sterilizing bioreactors with UV light instead of complex steam-in-place systems, firms can slash capex and opex costs, claims Biosphere. The post Biosphere lands Pentagon funding to build portable “protein from air” bioreactors appeared first on AgFunderNews .",
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+          "link": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+          "pubDate": "Wed, 20 May 2026 10:14:00 -0400",
+          "description": "An NGA analysis found that every $1 in indie grocery sales generates an additional 58 cents in supply chain and household spending nationwide.",
           "category": "ma",
-          "score": 76,
+          "score": 74,
           "matchedKeywords": [
-            "funding",
-            "m&a"
+            "sale"
           ],
-          "reason": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
-          "reason_fr": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
-          "reason_en": "Signal detected around funding, m&a. Worth tracking over time. Strategic transactions angle.",
-          "reason_nl": "Signaal gedetecteerd rond funding, m&a. Op te volgen in de tijd. Strategische transactieshoek."
+          "reason": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Signal detected around sale. Hot item. Strategic transactions angle.",
+          "reason_nl": "Signaal gedetecteerd rond sale. Actueel signaal. Strategische transactieshoek."
         },
         {
           "source": "AgFunderNews",
@@ -2294,31 +2270,32 @@
           "reason_nl": "Signaal gedetecteerd rond funding. Actueel signaal. Strategische transactieshoek."
         },
         {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
-          "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-          "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
-          "description": "A potential acquisition would expand Ingredion’s position in texture and mouthfeel.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
+          "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
+          "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
+          "description": "By sterilizing bioreactors with UV light instead of complex steam-in-place systems, firms can slash capex and opex costs, claims Biosphere. The post Biosphere lands Pentagon funding to build portable “protein from air” bioreactors appeared first on AgFunderNews .",
           "category": "ma",
-          "score": 69,
+          "score": 70,
           "matchedKeywords": [
-            "acquisition"
+            "funding",
+            "m&a"
           ],
-          "reason": "Signal detecte autour de acquisition. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal detecte autour de acquisition. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Signal detected around acquisition. Hot item. Strategic transactions angle.",
-          "reason_nl": "Signaal gedetecteerd rond acquisition. Actueel signaal. Strategische transactieshoek."
+          "reason": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Signal detected around funding, m&a. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Signaal gedetecteerd rond funding, m&a. Op te volgen in de tijd. Strategische transactieshoek."
         },
         {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ben & Jerry’s owner to offer ice cream at entertainment venues through Mini Melts partnership",
-          "link": "https://www.fooddive.com/news/magnum-ice-cream-mini-melts-partnership/820114/",
-          "pubDate": "Wed, 13 May 2026 11:15:00 -0400",
-          "description": "The agreement advances Magnum's out-of-home growth strategy by targeting consumers in high-traffic locations.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "GrainFlow targets grain elevator gridlock with AI scheduling system",
+          "link": "https://agfundernews.com/grainflow-targets-grain-elevator-gridlock-with-ai-scheduling-system",
+          "pubDate": "Tue, 19 May 2026 11:00:02 +0000",
+          "description": "At many grain elevators, trucks simply arrive and line up, says Grainflow founder Bryan Wattie. “There is no appointment system and no slot reservation.\" The post GrainFlow targets grain elevator gridlock with AI scheduling system appeared first on AgFunderNews .",
           "category": "ma",
-          "score": 68,
+          "score": 69,
           "matchedKeywords": [
             "m&a"
           ],
@@ -2363,27 +2340,42 @@
           "reason_nl": "Signaal gedetecteerd rond sale, m&a. Op te volgen in de tijd. Strategische transactieshoek."
         },
         {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Ferrero to revive Wonka candy brand with Netflix",
+          "link": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+          "pubDate": "Wed, 20 May 2026 10:47:00 -0400",
+          "description": "The candy giant is collaborating with the streaming platform on 10 seasonal and limited-edition products this fall, spanning categories including chocolate, cereal and ice cream.",
+          "category": "ma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Once Upon a Farm soars as parents seek healthier kids’ foods despite inflation",
+          "link": "https://www.fooddive.com/news/once-upon-a-farm-soars-as-parents-seek-healthier-kids-foods-despite-inflat/819748/",
+          "pubDate": "Wed, 20 May 2026 09:30:00 -0400",
+          "description": "John Foraker, the company’s CEO and co-founder, said consumer demand for better-for-you offerings remains robust even as rising prices prompt shoppers to cut back on spending in other areas.",
+          "category": "ma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch",
-          "link": "https://agfundernews.com/brightseed-layers-agentic-ai-onto-forager-bioactives-discovery-platform-with-hummingbird-launch",
-          "pubDate": "Wed, 13 May 2026 13:00:46 +0000",
-          "description": "“One of our customers came back to us and said that through Hummingbird, one of its PhD scientists just did in two weeks with our platform what it used to take six months to achieve,\" says cofounder Lee Chae, PhD. The post Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Enifer enters petfood market as commercial mycoprotein plant nears launch",
-          "link": "https://agfundernews.com/enifer-enters-petfood-market-as-commercial-pekilo-plant-nears-launch",
-          "pubDate": "Tue, 12 May 2026 07:00:53 +0000",
-          "description": "\"Our goal is to establish PEKILO as a widely used ingredient across pet food categories, and ultimately across food categories in human nutrition,\" says CEO Simo Ellilä. The post Enifer enters petfood market as commercial mycoprotein plant nears launch appeared first on AgFunderNews .",
+          "title": "The cracks in chemical farming are getting hard to ignore. These startups are providing alternatives",
+          "link": "https://agfundernews.com/the-cracks-in-chemical-farming-are-getting-hard-to-ignore-these-startups-are-providing-alternatives",
+          "pubDate": "Tue, 19 May 2026 19:58:13 +0000",
+          "description": "Deeptech startups are bringing a range of solutions to help, from multiplex gene editing to AI-powered robotic systems. The post The cracks in chemical farming are getting hard to ignore. These startups are providing alternatives appeared first on AgFunderNews .",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2395,10 +2387,10 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Cargill to launch cocoa-free chocolate in US",
-          "link": "https://www.fooddive.com/news/cargill-voyage-foods-coca-free-chocolate-alternative-nextcoa/820275/",
-          "pubDate": "Thu, 14 May 2026 13:31:00 -0400",
-          "description": "NextCoa, made in partnership with Voyage Foods, gives food companies a new option to “future-proof” supply, a Cargill senior product line specialist said.",
+          "title": "Ring Pop maker Bazooka expands into international flavors with new candy brand",
+          "link": "https://www.fooddive.com/news/bazooka-brands-go-wandr-mochi-gummy-international-flavors/820606/",
+          "pubDate": "Tue, 19 May 2026 11:01:00 -0400",
+          "description": "Go Wandr looks to tap into consumer interest in global flavors and textures, starting with a Japan-inspired mochi gummy.",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2410,10 +2402,10 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Building a solid ad budget amid more economic uncertainty",
-          "link": "https://www.fooddive.com/spons/building-a-solid-ad-budget-amid-more-economic-uncertainty/820201/",
-          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
-          "description": "Spend smarter, not quieter: How food brands can build resilient ad budgets now.",
+          "title": "Danone exits stake in Lifeway Foods",
+          "link": "https://www.fooddive.com/news/danone-sells-stake-lifeway-kefir/820590/",
+          "pubDate": "Tue, 19 May 2026 10:03:00 -0400",
+          "description": "The dairy giant is selling off its shares in the kefir maker, ending a long and tumultuous relationship between the two companies.",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2425,10 +2417,10 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "How can you meet the evolving demands of today’s consumers?",
-          "link": "https://www.fooddive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/819381/",
-          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
-          "description": "How can you secure success and meet consumer demands in the shelf-stable food category?",
+          "title": "Kraft Heinz’s biggest portfolio campaign to date celebrates America250",
+          "link": "https://www.fooddive.com/news/kraft-heinzs-biggest-portfolio-campaign-to-date-celebrates-america250/820583/",
+          "pubDate": "Tue, 19 May 2026 09:37:00 -0400",
+          "description": "The CPG giant is uniting several of its top brands to capitalize on cookout season as it ramps up marketing spend to support its turnaround.",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2440,34 +2432,19 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Leftovers: Welch’s debuts biggest ‘function-forward innovation’ | Mother’s sprinkles Nerds on frosted cookies",
-          "link": "https://www.fooddive.com/news/welchs-fruit-snacks-probiotic-mothers-cookies-nerds-saint-james-iced-tea/820353/",
-          "pubDate": "Fri, 15 May 2026 10:21:00 -0400",
-          "description": "A new probiotic-packed yogurt fruit snack looks to answer demand for gut-friendly foods, while Saint James Iced Tea adds its twist to Arnold Palmer.",
-          "category": "ma",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "BuzzBallz owner takes stake in influencer Alix Earle’s cocktail brand Sipmargs",
-          "link": "https://www.fooddive.com/news/sazerac-stake-sipmargs-alix-earle/820231/",
-          "pubDate": "Thu, 14 May 2026 10:00:00 -0400",
-          "description": "The deal is Sazerac's second investment in a celebrity-backed brand in two weeks after it purchased equity in Kendall Jenner’s 818 Tequila.",
+          "title": "FDA names safety vet acting head of food",
+          "link": "https://www.fooddive.com/news/fda-human-foods-program-donald-prater/820484/",
+          "pubDate": "Mon, 18 May 2026 11:00:00 -0400",
+          "description": "Donald Prater will lead the Human Foods Program and replace Kyle Diamantas, who is taking over as department commissioner.",
           "category": "ma",
           "score": 63,
           "matchedKeywords": [
-            "investment"
+            "m&a"
           ],
-          "reason": "Signal detecte autour de investment. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal detecte autour de investment. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Signal detected around investment. Hot item. Strategic transactions angle.",
-          "reason_nl": "Signaal gedetecteerd rond investment. Actueel signaal. Strategische transactieshoek."
+          "reason": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Signal detected around m&a. Hot item. Strategic transactions angle.",
+          "reason_nl": "Signaal gedetecteerd rond m&a. Actueel signaal. Strategische transactieshoek."
         },
         {
           "source": "AgFunderNews",
@@ -2521,36 +2498,6 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves",
-          "link": "https://agfundernews.com/resurrect-bio-expands-series-a-to-10-3m-to-scale-tech-helping-plants-to-defend-themselves",
-          "pubDate": "Wed, 13 May 2026 15:37:37 +0000",
-          "description": "Following a joint development agreement with Corteva, Resurrect Bio is seeking to engage more seed companies and breeders as partners. The post Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Global frameworks for regenerative agriculture still need local context, says SAI",
-          "link": "https://agfundernews.com/global-frameworks-for-regenerative-agriculture-still-need-local-context-says-sai",
-          "pubDate": "Wed, 13 May 2026 14:06:23 +0000",
-          "description": "SAI created its Regenerating Together program to make global regenerative agriculture standards adaptable at the local level. The post Global frameworks for regenerative agriculture still need local context, says SAI appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Castoro Cellars deploys Saga Robotics’ UV-C bots across 600 organic acres",
           "link": "https://agfundernews.com/castoro-cellars-deploys-saga-robotics-uv-c-bots-across-600-organic-acres",
           "pubDate": "Thu, 14 May 2026 19:00:18 +0000",
@@ -2581,10 +2528,25 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Jack Link’s names president of North America",
-          "link": "https://www.fooddive.com/news/jack-links-names-president-of-north-america/820101/",
-          "pubDate": "Thu, 14 May 2026 10:54:00 -0400",
-          "description": "Jeff Caswell joins the beef jerky maker from Mid America Pet Food, where he was CEO and a board member for the past two years.",
+          "title": "Grocery inflation hits highest level since mid-2023",
+          "link": "https://www.fooddive.com/news/grocery-inflation-april-2026-tomatoes-beef-coffee/820465/",
+          "pubDate": "Mon, 18 May 2026 09:51:00 -0400",
+          "description": "Tomato prices were up nearly 40% year over year in April, the quickest rate of inflation among the food-at-home categories that the BLS tracks.",
+          "category": "ma",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
+          "link": "https://www.fooddive.com/news/utzs-regional-potato-chip-brand-salty-snack-giant/812739/",
+          "pubDate": "Mon, 18 May 2026 09:23:00 -0400",
+          "description": "The 105-year-old pretzel and chip maker is in the midst of a slow but steady national expansion as it competes with PepsiCo’s Frito-Lay and scores of smaller local brands.",
           "category": "ma",
           "score": 58,
           "matchedKeywords": [],
@@ -2596,10 +2558,25 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "EVERY urges court to sanction Onego Bio as alt protein IP fight turns nasty",
-          "link": "https://agfundernews.com/every-urges-court-to-sanction-onego-bio-as-alt-protein-ip-fight-turns-nasty",
-          "pubDate": "Mon, 11 May 2026 21:51:31 +0000",
-          "description": "EVERY accuses Onego Bio of abusive litigation tactics; Onego says the evidence contradicts sworn statements by EVERY executives. The post EVERY urges court to sanction Onego Bio as alt protein IP fight turns nasty appeared first on AgFunderNews .",
+          "title": "Renaissance Bioscience unveils yeast-derived VLP platform for next-gen RNAi biopesticides",
+          "link": "https://agfundernews.com/renaissance-bioscience-unveils-yeast-derived-vlp-platform-for-next-gen-rnai-biopesticides",
+          "pubDate": "Mon, 18 May 2026 07:05:52 +0000",
+          "description": "Virus like particles could pave the way for next-gen RNAi biopesticides with broader applications and lower costs, claims Renaissance Bioscience. The post Renaissance Bioscience unveils yeast-derived VLP platform for next-gen RNAi biopesticides appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "How can you meet the evolving demands of today’s consumers?",
+          "link": "https://www.fooddive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/819381/",
+          "pubDate": "Mon, 18 May 2026 05:00:00 -0400",
+          "description": "How can you secure success and meet consumer demands in the shelf-stable food category?",
           "category": "ma",
           "score": 58,
           "matchedKeywords": [],
@@ -2624,34 +2601,34 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
         },
         {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "PepsiCo’s Muscle Milk flexes rebrand in crowded protein drink space",
-          "link": "https://www.fooddive.com/news/pepsicos-muscle-milk-flexes-rebrand-in-crowded-protein-drink-space/819873/",
-          "pubDate": "Fri, 15 May 2026 11:00:00 -0400",
-          "description": "The reformulated beverage amps up the protein while cutting artificial colors, sweeteners and flavors, positioning it to stand out among competitors like Coca-Cola's Core Power.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch",
+          "link": "https://agfundernews.com/brightseed-layers-agentic-ai-onto-forager-bioactives-discovery-platform-with-hummingbird-launch",
+          "pubDate": "Wed, 13 May 2026 13:00:46 +0000",
+          "description": "“One of our customers came back to us and said that through Hummingbird, one of its PhD scientists just did in two weeks with our platform what it used to take six months to achieve,\" says cofounder Lee Chae, PhD. The post Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch appeared first on AgFunderNews .",
           "category": "ma",
-          "score": 58,
+          "score": 56,
           "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
         },
         {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Canmakers say capacity is tight as beverage industry gears up for big summer",
-          "link": "https://www.fooddive.com/news/beverage-food-cans-earnings-ball-ab-inbev-crown-ardagh-/820259/",
-          "pubDate": "Fri, 15 May 2026 10:31:00 -0400",
-          "description": "Ball, Crown and Ardagh are navigating higher input costs and inflationary pressures as brands prepare promotions related to the World Cup and America250 celebrations.",
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Enifer enters petfood market as commercial mycoprotein plant nears launch",
+          "link": "https://agfundernews.com/enifer-enters-petfood-market-as-commercial-pekilo-plant-nears-launch",
+          "pubDate": "Tue, 12 May 2026 07:00:53 +0000",
+          "description": "\"Our goal is to establish PEKILO as a widely used ingredient across pet food categories, and ultimately across food categories in human nutrition,\" says CEO Simo Ellilä. The post Enifer enters petfood market as commercial mycoprotein plant nears launch appeared first on AgFunderNews .",
           "category": "ma",
-          "score": 58,
+          "score": 56,
           "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
         },
         {
           "source": "AgFunderNews",
@@ -2675,21 +2652,6 @@
           "link": "https://agfundernews.com/beyond-meat-ceo-fleshes-out-beverage-launch-plans-for-new-york-retail-debut-after-grim-q1",
           "pubDate": "Thu, 07 May 2026 00:36:39 +0000",
           "description": "Beyond Meat’s new sparkling protein beverage will hit stores in New York this summer, while Beyond Steak will launch in select retailers later this year. The post Beyond Meat CEO fleshes out beverage launch plans for New York retail debut after grim Q1 appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 56,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed",
-          "link": "https://agfundernews.com/terrablaster-aims-for-late-2026-launch-with-real-time-npk-soil-mapping-at-tractor-speed",
-          "pubDate": "Mon, 04 May 2026 15:31:29 +0000",
-          "description": "Right now, TerraBlaster's tech works at 5mph, a speed CEO Jorge Heraud reckons he can double to 10mph “pretty soon.” The post TerraBlaster aims for late 2026 launch with real-time NPK soil mapping at tractor speed appeared first on AgFunderNews .",
           "category": "ma",
           "score": 56,
           "matchedKeywords": [],
@@ -2750,40 +2712,40 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves",
+          "link": "https://agfundernews.com/resurrect-bio-expands-series-a-to-10-3m-to-scale-tech-helping-plants-to-defend-themselves",
+          "pubDate": "Wed, 13 May 2026 15:37:37 +0000",
+          "description": "Following a joint development agreement with Corteva, Resurrect Bio is seeking to engage more seed companies and breeders as partners. The post Resurrect Bio expands Series A to $10.3m to scale tech helping plants to defend themselves appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 50,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Global frameworks for regenerative agriculture still need local context, says SAI",
+          "link": "https://agfundernews.com/global-frameworks-for-regenerative-agriculture-still-need-local-context-says-sai",
+          "pubDate": "Wed, 13 May 2026 14:06:23 +0000",
+          "description": "SAI created its Regenerating Together program to make global regenerative agriculture standards adaptable at the local level. The post Global frameworks for regenerative agriculture still need local context, says SAI appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 50,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Boomitra hits major milestone as ranchers reap real financial gains from regenerative grazing in Mexico",
           "link": "https://agfundernews.com/boomitra-hits-major-milestone-as-ranchers-reap-real-financial-gains-from-regenerative-grazing-in-mexico",
           "pubDate": "Wed, 06 May 2026 19:40:03 +0000",
           "description": "Payments are \"a meaningful recognition of\" ranchers' regenerative agriculture transitions in Northern Mexico, says Boomitra CEO. The post Boomitra hits major milestone as ranchers reap real financial gains from regenerative grazing in Mexico appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 50,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Environmental and geopolitical pressures are driving deeptech’s steady growth in agrifood",
-          "link": "https://agfundernews.com/environmental-and-geopolitical-pressures-are-driving-deeptechs-steady-growth-in-agrifood",
-          "pubDate": "Wed, 06 May 2026 09:25:55 +0000",
-          "description": "Solving the food system's challenges requires deeper science and engineering tools than the agrifood industry has traditionally drawn on. The post Environmental and geopolitical pressures are driving deeptech’s steady growth in agrifood appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 50,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "BREAKING: Judge tosses Onego Bio lawsuit vs EVERY Co in Wisconsin, parallel case in Delaware still in motion",
-          "link": "https://agfundernews.com/breaking-judge-tosses-onego-bio-lawsuit-vs-every-co-in-wisconsin-parallel-case-in-delaware-still-in-motion",
-          "pubDate": "Wed, 06 May 2026 01:17:53 +0000",
-          "description": "\"This ruling is a clear sign that the lawsuit was baseless from the onset,\" claims EVERY Co CEO Arturo Elizondo. The post BREAKING: Judge tosses Onego Bio lawsuit vs EVERY Co in Wisconsin, parallel case in Delaware still in motion appeared first on AgFunderNews .",
           "category": "ma",
           "score": 50,
           "matchedKeywords": [],
@@ -2810,10 +2772,25 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’",
-          "link": "https://agfundernews.com/niqo-robotics-expands-reach-targets-profitability-in-2026-7-farmers-dont-want-ai-hype-they-want-roi",
-          "pubDate": "Tue, 05 May 2026 11:00:17 +0000",
-          "description": "\"Farmers just want to know when it will pay off, what's the maintenance like, and how it will make or save me money,\" says Niqo Robotics CEO Jaisimha Rao. The post Niqo Robotics expands reach, targets profitability in 2026/7: ‘Farmers don’t want AI hype—they want ROI’ appeared first on AgFunderNews .",
+          "title": "AgriFood Signals: Corteva names seed spinout, Vori bags $22m for AI grocery, FMC sells India biz",
+          "link": "https://agfundernews.com/agrifood-signals-corteva-names-seed-spinout-vori-bags-22m-for-ai-grocery-fmc-sells-india-biz",
+          "pubDate": "Thu, 07 May 2026 20:23:05 +0000",
+          "description": "Plus: Pepsi's renewable energy deal in Europe. The post AgriFood Signals: Corteva names seed spinout, Vori bags $22m for AI grocery, FMC sells India biz appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 50,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "EVERY urges court to sanction Onego Bio as alt protein IP fight turns nasty",
+          "link": "https://agfundernews.com/every-urges-court-to-sanction-onego-bio-as-alt-protein-ip-fight-turns-nasty",
+          "pubDate": "Mon, 11 May 2026 21:51:31 +0000",
+          "description": "EVERY accuses Onego Bio of abusive litigation tactics; Onego says the evidence contradicts sworn statements by EVERY executives. The post EVERY urges court to sanction Onego Bio as alt protein IP fight turns nasty appeared first on AgFunderNews .",
           "category": "ma",
           "score": 50,
           "matchedKeywords": [],
@@ -2827,29 +2804,29 @@
   },
   "digest": [
     {
-      "category": "ingredients",
-      "label_fr": "Ingredients",
-      "label_en": "Ingredients",
-      "label_nl": "Ingredienten",
-      "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-      "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
-      "score": 84,
-      "reason": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
-      "reason_fr": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
-      "reason_en": "Signal detected around ingredient, ingredients. Hot item. Ingredients angle.",
-      "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Actueel signaal. Ingredientenhoek."
+      "category": "tech",
+      "label_fr": "Technologies",
+      "label_en": "Technology",
+      "label_nl": "Technologie",
+      "title": "Kenvue tracks packaging through recycling stream with Greyparrot’s AI",
+      "source": "Packaging Dive",
+      "link": "https://www.packagingdive.com/news/greyparrot-deepnest-kenvue-packaging-analytics-recycling-design-sortation/820662/",
+      "pubDate": "Wed, 20 May 2026 10:50:00 -0400",
+      "score": 80,
+      "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+      "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
     },
     {
       "category": "tech",
       "label_fr": "Technologies",
       "label_en": "Technology",
       "label_nl": "Technologie",
-      "title": "More litigation expected over California recycling regulations",
+      "title": "North American aluminum demand resilient, Aluminum Association reports",
       "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/california-recycling-regulations-lawsuits-nrdc/820027/",
-      "pubDate": "Wed, 13 May 2026 11:30:00 -0400",
+      "link": "https://www.packagingdive.com/news/aluminum-demand-data-2025-tariff-relief/820406/",
+      "pubDate": "Mon, 18 May 2026 12:56:50 -0400",
       "score": 79,
       "reason": "Signal detecte autour de ai, ia. Actualite chaude. Angle technologie.",
       "reason_fr": "Signal detecte autour de ai, ia. Actualite chaude. Angle technologie.",
@@ -2872,29 +2849,14 @@
       "reason_nl": "Signaal gedetecteerd rond ai, ia. Actueel signaal. Technologiehoek."
     },
     {
-      "category": "ma",
-      "label_fr": "M&A",
-      "label_en": "M&A",
-      "label_nl": "M&A",
-      "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
-      "source": "AgFunderNews",
-      "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
-      "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
-      "score": 76,
-      "reason": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
-      "reason_fr": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
-      "reason_en": "Signal detected around funding, m&a. Worth tracking over time. Strategic transactions angle.",
-      "reason_nl": "Signaal gedetecteerd rond funding, m&a. Op te volgen in de tijd. Strategische transactieshoek."
-    },
-    {
       "category": "tech",
       "label_fr": "Technologies",
       "label_en": "Technology",
       "label_nl": "Technologie",
-      "title": "Brightseed layers agentic AI onto Forager bioactives discovery platform with Hummingbird launch",
+      "title": "GrainFlow targets grain elevator gridlock with AI scheduling system",
       "source": "AgFunderNews",
-      "link": "https://agfundernews.com/brightseed-layers-agentic-ai-onto-forager-bioactives-discovery-platform-with-hummingbird-launch",
-      "pubDate": "Wed, 13 May 2026 13:00:46 +0000",
+      "link": "https://agfundernews.com/grainflow-targets-grain-elevator-gridlock-with-ai-scheduling-system",
+      "pubDate": "Tue, 19 May 2026 11:00:02 +0000",
       "score": 74,
       "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
       "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
@@ -2902,49 +2864,19 @@
       "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
     },
     {
-      "category": "tech",
-      "label_fr": "Technologies",
-      "label_en": "Technology",
-      "label_nl": "Technologie",
-      "title": "Enifer enters petfood market as commercial mycoprotein plant nears launch",
-      "source": "AgFunderNews",
-      "link": "https://agfundernews.com/enifer-enters-petfood-market-as-commercial-pekilo-plant-nears-launch",
-      "pubDate": "Tue, 12 May 2026 07:00:53 +0000",
+      "category": "ma",
+      "label_fr": "M&A",
+      "label_en": "M&A",
+      "label_nl": "M&A",
+      "title": "Independent grocers make up nearly 40% of US food retail sales, report says",
+      "source": "Food Dive - Deals",
+      "link": "https://www.fooddive.com/news/nga-national-grocers-association-economic-impact-analysis-independent-grocers/820247/",
+      "pubDate": "Wed, 20 May 2026 10:14:00 -0400",
       "score": 74,
-      "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-      "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-      "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-      "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
-    },
-    {
-      "category": "trends",
-      "label_fr": "Tendances",
-      "label_en": "Trends",
-      "label_nl": "Trends",
-      "title": "Cargill to launch cocoa-free chocolate in US",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/cargill-voyage-foods-coca-free-chocolate-alternative-nextcoa/820275/",
-      "pubDate": "Thu, 14 May 2026 13:31:00 -0400",
-      "score": 74,
-      "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-      "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-      "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
-      "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
-    },
-    {
-      "category": "aroma",
-      "label_fr": "Aromatique",
-      "label_en": "Flavour regulation",
-      "label_nl": "Aromaregulering",
-      "title": "FDA Finalizes Systematic Post-Market Food Chemical Review Process",
-      "source": "Food Safety - Regulatory",
-      "link": "https://www.food-safety.com/articles/11422-fda-finalizes-systematic-post-market-food-chemical-review-process",
-      "pubDate": "Tue, 12 May 2026 12:55:16 -0400",
-      "score": 74,
-      "reason": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-      "reason_fr": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
-      "reason_en": "Signal detected around fda. Hot item. Flavour regulation angle.",
-      "reason_nl": "Signaal gedetecteerd rond fda. Actueel signaal. Aromareguleringhoek."
+      "reason": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
+      "reason_fr": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
+      "reason_en": "Signal detected around sale. Hot item. Strategic transactions angle.",
+      "reason_nl": "Signaal gedetecteerd rond sale. Actueel signaal. Strategische transactieshoek."
     },
     {
       "category": "ma",
@@ -2977,14 +2909,44 @@
       "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients, nutrition. Op te volgen in de tijd. Ingredientenhoek."
     },
     {
+      "category": "ma",
+      "label_fr": "M&A",
+      "label_en": "M&A",
+      "label_nl": "M&A",
+      "title": "Biosphere lands Pentagon funding to build portable “protein from air” bioreactors",
+      "source": "AgFunderNews",
+      "link": "https://agfundernews.com/biosphere-lands-pentagon-funding-to-build-portable-protein-from-air-bioreactors",
+      "pubDate": "Tue, 05 May 2026 23:22:13 +0000",
+      "score": 70,
+      "reason": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
+      "reason_fr": "Signal detecte autour de funding, m&a. A suivre dans la duree. Angle operations strategiques.",
+      "reason_en": "Signal detected around funding, m&a. Worth tracking over time. Strategic transactions angle.",
+      "reason_nl": "Signaal gedetecteerd rond funding, m&a. Op te volgen in de tijd. Strategische transactieshoek."
+    },
+    {
       "category": "trends",
       "label_fr": "Tendances",
       "label_en": "Trends",
       "label_nl": "Trends",
-      "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
+      "title": "Ferrero to revive Wonka candy brand with Netflix",
       "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-      "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
+      "link": "https://www.fooddive.com/news/ferrero-netflix-wonka-candy-collaboration/820721/",
+      "pubDate": "Wed, 20 May 2026 10:47:00 -0400",
+      "score": 69,
+      "reason": "Signal detecte autour de limited edition. Actualite chaude. Angle tendances sensorielles.",
+      "reason_fr": "Signal detecte autour de limited edition. Actualite chaude. Angle tendances sensorielles.",
+      "reason_en": "Signal detected around limited edition. Hot item. Sensory trend angle.",
+      "reason_nl": "Signaal gedetecteerd rond limited edition. Actueel signaal. Sensorische trendhoek."
+    },
+    {
+      "category": "trends",
+      "label_fr": "Tendances",
+      "label_en": "Trends",
+      "label_nl": "Trends",
+      "title": "Ring Pop maker Bazooka expands into international flavors with new candy brand",
+      "source": "Food Dive",
+      "link": "https://www.fooddive.com/news/bazooka-brands-go-wandr-mochi-gummy-international-flavors/820606/",
+      "pubDate": "Tue, 19 May 2026 11:01:00 -0400",
       "score": 69,
       "reason": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
       "reason_fr": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
@@ -2992,19 +2954,34 @@
       "reason_nl": "Signaal gedetecteerd rond texture. Actueel signaal. Sensorische trendhoek."
     },
     {
+      "category": "aroma",
+      "label_fr": "Aromatique",
+      "label_en": "Flavour regulation",
+      "label_nl": "Aromaregulering",
+      "title": "EPA Issues Rules Rolling Back Biden-Era Drinking Water Limits for PFAS",
+      "source": "Food Safety - Regulatory",
+      "link": "https://www.food-safety.com/articles/11437-epa-issues-rules-rolling-back-biden-era-drinking-water-limits-for-pfas",
+      "pubDate": "Wed, 20 May 2026 05:00:00 -0400",
+      "score": 69,
+      "reason": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+      "reason_fr": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+      "reason_en": "Signal detected around compliance. Hot item. Flavour regulation angle.",
+      "reason_nl": "Signaal gedetecteerd rond compliance. Actueel signaal. Aromareguleringhoek."
+    },
+    {
       "category": "ma",
       "label_fr": "M&A",
       "label_en": "M&A",
       "label_nl": "M&A",
-      "title": "Ingredion makes $3.7B offer to buy ingredients rival Tate & Lyle",
-      "source": "Food Dive - Deals",
-      "link": "https://www.fooddive.com/news/ingredion-tate-lyle-takeover-bid/820251/",
-      "pubDate": "Thu, 14 May 2026 10:51:00 -0400",
+      "title": "GrainFlow targets grain elevator gridlock with AI scheduling system",
+      "source": "AgFunderNews",
+      "link": "https://agfundernews.com/grainflow-targets-grain-elevator-gridlock-with-ai-scheduling-system",
+      "pubDate": "Tue, 19 May 2026 11:00:02 +0000",
       "score": 69,
-      "reason": "Signal detecte autour de acquisition. Actualite chaude. Angle operations strategiques.",
-      "reason_fr": "Signal detecte autour de acquisition. Actualite chaude. Angle operations strategiques.",
-      "reason_en": "Signal detected around acquisition. Hot item. Strategic transactions angle.",
-      "reason_nl": "Signaal gedetecteerd rond acquisition. Actueel signaal. Strategische transactieshoek."
+      "reason": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+      "reason_fr": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+      "reason_en": "Signal detected around m&a. Hot item. Strategic transactions angle.",
+      "reason_nl": "Signaal gedetecteerd rond m&a. Actueel signaal. Strategische transactieshoek."
     }
   ],
   "errors": []

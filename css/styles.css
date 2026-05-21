@@ -736,9 +736,11 @@ strong { font-weight: 600; }
   text-transform: uppercase;
 }
 .latest-linkedin__logo svg {
-  width: 28px;
-  height: 28px;
-  color: #0A66C2;
+  flex: 0 0 22px;
+  width: 22px;
+  height: 22px;
+  max-width: 22px;
+  max-height: 22px;
 }
 .latest-linkedin h2 {
   margin: 0.9rem 0 0.55rem;

@@ -284,7 +284,8 @@
     "news.linkedin.all": "Voir tous les posts LinkedIn",
     "news.linkedin.latest.title": "Dernier post LinkedIn",
     "news.linkedin.latest.body": "Le dernier post publié sur LinkedIn est disponible ici. Les articles du site peuvent ensuite être reliés un par un à leurs posts LinkedIn exacts.",
-    "news.linkedin.latest.cta": "Voir le post"
+    "news.linkedin.latest.cta": "Voir le post",
+    "contact.socials": "Réseaux sociaux"
   },
   "en": {
     "nav.about": "About me",
@@ -571,7 +572,8 @@
     "news.linkedin.all": "View all LinkedIn posts",
     "news.linkedin.latest.title": "Latest LinkedIn post",
     "news.linkedin.latest.body": "The latest post published on LinkedIn is available here. Site articles can then be linked one by one to their exact LinkedIn posts.",
-    "news.linkedin.latest.cta": "View the post"
+    "news.linkedin.latest.cta": "View the post",
+    "contact.socials": "Social networks"
   },
   "nl": {
     "nav.about": "Over mij",
@@ -858,6 +860,7 @@
     "news.linkedin.all": "Bekijk alle LinkedIn-posts",
     "news.linkedin.latest.title": "Laatste LinkedIn-post",
     "news.linkedin.latest.body": "De laatste post op LinkedIn is hier beschikbaar. De artikels op de site kunnen daarna één voor één aan hun exacte LinkedIn-posts worden gekoppeld.",
-    "news.linkedin.latest.cta": "Bekijk de post"
+    "news.linkedin.latest.cta": "Bekijk de post",
+    "contact.socials": "Sociale netwerken"
   }
 }

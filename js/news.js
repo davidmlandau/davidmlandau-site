@@ -60,15 +60,22 @@ function renderNews() {
     const href = article.url || 'article.html?id=' + encodeURIComponent(article.id);
     const label = newsLabel('news.read', "Lire l'analyse");
     const linkedinBadge = article.linkedinUrl
-      ? '<span class="news-card__badge">LinkedIn</span>'
+      ? '<a class="news-card__badge news-card__badge--linkedin" href="' + newsEscape(article.linkedinUrl) + '" target="_blank" rel="noopener">' + newsEscape(newsLabel('news.linkedin', 'Voir sur LinkedIn')) + '</a>'
       : '<span class="news-card__badge is-muted">' + newsEscape(newsLabel('news.pending', 'Préparation LinkedIn')) + '</span>';
     const langBadge = '<span class="news-card__langs">' + newsEscape(newsLabel('news.languages', 'Disponible en FR · UK · NL')) + '</span>';
     const visual = window.dlArticleVisual ? window.dlArticleVisual(article.id, 'mini') : '';
     const action =
+      '<div class="news-card__actions">' +
       '<a href="' + newsEscape(href) + '" class="news-card__read">' +
         '<span>' + newsEscape(label) + '</span>' +
         '<svg class="arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>' +
-      '</a>';
+      '</a>' +
+      (article.linkedinUrl
+        ? '<a href="' + newsEscape(article.linkedinUrl) + '" class="news-card__read news-card__read--linkedin" target="_blank" rel="noopener">' +
+            '<span>' + newsEscape(newsLabel('news.linkedin', 'Voir sur LinkedIn')) + '</span>' +
+          '</a>'
+        : '') +
+      '</div>';
 
     return '' +
       '<article class="news-card" data-article-id="' + newsEscape(article.id) + '">' +
@@ -85,12 +92,8 @@ function renderNews() {
 }
 
 async function loadNews() {
-  if (window.DL_ARTICLES) {
-    NEWS_DATA = window.DL_ARTICLES;
-    return;
-  }
   try {
-    const response = await fetch('data/articles.json?v=20260503-article-dates', { cache: 'no-store' });
+    const response = await fetch('data/articles.json?v=20260521-linkedin', { cache: 'no-store' });
     if (!response.ok) throw new Error('HTTP ' + response.status);
     NEWS_DATA = await response.json();
   } catch (error) {

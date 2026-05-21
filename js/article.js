@@ -1,5 +1,5 @@
 /* ============================================================
-   article.js — Render one multilingual article from DL_ARTICLES
+   article.js — Render one multilingual article from data/articles.json
    ============================================================ */
 
 let ARTICLE_DATA = window.DL_ARTICLES || { articles: [] };
@@ -95,8 +95,20 @@ function renderArticle() {
     leadCta;
 }
 
-function initArticle() {
+async function loadArticleData() {
+  try {
+    const response = await fetch('data/articles.json?v=20260521-linkedin', { cache: 'no-store' });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    ARTICLE_DATA = await response.json();
+  } catch (error) {
+    console.warn('article: fallback data used', error.message);
+    ARTICLE_DATA = window.DL_ARTICLES || ARTICLE_DATA;
+  }
+}
+
+async function initArticle() {
   document.addEventListener('langchange', renderArticle);
+  await loadArticleData();
   renderArticle();
   requestAnimationFrame(renderArticle);
   window.setTimeout(renderArticle, 250);

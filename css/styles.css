@@ -724,6 +724,22 @@ strong { font-weight: 600; }
   border-radius: 8px;
   background: var(--bg-card);
 }
+.latest-linkedin__logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  width: fit-content;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.latest-linkedin__logo svg {
+  width: 28px;
+  height: 28px;
+  color: #0A66C2;
+}
 .latest-linkedin h2 {
   margin: 0.9rem 0 0.55rem;
   color: var(--accent);

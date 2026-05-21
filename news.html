@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css?v=20260521-linkedin">
+  <link rel="stylesheet" href="css/styles.css?v=20260521-linkedin-post">
   <link rel="stylesheet" href="css/immersive.css?v=20260520-scroll">
 </head>
 <body>
@@ -70,6 +70,15 @@
     <div class="article-actions" style="margin: -1.2rem 0 2rem;">
       <a class="article-linkedin" href="https://www.linkedin.com/in/davidmlandau/recent-activity/all/" target="_blank" rel="noopener" data-i18n="news.linkedin.all">Voir tous les posts LinkedIn</a>
     </div>
+
+    <article class="latest-linkedin">
+      <div>
+        <span class="news-card__badge news-card__badge--linkedin">LinkedIn</span>
+        <h2 data-i18n="news.linkedin.latest.title">Dernier post LinkedIn</h2>
+        <p data-i18n="news.linkedin.latest.body">Le dernier post publié sur LinkedIn est disponible ici. Les articles du site peuvent ensuite être reliés un par un à leurs posts LinkedIn exacts.</p>
+      </div>
+      <a class="btn" href="https://www.linkedin.com/feed/update/urn:li:activity:7462785459639861249/" target="_blank" rel="noopener" data-i18n="news.linkedin.latest.cta">Voir le post</a>
+    </article>
 
     <div class="news-grid" id="newsGrid" aria-live="polite"></div>
 
@@ -153,7 +162,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
-<script src="js/i18n.js?v=20260519-diagnostic"></script>
+<script src="js/i18n.js?v=20260521-linkedin-post"></script>
 <script src="js/main.js?v=20260520-scroll"></script>
 <script src="js/immersive.js?v=20260502-disruptive-funnel"></script>
 <script src="js/animations.js"></script>

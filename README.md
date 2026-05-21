@@ -88,10 +88,28 @@ Filet de sécurité côté visiteur : si `data/watch-radar.json` a plus de 36 he
 
 ## Intégration HubSpot
 
-Voir le commentaire HTML dans `contact.html` au-dessus du `<form>` — deux options documentées :
+Le site est préparé pour le portail HubSpot `148295368` via `js/hubspot.js`.
 
-- **Code embed HubSpot** : remplacer le `<form>` par le snippet fourni dans HubSpot > Marketing > Forms > Embed.
-- **HubSpot Forms API** : le formulaire actuel a déjà les `name=""` mappés sur les champs HubSpot par défaut (firstname, lastname, email, phone, company, message). Brancher l'envoi `fetch()` vers `https://api.hsforms.com/submissions/v3/integration/submit/{portalId}/{formGuid}` dans le `<script>` en bas de page.
+À créer dans HubSpot > Marketing > Forms :
+
+- **Diagnostic** : formulaire long avec `firstname`, `lastname`, `email`, `company`, `phone`, `industry`, `message`, `lifecyclestage`.
+- **Newsletter / Veille** : formulaire court avec `email`, `company`, `message`, `lifecyclestage`.
+
+Mapping applique par le site :
+
+- Le champ site `sector` est envoye vers la propriete HubSpot standard `industry`.
+- Les champs site `subject`, `sector` et `timeline` sont aussi ajoutes dans `message` pour garder le contexte commercial.
+- `lifecyclestage` est envoye avec la valeur `lead` pour construire une liste de prospects.
+
+Copier ensuite les deux `formId` dans `HUBSPOT_CONFIG.forms.diagnostic.formId` et `HUBSPOT_CONFIG.forms.newsletter.formId`.
+Le formulaire newsletter actuel est deja renseigne avec le lien partage HubSpot : portail `148475561`, formulaire `fd5d5483-a517-4bf3-bc24-902ca0a1b20f`.
+
+Pages connectées :
+
+- `contact.html` envoie les demandes de diagnostic vers HubSpot.
+- `watch.html` et `news.html` envoient les inscriptions veille/newsletter vers HubSpot.
+
+Tant que les GUID ne sont pas renseignés, les fallbacks restent actifs : email prérempli pour le diagnostic, redirection vers `contact.html` pour les formulaires courts.
 
 ## Logique d'animation (résumé)
 

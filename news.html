@@ -91,8 +91,9 @@
         <h2 data-i18n="news.lead.title">Recevoir les prochaines analyses ingrédients.</h2>
         <p data-i18n="news.lead.body">Une sélection courte, utile et orientée décision : technologies, goûts, formulation, réglementation et mouvements de marché.</p>
       </div>
-      <form class="lead-panel__form" action="contact.html#diagnostic" method="get">
+      <form class="lead-panel__form" action="contact.html#diagnostic" method="get" data-hubspot-form="newsletter">
         <input type="hidden" name="subject" value="watch">
+        <input type="hidden" name="message" value="Je souhaite recevoir les prochaines analyses ingrédients.">
         <input name="email" type="email" placeholder="Email professionnel" data-i18n="news.lead.email" data-i18n-attr="placeholder" autocomplete="email" required>
         <input name="company" type="text" placeholder="Société" data-i18n="news.lead.company" data-i18n-attr="placeholder" autocomplete="organization">
         <button class="btn" type="submit" data-i18n="news.lead.cta">Recevoir les analyses</button>
@@ -172,6 +173,7 @@
 <script src="js/articles-data.js?v=20260503-article-dates"></script>
 <script src="js/article-visuals.js?v=20260502-article-motion"></script>
 <script src="js/news.js?v=20260521-linkedin"></script>
+<script src="js/hubspot.js?v=20260521-leads"></script>
 <script>document.getElementById("y").textContent = new Date().getFullYear();</script>
 </body>
 </html>

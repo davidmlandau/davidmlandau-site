@@ -62,7 +62,7 @@
     <div class="section__head">
       <div>
         <span class="eyebrow" data-i18n="contact.eyebrow">CONTACT</span>
-        <h1 class="display-l" data-i18n="contact.title">Demander un diagnostic stratégique.</h1>
+        <h1 class="display-l" data-i18n="contact.title">Soumettre votre demande.</h1>
       </div>
       <p class="lede" data-i18n="contact.lede">En quelques lignes, indiquez votre enjeu. Je vous réponds avec une première lecture et, si le sujet s'y prête, une proposition de conversation.</p>
     </div>
@@ -118,20 +118,26 @@
           La soumission est gérée par js/hubspot.js (HubSpot Forms API v3, sans authentification).
 
           Pour activer la connexion :
-          1. Ouvrir HubSpot > Marketing > Forms et créer (ou ouvrir) le formulaire de contact.
+          Portail HubSpot déjà renseigné dans js/hubspot.js : 148295368.
+
+          1. Ouvrir HubSpot > Marketing > Forms et créer (ou ouvrir) le formulaire "Diagnostic".
           2. Cliquer "Share" / "Embed" : l'URL contient portalId=XXXX&formId=YYYY-YYYY-...
-          3. Renseigner ces deux valeurs dans js/hubspot.js (constantes HUBSPOT_PORTAL_ID et HUBSPOT_FORM_GUID).
-          4. Vérifier dans HubSpot que les propriétés de contact suivantes existent :
-             firstname, lastname, email, company, phone, message, subject.
-             (firstname, lastname, email, company, phone existent par défaut.)
-          5. Tester en local (`python3 -m http.server 8000`) puis en production.
+          3. Copier uniquement formId dans js/hubspot.js > HUBSPOT_CONFIG.forms.diagnostic.
+          4. Créer aussi un formulaire court "Newsletter / Veille" et copier son formId
+             dans HUBSPOT_CONFIG.forms.newsletter pour les formulaires de watch.html et news.html.
+          5. Ajouter ces champs dans le formulaire HubSpot :
+             firstname, lastname, email, company, phone, industry, message, lifecyclestage.
+             (firstname, lastname, email, company, phone, industry, message et lifecyclestage existent par défaut.)
+             Les champs du site "enjeu prioritaire", "secteur" et "horizon" sont intégrés dans message ;
+             "secteur" est aussi envoyé vers industry.
+          6. Tester en local (`python3 -m http.server 8000`) puis en production.
 
           Tant que les constantes ne sont pas configurées, le formulaire ouvre un email
           prérempli vers david@davidmlandau.com. Le visiteur doit alors envoyer l'email
           depuis son client mail.
         -->
 
-        <form class="form" id="contactForm" novalidate>
+        <form class="form" id="contactForm" data-hubspot-form="diagnostic" novalidate>
           <div class="form-row">
             <div class="form-group">
               <label for="firstname" data-i18n="contact.firstname">Prénom</label>
@@ -188,14 +194,14 @@
             <textarea id="message" name="message" required></textarea>
           </div>
           <button class="btn" type="submit">
-            <span data-i18n="contact.send">Envoyer le message</span>
+            <span data-i18n="contact.send">Soumettre</span>
             <svg class="arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
           </button>
           <p class="form-note" data-i18n="contact.note">Vos données sont traitées dans le respect du RGPD et ne sont pas partagées avec des tiers.</p>
         </form>
 
         <div id="form-success" class="form-success" hidden data-i18n="contact.success">
-          Merci, votre message est arrivé. Je reviens vers vous sous 48 heures.
+          Merci, votre demande est arrivée. Vos données sont traitées dans le respect du RGPD et ne sont pas partagées avec des tiers.
         </div>
         <div id="form-error" class="form-error" hidden data-i18n="contact.error">
           Une erreur est survenue. Merci de réessayer ou d'écrire directement à david@davidmlandau.com.
@@ -254,7 +260,7 @@
 <script src="js/main.js?v=20260520-scroll"></script>
 <script src="js/immersive.js?v=20260502-disruptive-funnel"></script>
 <script src="js/animations.js"></script>
-<script src="js/hubspot.js?v=20260519-diagnostic"></script>
+<script src="js/hubspot.js?v=20260521-leads"></script>
 <script>document.getElementById("y").textContent = new Date().getFullYear();</script>
 </body>
 </html>

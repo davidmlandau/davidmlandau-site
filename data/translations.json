@@ -280,7 +280,8 @@
     "diagnostic.cta.title": "Soumettre votre enjeu.",
     "diagnostic.cta.body": "Envoyez le contexte. Je reviens vers vous avec une première lecture et, si le sujet s’y prête, une proposition d’échange.",
     "diagnostic.cta.button": "Demander le diagnostic",
-    "watch.lead.message": "Je souhaite recevoir la veille mensuelle ingrédients et être informé des prochains signaux utiles."
+    "watch.lead.message": "Je souhaite recevoir la veille mensuelle ingrédients et être informé des prochains signaux utiles.",
+    "news.linkedin.all": "Voir tous les posts LinkedIn"
   },
   "en": {
     "nav.about": "About me",
@@ -563,7 +564,8 @@
     "diagnostic.cta.title": "Submit your issue.",
     "diagnostic.cta.body": "Send the context. I will come back with an initial reading and, if relevant, a proposal for a conversation.",
     "diagnostic.cta.button": "Request the diagnostic",
-    "watch.lead.message": "I would like to receive the monthly ingredient watch and be informed about the next useful signals."
+    "watch.lead.message": "I would like to receive the monthly ingredient watch and be informed about the next useful signals.",
+    "news.linkedin.all": "View all LinkedIn posts"
   },
   "nl": {
     "nav.about": "Over mij",
@@ -846,6 +848,7 @@
     "diagnostic.cta.title": "Dien uw vraagstuk in.",
     "diagnostic.cta.body": "Stuur de context. Ik kom terug met een eerste lezing en, indien relevant, een voorstel voor een gesprek.",
     "diagnostic.cta.button": "Vraag de diagnose aan",
-    "watch.lead.message": "Ik wil graag de maandelijkse ingrediëntenmonitoring ontvangen en op de hoogte blijven van de volgende nuttige signalen."
+    "watch.lead.message": "Ik wil graag de maandelijkse ingrediëntenmonitoring ontvangen en op de hoogte blijven van de volgende nuttige signalen.",
+    "news.linkedin.all": "Bekijk alle LinkedIn-posts"
   }
 }

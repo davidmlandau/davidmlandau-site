@@ -47,13 +47,7 @@
     transition.className = 'page-transition';
     transition.setAttribute('aria-hidden', 'true');
     transition.innerHTML = [
-      '<svg class="page-transition__mark" viewBox="0 0 100 80">',
-      '<g fill="currentColor">',
-      '<path d="M 5 55 L 28 22 L 38 32 L 55 8 L 88 55 Z" opacity=".72"/>',
-      '<path d="M 38 55 L 55 8 L 70 28 L 88 55 Z"/>',
-      '<path d="M 0 60 Q 24 66 50 63 Q 76 60 96 62" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".48"/>',
-      '</g>',
-      '</svg>',
+      '<img class="page-transition__mark" src="assets/logo-mark-dandau.png" alt="">',
     ].join('');
     document.body.appendChild(transition);
 

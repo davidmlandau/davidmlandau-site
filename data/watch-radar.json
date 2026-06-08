@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-07T08:30:22.344Z",
+  "generatedAt": "2026-06-08T09:55:59.686Z",
   "generatedBy": "site/tools/build-watch-radar.py",
   "totals": {
     "categories": 5,
-    "items": 164,
+    "items": 163,
     "errors": 0
   },
   "categories": {
@@ -92,6 +92,23 @@
         {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "Making the case for modular insulation in the modern cold chain",
+          "link": "https://www.packagingdive.com/spons/making-the-case-for-modular-insulation-in-the-modern-cold-chain/822091/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "Modular insulation systems help cold chain teams balance performance, cost and sustainability.",
+          "category": "tech",
+          "score": 74,
+          "matchedKeywords": [
+            "ai"
+          ],
+          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
+        },
+        {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
           "title": "California EPR deadlines spur urgent flexible film recycling solutions",
           "link": "https://www.packagingdive.com/news/flexible-film-recycling-recycling-california-epr/821600/",
           "pubDate": "Mon, 01 Jun 2026 11:00:00 -0400",
@@ -141,41 +158,6 @@
           "reason_fr": "Signal detecte autour de ai, ia. Actualite chaude. Angle technologie.",
           "reason_en": "Signal detected around ai, ia. Hot item. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai, ia. Actueel signaal. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "StrainX Bioworks nets $13m to scale biomanufacturing platform: ‘India is going to be the fermentation capital of the world’",
-          "link": "https://agfundernews.com/strainx-bioworks-nets-13m-to-scale-biomanufacturing-platform-india-is-going-to-be-the-fermentation-capital-of-the-world",
-          "pubDate": "Mon, 25 May 2026 02:31:13 +0000",
-          "description": "India has key advantages as a manufacturing base due to its cost structure, existing manufacturing ecosystem, equipment and supplier base, talent pool, and access to raw materials, says cofounder Akshay Mittal. The post StrainX Bioworks nets $13m to scale biomanufacturing platform: ‘India is going to be the fermentation capital of the world’ appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 70,
-          "matchedKeywords": [
-            "ai",
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "3 insights into rising corporate plastics disclosures",
-          "link": "https://www.packagingdive.com/news/cdp-corporate-plastics-disclosures/822014/",
-          "pubDate": "Fri, 05 Jun 2026 11:00:00 -0400",
-          "description": "More companies are detailing plastics data, mapping their value chains and setting targets as business and regulatory risks become more apparent, according to CDP.",
-          "category": "tech",
-          "score": 69,
-          "matchedKeywords": [
-            "ai"
-          ],
-          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
         },
         {
           "source": "Packaging Dive",
@@ -264,12 +246,30 @@
           "reason_nl": "Signaal gedetecteerd rond robotics. Actueel signaal. Technologiehoek."
         },
         {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "StrainX Bioworks nets $13m to scale biomanufacturing platform: ‘India is going to be the fermentation capital of the world’",
+          "link": "https://agfundernews.com/strainx-bioworks-nets-13m-to-scale-biomanufacturing-platform-india-is-going-to-be-the-fermentation-capital-of-the-world",
+          "pubDate": "Mon, 25 May 2026 02:31:13 +0000",
+          "description": "India has key advantages as a manufacturing base due to its cost structure, existing manufacturing ecosystem, equipment and supplier base, talent pool, and access to raw materials, says cofounder Akshay Mittal. The post StrainX Bioworks nets $13m to scale biomanufacturing platform: ‘India is going to be the fermentation capital of the world’ appeared first on AgFunderNews .",
+          "category": "tech",
+          "score": 64,
+          "matchedKeywords": [
+            "ai",
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "New York packaging EPR bill won’t move forward in 2026",
-          "link": "https://www.packagingdive.com/news/new-york-epr-packaging-2026-fails-bottle-bill-dsny/822145/",
-          "pubDate": "Fri, 05 Jun 2026 11:45:01 -0400",
-          "description": "The Packaging Reduction and Recycling Infrastructure Act faced another year of intense scrutiny, lobbying and more than 30 amendments.",
+          "title": "EPR requires lifetime track & trace. Are you ready?",
+          "link": "https://www.packagingdive.com/spons/epr-requires-lifetime-track-trace-are-you-ready/821754/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "For years, packaging decisions focused primarily on cost, protection, transportation efficiency and shelf performance. EPR shifted the conversation.",
           "category": "tech",
           "score": 64,
           "matchedKeywords": [],
@@ -349,19 +349,19 @@
         {
           "source": "Packaging Dive",
           "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "Producers just passed a major packaging EPR deadline. Now what?",
-          "link": "https://www.packagingdive.com/news/epr-compliance-packaging-reporting-deadline-caa-may-31/821318/",
-          "pubDate": "Mon, 01 Jun 2026 08:30:00 -0400",
-          "description": "Many companies may still be behind on a May 31 deadline, while others can shift some focus to optimizing packaging. Eunomia, Pure Strategies, EY and Washburn Consulting weigh in.",
+          "title": "3 insights into rising corporate plastics disclosures",
+          "link": "https://www.packagingdive.com/news/cdp-corporate-plastics-disclosures/822014/",
+          "pubDate": "Fri, 05 Jun 2026 11:00:00 -0400",
+          "description": "More companies are detailing plastics data, mapping their value chains and setting targets as business and regulatory risks become more apparent, according to CDP.",
           "category": "tech",
           "score": 63,
           "matchedKeywords": [
-            "ia"
+            "ai"
           ],
-          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
+          "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -434,40 +434,6 @@
           "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
         },
         {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "California advances compostables, recycled content labeling bills",
-          "link": "https://www.packagingdive.com/news/california-bills-advance-compostables-recycled-content-labeling/821316/",
-          "pubDate": "Fri, 29 May 2026 10:00:00 -0400",
-          "description": "The legislation divided trade groups over mass balance accounting, plastics in compost and more.",
-          "category": "tech",
-          "score": 60,
-          "matchedKeywords": [
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "Ruby Bio aims to launch “world first” fermentation-derived clean label emulsifiers in 2027",
-          "link": "https://agfundernews.com/ruby-bio-to-launch-world-first-fermentation-derived-clean-label-emulsifiers-in-2027",
-          "pubDate": "Fri, 08 May 2026 20:38:31 +0000",
-          "description": "“To our knowledge, we are the only fermentation derived emulsifier portfolio platform in the world,” says CTO Pavan Kambam. The post Ruby Bio aims to launch “world first” fermentation-derived clean label emulsifiers in 2027 appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 60,
-          "matchedKeywords": [
-            "ai"
-          ],
-          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Castoro Cellars deploys Saga Robotics’ UV-C bots across 600 organic acres",
@@ -531,30 +497,27 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Technologiehoek."
         },
         {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "New York packaging EPR bill won’t move forward in 2026",
+          "link": "https://www.packagingdive.com/news/new-york-epr-packaging-2026-fails-bottle-bill-dsny/822145/",
+          "pubDate": "Fri, 05 Jun 2026 11:45:01 -0400",
+          "description": "The Packaging Reduction and Recycling Infrastructure Act faced another year of intense scrutiny, lobbying and more than 30 amendments.",
+          "category": "tech",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle technologie.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Technology angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Technologiehoek."
+        },
+        {
           "source": "Google News - production technologies",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22ingredient+production%22+OR+%22food+processing+technology%22+OR+%22precision+fermentation%22+OR+%22extrusion+technology%22+OR+%22bioprocessing%22%29+%28food+OR+ingredients%29&hl=fr&gl=FR&ceid=FR:fr",
           "title": "Top ten des dix plus grandes entreprises alimentaires du monde - Agro Media",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekY3QlV4NW5tNFR1NkVRRmRMTlRMM3RrOUthVzc5WDQzdVg4R0hEb05hbmpIZl9janRHRnFRQU53cFpiblczbXNhNXFOM1REYmxPS0FkVHhiNXJaaTk1eThJVmNkX25TbzJEUkN0M01vNndmOGwxbmxLT2x1a0Zqd0VZbDRZaHkyb1hBUmdLNVpJMGtDb1ZVenk3SElBYlVaMG45V0RLSUVNTENsYmc?oc=5",
           "pubDate": "Wed, 30 Dec 2020 08:00:00 GMT",
           "description": "Top ten des dix plus grandes entreprises alimentaires du monde Agro Media",
-          "category": "tech",
-          "score": 56,
-          "matchedKeywords": [
-            "ai",
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "Google News - technologies agroalimentaires",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Institut de technologie agroalimentaire: des étudiants de la région remportent un prix au Gala de l'excellence - coupdoeil.info",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkZXYnpabUdXVjJoMEhXSGtidGVRdDQ4NW5GaU9QNG04aC1yVWxwQlNoNmRfSDdJbXZuYnNxdUttbWZxRE5URWVxZzRtajYya2N0d0dxdVNxNHFpVDV1cFhyS3VacWhZV2xBY2Vja21uR2ZlM0RwdHpvZzFxY3djUTJOdFJJTlNZNUppM2d5dDRONzlqb000UlNKbmNIMTQ1bWRuQ3BKclotR1dyLXRLb1ZjU1JVTmUwLVU2T2RyN21BQWlhWnpMRHplNU01SmRPNzFpbDNDSk94clBQMFRaUA?oc=5",
-          "pubDate": "Wed, 29 May 2019 07:00:00 GMT",
-          "description": "Institut de technologie agroalimentaire: des étudiants de la région remportent un prix au Gala de l'excellence coupdoeil.info",
           "category": "tech",
           "score": 56,
           "matchedKeywords": [
@@ -586,10 +549,10 @@
         {
           "source": "Google News - technologies agroalimentaires",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Concocter un bon plan d’action est crucial - Les Affaires",
+          "title": "Concocter un bon plan d’action est crucial - lesaffaires.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbEtqY25Gb2pXcmhRV01zT2ZsM21RdnMzMU01RzFXSEhDdk8zTlJIdEpzRWFKQS0zcWtVN2hFeFg2TllLN0xaSnF2VG9HYmFFTVlCd0NETUFaUlV5cDMtUTlpMy1yNmR0LTZCOFlJRHQwZmJ4OTlLaHpzOGJZdGtwLUxPOGFHLWpsWkhobWFDd1Zld3dmQnFaNzdFMXV6TGY5TENHWjNXVkZweTZ2NExlQ3l0SjRlUWs2c0E?oc=5",
           "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-          "description": "Concocter un bon plan d’action est crucial Les Affaires",
+          "description": "Concocter un bon plan d’action est crucial lesaffaires.com",
           "category": "tech",
           "score": 56,
           "matchedKeywords": [
@@ -648,6 +611,42 @@
           "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle technologie.",
           "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Technology angle.",
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "Google News - technologies agroalimentaires",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Près de 50 % moins d’étudiants en transformation alimentaire - Radio-Canada",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHpPYnU1OUNQd2lleVBVRDJZX25VQzlVU0JsSnlhTGQxR1BSMGR5emoydzJOV2trR2pTUHF5cjhtM2dWNFFocS1uczFzTUMxdEQteU5GdGdVN0NmTmpHbWxJY3RWRDU1MUNDZGpZYThuZEUtWFNnTTR4ZjNsQk1IYTZjN1hKdG5VYjhuTjN3X3g0c2RON2c0ZGthdw?oc=5",
+          "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
+          "description": "Près de 50 % moins d’étudiants en transformation alimentaire Radio-Canada",
+          "category": "tech",
+          "score": 56,
+          "matchedKeywords": [
+            "ai",
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "Google News - technologies agroalimentaires",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Meet 2017 TEF Alumni, Olanrewaju Fadodun Who Started Food Processing And Training Services Business - The Tony Elumelu Foundation",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUXlKQnkwNFhoQXdhZ2c0SmVZbnBYMDhpOWhOWGRheDhrLVFOOURpNTVnZGhyeWtuODFudWdsUXlTSFl4M254em9BSHBUSXFIWEZNbzlON3Fzc1FLeVVtaFUxSE5MeWhFRC1XSnVYcU41eUhGcGptY3ZTYnVIenRhd0QzOEFHck5aTGlBTjRrNC1Ra3JBTnFHOHdlUG05a04wXzJuWW1vRjB1NVFEb01PTE9GTFVHZDhRQ3ZyVF9YblN1ZVA4dHRRX2JUSlQ2eG13WUFFdk1iWExMb3VBTFNYUzcyZF92S1prYkNGT05tUTl0Mmk4ODZVWUk2a3JMTUtaMjNHWjVydU5kSnl1UEQ5SGRsUUl2NW9OQXBmUnpmQTkxZEhZZWpBcnJJX3VXaFhhRVZLRE9kWlhneFdPOXRhNU9WWVo0OEc5dVExazJ1TjRLQQ?oc=5",
+          "pubDate": "Thu, 08 Feb 2024 08:00:00 GMT",
+          "description": "Meet 2017 TEF Alumni, Olanrewaju Fadodun Who Started Food Processing And Training Services Business The Tony Elumelu Foundation",
+          "category": "tech",
+          "score": 56,
+          "matchedKeywords": [
+            "ai",
+            "food processing"
+          ],
+          "reason": "Signal detecte autour de ai, food processing. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai, food processing. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai, food processing. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai, food processing. Op te volgen in de tijd. Technologiehoek."
         }
       ]
     },
@@ -676,25 +675,8 @@
           "url": "https://news.google.com/rss/search?q=%28%22nouveau+gout%22+OR+%22tendance+gout%22+OR+%22arome+tendance%22+OR+%22melange+saveurs%22%29+alimentaire&hl=fr&gl=FR&ceid=FR:fr"
         }
       ],
-      "total": 20,
+      "total": 19,
       "items": [
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
-          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
-          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
-          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
-          "category": "trends",
-          "score": 80,
-          "matchedKeywords": [
-            "launch"
-          ],
-          "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
-          "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
-        },
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
@@ -715,19 +697,19 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
-          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
-          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
-          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
+          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
+          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
+          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
           "category": "trends",
-          "score": 69,
+          "score": 74,
           "matchedKeywords": [
-            "texture"
+            "launch"
           ],
-          "reason": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Signal detected around texture. Hot item. Sensory trend angle.",
-          "reason_nl": "Signaal gedetecteerd rond texture. Actueel signaal. Sensorische trendhoek."
+          "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
+          "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
         },
         {
           "source": "Food Dive",
@@ -747,10 +729,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
-          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
-          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
-          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
+          "title": "The next recall risk isn’t ingredients—it’s your packaging data",
+          "link": "https://www.fooddive.com/spons/the-next-recall-risk-isnt-ingredientsits-your-packaging-data/821831/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "Packaging data errors are driving recalls. Here’s how smart brands reduce the risk.",
           "category": "trends",
           "score": 64,
           "matchedKeywords": [],
@@ -762,40 +744,42 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "3 real-world examples of modeling and simulation for food safety",
+          "link": "https://www.fooddive.com/spons/3-real-world-examples-of-modeling-and-simulation-for-food-safety/821916/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "See how simulation software has been used in optimizing food testing, drying and packaging.",
+          "category": "trends",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
+          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
+          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
+          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
+          "category": "trends",
+          "score": 63,
+          "matchedKeywords": [
+            "texture"
+          ],
+          "reason": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Signal detected around texture. Hot item. Sensory trend angle.",
+          "reason_nl": "Signaal gedetecteerd rond texture. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
           "title": "Nestlé buys rest of ready-to-drink meals brand",
           "link": "https://www.fooddive.com/news/nestle-buys-rest-of-ready-to-drink-meals-brand/821884/",
           "pubDate": "Wed, 03 Jun 2026 16:00:00 -0400",
           "description": "The purchase of the remaining 51% of yfood Labs comes three years after the food giant’s initial investment, and will give Nestlé a bigger presence in healthier, portable offerings.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ahold Delhaize USA’s head of private label talks strategy",
-          "link": "https://www.fooddive.com/news/ahold-delhaize-adusa-private-label-own-brands-abby-cook-executive/821241/",
-          "pubDate": "Wed, 03 Jun 2026 10:31:00 -0400",
-          "description": "Abby Cook, the grocer’s newly appointed SVP of Own Brands, shares why its store brands continue to outpace the rest of its assortment in sales and volume.",
-          "category": "trends",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Hershey sees s’mores catching fire with more consumers",
-          "link": "https://www.fooddive.com/news/hershey-sees-smores-catching-fire-with-more-consumers/821630/",
-          "pubDate": "Wed, 03 Jun 2026 09:00:00 -0400",
-          "description": "The gooey campfire staple is a “significant and growing piece” for the company’s namesake chocolate brand, generating nearly $250 million annually, a top executive said.",
           "category": "trends",
           "score": 58,
           "matchedKeywords": [],
@@ -826,6 +810,21 @@
           "link": "https://www.fooddive.com/news/c-stores-are-a-key-growth-channel-for-food-and-beverage-brands-but-not-an/821980/",
           "pubDate": "Thu, 04 Jun 2026 09:55:00 -0400",
           "description": "Leaders from brands like PepsiCo and Athletic Brewing discussed growth opportunities and key challenges in convenience retail at the Wall Street Journal’s Global Food Forum.",
+          "category": "trends",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
+          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
+          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
+          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
           "category": "trends",
           "score": 58,
           "matchedKeywords": [],
@@ -942,21 +941,6 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Sensorische trendhoek."
         },
         {
-          "source": "Google News - flavor trends",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22flavor+trend%22+OR+%22flavour+trend%22+OR+%22taste+trend%22+OR+%22new+flavor%22+OR+%22flavour+combination%22%29+food&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Vegan Nutella Is Finally Coming To The US (But There’s A Catch) - Plant Based News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TTDFEUFQtN0hhVDFtckNOUU5OeC0wY043OC1zMHBsTFAwa1R0WllMODBKSUtFYnZtb3oxTlN1N0NGT2tUaWRnd3kwa3V5bEhMNllOa1V4NE9RMWhoV0owRG9OeVFDcjJxYkNEN1lTVlNWYi1XcGVNOTZlYUc?oc=5",
-          "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT",
-          "description": "Vegan Nutella Is Finally Coming To The US (But There’s A Catch) Plant Based News",
-          "category": "trends",
-          "score": 36,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Sensorische trendhoek."
-        },
-        {
           "source": "Google News - gouts odeurs melanges",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22nouveau+gout%22+OR+%22tendance+gout%22+OR+%22arome+tendance%22+OR+%22melange+saveurs%22%29+alimentaire&hl=fr&gl=FR&ceid=FR:fr",
           "title": "Des scientifiques ont identifié un nouveau goût: celui spécifique aux féculents - Le HuffPost",
@@ -1014,6 +998,21 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "WFSD 2026: Exclusive WHO Interview on New Global Foodborne Disease Estimates",
+          "link": "https://www.food-safety.com/articles/11490-wfsd-2026-exclusive-who-interview-on-new-global-foodborne-disease-estimates",
+          "pubDate": "Sun, 07 Jun 2026 02:45:00 -0400",
+          "description": "Recognizing World Food Safety Day (WFSD) 2026 and the new estimates on the global burden of foodborne disease, WHO’s Elaine Borghi, Ph.D. discusses the development of the estimates and how they can be used to drive effective interventions that meaningfully improve food safety and public health.",
+          "category": "aroma",
+          "score": 70,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "New Research Reveals Addictive Design, Health Harms of Ultra-Processed Foods; Calls for Systemic Change",
           "link": "https://www.food-safety.com/articles/11478-new-research-reveals-addictive-design-health-harms-of-ultra-processed-foods-calls-for-systemic-change",
           "pubDate": "Wed, 03 Jun 2026 05:15:00 -0400",
@@ -1066,28 +1065,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FDA Announces FSMA 204 Compliance Training Through FSPCA",
-          "link": "https://www.food-safety.com/articles/11449-fda-announces-fsma-204-compliance-training-through-fspca",
-          "pubDate": "Thu, 21 May 2026 14:30:33 -0400",
-          "description": "The Food Traceability Rule training, offered through the Food Safety Preventive Controls Alliance (FSPCA), provides industry participants with foundational knowledge needed to understand and comply with FSMA 204 requirements.",
-          "category": "aroma",
-          "score": 64,
-          "matchedKeywords": [
-            "fda",
-            "compliance"
-          ],
-          "reason": "Signal detecte autour de fda, compliance. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda, compliance. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda, compliance. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda, compliance. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FAO, WHO Launch New Resources Ahead of World Food Safety Day",
-          "link": "https://www.food-safety.com/articles/11475-fao-who-launch-new-resources-ahead-of-world-food-safety-day",
-          "pubDate": "Mon, 01 Jun 2026 09:58:40 -0400",
-          "description": "Ahead of World Food Safety Day, FAO and WHO have introduced a Food Safety Roadmap Development Tool and an online learning course on Codex-aligned risk assessments, supporting competent authorities and other stakeholders seeking to utilize science and data to improve national food safety systems.",
+          "title": "FAO Researchers Explore How Foodborne Antimicrobial Resistance Spreads in Gut Microbiome",
+          "link": "https://www.food-safety.com/articles/11496-fao-researchers-explore-how-foodborne-antimicrobial-resistance-spreads-in-gut-microbiome",
+          "pubDate": "Mon, 08 Jun 2026 05:15:00 -0400",
+          "description": "The review summarized current knowledge about the potential contribution of foodborne bacteria and antibiotic resistance genes to the human gut resistome, suggesting the integration of gut microbiome and AMR data into risk assessment frameworks.",
           "category": "aroma",
           "score": 64,
           "matchedKeywords": [],
@@ -1099,10 +1080,25 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "New York, California Advance Baby Food, Infant Formula Testing Bills",
-          "link": "https://www.food-safety.com/articles/11493-new-york-california-advance-baby-food-infant-formula-testing-bills",
-          "pubDate": "Fri, 05 Jun 2026 05:15:00 -0400",
-          "description": "The New York bill is awaiting the Governor’s signature, while the California bill advances from the Assembly to the Senate. The bills would require baby food and infant formula manufacturers to regularly test their products for toxic heavy metals and disclose results.",
+          "title": "Study Suggests Food Processing, Not Just Nutrient Content, May Affect Health Impacts of UPFs",
+          "link": "https://www.food-safety.com/articles/11495-study-suggests-food-processing-not-just-nutrient-content-may-affect-health-impacts-of-upfs",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "Tufts University researchers found that people who ate more ultra-processed foods (UPFs) had worse health outcomes, even after accounting for the overall nutritional quality of the foods.",
+          "category": "aroma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "FAO, WHO Launch New Resources Ahead of World Food Safety Day",
+          "link": "https://www.food-safety.com/articles/11475-fao-who-launch-new-resources-ahead-of-world-food-safety-day",
+          "pubDate": "Mon, 01 Jun 2026 09:58:40 -0400",
+          "description": "Ahead of World Food Safety Day, FAO and WHO have introduced a Food Safety Roadmap Development Tool and an online learning course on Codex-aligned risk assessments, supporting competent authorities and other stakeholders seeking to utilize science and data to improve national food safety systems.",
           "category": "aroma",
           "score": 64,
           "matchedKeywords": [],
@@ -1291,10 +1287,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Study Suggests Sweetener May Contribute to Liver Disease",
-          "link": "https://www.food-safety.com/articles/11473-study-suggests-sweetener-may-contribute-to-liver-disease",
-          "pubDate": "Mon, 01 Jun 2026 05:00:00 -0400",
-          "description": "Researchers found that the sugar alcohol sorbitol can be turned into fructose, leading to fat accumulation in the liver. Gut bacteria may help protect against sorbitol-induced liver damage, but can be overwhelmed by excessive intake.",
+          "title": "New York, California Advance Baby Food, Infant Formula Testing Bills",
+          "link": "https://www.food-safety.com/articles/11493-new-york-california-advance-baby-food-infant-formula-testing-bills",
+          "pubDate": "Fri, 05 Jun 2026 05:15:00 -0400",
+          "description": "The New York bill is awaiting the Governor’s signature, while the California bill advances from the Assembly to the Senate. The bills would require baby food and infant formula manufacturers to regularly test their products for toxic heavy metals and disclose results.",
           "category": "aroma",
           "score": 58,
           "matchedKeywords": [],
@@ -1330,23 +1326,6 @@
           "description": "Notable pathogen–food commodity pairings emerged, including Clostridium botulinum and Alaskan traditional fermented meats and fish. The analysis was conducted by FDA and CDC researchers.",
           "category": "aroma",
           "score": 55,
-          "matchedKeywords": [
-            "fda"
-          ],
-          "reason": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de fda. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around fda. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond fda. Op te volgen in de tijd. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "FDA Issues Guidance on Protein Quality Testing for Infant Formula",
-          "link": "https://www.food-safety.com/articles/11451-fda-issues-guidance-on-protein-quality-testing-for-infant-formula",
-          "pubDate": "Thu, 21 May 2026 15:59:27 -0400",
-          "description": "The guidance was developed to help manufacturers and laboratories in the design, conduct, evaluation, and reporting of Protein Efficiency Ratio (PER) studies.",
-          "category": "aroma",
-          "score": 54,
           "matchedKeywords": [
             "fda"
           ],
@@ -1463,10 +1442,10 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Sodium-Rich Foods are Also Important Sources of Key Nutrients, Complicating Reformulation Efforts",
-          "link": "https://www.food-safety.com/articles/11438-sodium-rich-foods-are-also-important-sources-of-key-nutrients-complicating-reformulation-efforts",
-          "pubDate": "Mon, 25 May 2026 05:00:00 -0400",
-          "description": "A new study led by the University of Toronto and supported by IAFNS highlights a critical tension in sodium reduction policy, in that many of the foods contributing most to sodium intake also provide essential nutrients.",
+          "title": "Study Suggests Sweetener May Contribute to Liver Disease",
+          "link": "https://www.food-safety.com/articles/11473-study-suggests-sweetener-may-contribute-to-liver-disease",
+          "pubDate": "Mon, 01 Jun 2026 05:00:00 -0400",
+          "description": "Researchers found that the sugar alcohol sorbitol can be turned into fructose, leading to fat accumulation in the liver. Gut bacteria may help protect against sorbitol-induced liver damage, but can be overwhelmed by excessive intake.",
           "category": "aroma",
           "score": 50,
           "matchedKeywords": [],
@@ -1620,6 +1599,24 @@
       "total": 36,
       "items": [
         {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "The next recall risk isn’t ingredients—it’s your packaging data",
+          "link": "https://www.fooddive.com/spons/the-next-recall-risk-isnt-ingredientsits-your-packaging-data/821831/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "Packaging data errors are driving recalls. Here’s how smart brands reduce the risk.",
+          "category": "ingredients",
+          "score": 84,
+          "matchedKeywords": [
+            "ingredient",
+            "ingredients"
+          ],
+          "reason": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
+          "reason_en": "Signal detected around ingredient, ingredients. Hot item. Ingredients angle.",
+          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Actueel signaal. Ingredientenhoek."
+        },
+        {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
           "title": "Pourquoi le stock de Above Food Ingredients (ABVE) a chuté de 36% après les heures d'ouverture aujourd'hui - Benzinga France",
@@ -1673,36 +1670,6 @@
           "reason_fr": "Signal detecte autour de ingredient, ingredients, nutrition. A suivre dans la duree. Angle ingredients.",
           "reason_en": "Signal detected around ingredient, ingredients, nutrition. Worth tracking over time. Ingredients angle.",
           "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients, nutrition. Op te volgen in de tijd. Ingredientenhoek."
-        },
-        {
-          "source": "Food Business News - Ingredients",
-          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
-          "title": "Slideshow: Serving up seasonal menu innovations",
-          "link": "https://www.foodbusinessnews.net/articles/30446-slideshow-serving-up-seasonal-menu-innovations",
-          "pubDate": "Fri, 05 Jun 2026 10:41:13 -0400",
-          "description": "Limited-time offerings are popping up across foodservice menus.",
-          "category": "ingredients",
-          "score": 70,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
-          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
-          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
-          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
-          "category": "ingredients",
-          "score": 70,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
         },
         {
           "source": "Google News - ingredient development",
@@ -1773,10 +1740,25 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
-          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
-          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
-          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
+          "title": "3 real-world examples of modeling and simulation for food safety",
+          "link": "https://www.fooddive.com/spons/3-real-world-examples-of-modeling-and-simulation-for-food-safety/821916/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "See how simulation software has been used in optimizing food testing, drying and packaging.",
+          "category": "ingredients",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Serving up seasonal menu innovations",
+          "link": "https://www.foodbusinessnews.net/articles/30446-slideshow-serving-up-seasonal-menu-innovations",
+          "pubDate": "Fri, 05 Jun 2026 10:41:13 -0400",
+          "description": "Limited-time offerings are popping up across foodservice menus.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1788,10 +1770,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
-          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
-          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
-          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
+          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
+          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
+          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1871,40 +1853,40 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ahold Delhaize USA’s head of private label talks strategy",
-          "link": "https://www.fooddive.com/news/ahold-delhaize-adusa-private-label-own-brands-abby-cook-executive/821241/",
-          "pubDate": "Wed, 03 Jun 2026 10:31:00 -0400",
-          "description": "Abby Cook, the grocer’s newly appointed SVP of Own Brands, shares why its store brands continue to outpace the rest of its assortment in sales and volume.",
-          "category": "ingredients",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Hershey sees s’mores catching fire with more consumers",
-          "link": "https://www.fooddive.com/news/hershey-sees-smores-catching-fire-with-more-consumers/821630/",
-          "pubDate": "Wed, 03 Jun 2026 09:00:00 -0400",
-          "description": "The gooey campfire staple is a “significant and growing piece” for the company’s namesake chocolate brand, generating nearly $250 million annually, a top executive said.",
-          "category": "ingredients",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
           "title": "How 3 major food and beverage execs view the state of c-stores",
           "link": "https://www.fooddive.com/news/c-stores-are-a-key-growth-channel-for-food-and-beverage-brands-but-not-an/821980/",
           "pubDate": "Thu, 04 Jun 2026 09:55:00 -0400",
           "description": "Leaders from brands like PepsiCo and Athletic Brewing discussed growth opportunities and key challenges in convenience retail at the Wall Street Journal’s Global Food Forum.",
+          "category": "ingredients",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
+          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
+          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
+          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
+          "category": "ingredients",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
+          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
+          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
+          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -2043,27 +2025,9 @@
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
           "title": "La Tunisie séduit le monde au Food Ingredients Europe 2025 - tuniscope.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnlKQl9zZ1ljYkVER05KcFE0bmk3cy1BYnowdFZuM1lOZ3lGRlpJYXctekpxR1lOeTdoR19rT2JnVnYxMXhFbUZBRkctTG5ObGVHcDJ0V1RRMEdobmtJUzliV2NwVTlaUldxaDFRaWQwcjkxdnE4cDdxMklVTktMWGpR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzBzeE9lTkVFSW93N0ZSUG9sVzZaQWtxaV9hdThHcVlLQWdfM0ZDbVNldFRqeXdkcVpaM2ZYeW93R2NTREZOMG1XQURGenJrLXdCZFRzaEtWcGN5RjVlbFBhZDJwM29PbzBqYkFMdHhQNU9obWNPUmhBQUJrUndlZ1hR?oc=5",
           "pubDate": "Thu, 04 Dec 2025 08:00:00 GMT",
           "description": "La Tunisie séduit le monde au Food Ingredients Europe 2025 tuniscope.com",
-          "category": "ingredients",
-          "score": 56,
-          "matchedKeywords": [
-            "ingredient",
-            "ingredients"
-          ],
-          "reason": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
-          "reason_fr": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
-          "reason_en": "Signal detected around ingredient, ingredients. Worth tracking over time. Ingredients angle.",
-          "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Op te volgen in de tijd. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Egypt: Amethis invests in Tiba to boost plant-based food ingredients - africa-news-agency.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1YwdXh4YWREYjIzTFdYZ1hLLXRfMTlHMHFWdTNDWHA5b0cxeWFRdEhGbDFOby1QZjlZMTlHNWc4czhLd0dfclRnR01Zck12RFAzZm9yT1BpZlVyaFRQOXUtTFYxQVh6UndDVGxUSW9LbHM2NGx1M2VqdzJTNnp4ZWJRVVotRERza3ROTlA3anpfeUhwU3VrcC1hajdfRTRw?oc=5",
-          "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-          "description": "Egypt: Amethis invests in Tiba to boost plant-based food ingredients africa-news-agency.com",
           "category": "ingredients",
           "score": 56,
           "matchedKeywords": [
@@ -2168,10 +2132,10 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Thabico présente ses ingrédients phares au salon Food Ingredients Europe - La France Agricole",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFBuRFZCeWRBM3R5Z3k3Rm1JbnB1WDFpNm10aEVMbHFYZnRrNjVvMUFXTGJLTG1RV0pEZmdtOXhpUko3eE5lWWFMWklkUFNuRUNqRjRlelFnOExLUW1RYWQ2N290RG9GVklMdmF6dXBPckdTbTZFejlvcWdvTlp2bV9PYk4wWFd5c1JTbXNYcldHQ0dlZXhLT1haamtxeFhiQlo5V3ZlZnlaRmh0ZlFLZ0hhZUYwR0xkai0wd2lNMFlyWi1FLUoxcWc1Nmxia0xJWTVwc1NzNFJ0QdIB3wFBVV95cUxPeU1Eekd2VUdkbnFPLXNkdTVsbzd2WGY3SVBKb2ZidzhGNlJtenRhREZtNmV3NlJ3S0xlbHJwWWlRblI5VVo4QWpCTnFwMUYzRHlyUDN2VGJDaFBoVlZ5RHNnMHFEb203aF9lSHpPYi1sTjNvUGZ5UkhDWkhvb3NMWnJPVW56YkszMmNLZFBnRm1OZ0RoaDJLM1ZhZVpNS0tFT2xkT1R4cGs1NGQtSFc4Um1pTmxFTE5KSWN6ZEZtQTJCYnlMek1UMG80c3BYc0dyNVBPUDVPTE4xdWw2VE5B?oc=5",
-          "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT",
-          "description": "Thabico présente ses ingrédients phares au salon Food Ingredients Europe La France Agricole",
+          "title": "Above Food Ingredients retrouve la conformité avec le NASDAQ - Investing.com France",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE9SNTJNRHlHR2FXaTlSZ0JtdmYwR1kzNnJTcGM4M3dhWTlnVmRna0MzNE1oSHprNlo2dU5UZTdrMWFIUEZaQ3d0Nm10R2FhTERVLTVpYnZIRms4bWhLNWYtVFhtdHJfMWdqYl9QUUY4VWtpdS1rSkI0VHdoRC1fNEdXVlFEVFhPQXVFTzJtNjZ6ZkRhVGp1REVyZmdvWUpBaF9yUEp2d1F5SjUxQ0NSbEZHbHd6SW8?oc=5",
+          "pubDate": "Fri, 06 Jun 2025 07:00:00 GMT",
+          "description": "Above Food Ingredients retrouve la conformité avec le NASDAQ Investing.com France",
           "category": "ingredients",
           "score": 56,
           "matchedKeywords": [
@@ -2186,10 +2150,10 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" - Webmanagercenter",
+          "title": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" - webmanagercenter",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUpJcGhMNnY1RjFKWkhWbnVaeDZoNUxZS0YzMm41UUpLQ29LcjkzdWFhUlp4VjI3UUt2ZnU2LWNlZmNHaFc1c1VTU2Rzdy1MaVhkNTNramkyc2N4b2JZeFFLRHdFTmJYNUNlUWJPMXBmMVFXMTJYVDhRTnVQbDMtSE1ZU3k0bnQwU1BkaWVTc2ZQR2ZBZzRLbi1WTzRmTjE1a01qNkwyUlRfQ0FaTnZZOHM4MC01bmI3T0sxOFV2QnJOTnZwLWdWdQ?oc=5",
           "pubDate": "Fri, 03 Jun 2022 07:00:00 GMT",
-          "description": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" Webmanagercenter",
+          "description": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" webmanagercenter",
           "category": "ingredients",
           "score": 56,
           "matchedKeywords": [
@@ -2204,10 +2168,10 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Tennis : Aliassime - Cobolli EN DIRECT | Regardez sur ESPN - La Grande Chancellerie de la Légion d´Honneur",
+          "title": "Tennis : Aliassime - Cobolli EN DIRECT | Regardez sur ESPN - Grande Chancellerie de la Légion d'honneur",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmZfb3RfMUtVQUw4ME84MHNKZ3hLVGdOMHRuR01jdjlvRHI3cG94MGZ0Nk5EbGZPOWZtTnAtNnZQWFg4VHlSZ0tEX2hSa1k5eTI3a2lzVVNVWjJQZWVackZiaUFqWGFrQjcwQjNqdUw4bE4wdFNRcDJtQVU5a1J4VVRzZ2FrWXVWLURRT1Fwak1ScGJuLVoxMW16d2hRXy1oMW9kS2NVQ3FOQjIwSVJhZk1hZWxYX0hQcmdMU29ldG5rdw?oc=5",
           "pubDate": "Wed, 03 Jun 2026 11:00:47 GMT",
-          "description": "Tennis : Aliassime - Cobolli EN DIRECT | Regardez sur ESPN La Grande Chancellerie de la Légion d´Honneur",
+          "description": "Tennis : Aliassime - Cobolli EN DIRECT | Regardez sur ESPN Grande Chancellerie de la Légion d'honneur",
           "category": "ingredients",
           "score": 54,
           "matchedKeywords": [],
@@ -2223,6 +2187,21 @@
           "link": "https://www.foodbusinessnews.net/articles/27261-slideshow-hot-honey-offerings-are-heating-up",
           "pubDate": "Wed, 27 Nov 2024 08:58:01 -0500",
           "description": "The trending flavor can be seen gaining traction through launches across retail and foodservice sectors.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Buzzing with energy innovations",
+          "link": "https://www.foodbusinessnews.net/articles/30009-slideshow-buzzing-with-energy-innovations",
+          "pubDate": "Wed, 18 Mar 2026 09:15:02 -0400",
+          "description": "Manufacturers are leaning into energy-focused product launches.",
           "category": "ingredients",
           "score": 46,
           "matchedKeywords": [],
@@ -2259,21 +2238,6 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
-          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
-          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
-          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
-          "category": "ma",
-          "score": 70,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
           "title": "Sazerac enters Tennessee whiskey space with AJ Bond",
           "link": "https://www.fooddive.com/news/sazerac-enters-tennessee-whiskey-aj-bond/821952/",
           "pubDate": "Thu, 04 Jun 2026 09:22:00 -0400",
@@ -2287,23 +2251,6 @@
           "reason_fr": "Signal detecte autour de acquisition. Actualite chaude. Angle operations strategiques.",
           "reason_en": "Signal detected around acquisition. Hot item. Strategic transactions angle.",
           "reason_nl": "Signaal gedetecteerd rond acquisition. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
-          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
-          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
-          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
-          "category": "ma",
-          "score": 69,
-          "matchedKeywords": [
-            "m&a"
-          ],
-          "reason": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Signal detected around m&a. Hot item. Strategic transactions angle.",
-          "reason_nl": "Signaal gedetecteerd rond m&a. Actueel signaal. Strategische transactieshoek."
         },
         {
           "source": "AgFunderNews",
@@ -2340,10 +2287,40 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
-          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
-          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
-          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
+          "title": "The next recall risk isn’t ingredients—it’s your packaging data",
+          "link": "https://www.fooddive.com/spons/the-next-recall-risk-isnt-ingredientsits-your-packaging-data/821831/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "Packaging data errors are driving recalls. Here’s how smart brands reduce the risk.",
+          "category": "ma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "3 real-world examples of modeling and simulation for food safety",
+          "link": "https://www.fooddive.com/spons/3-real-world-examples-of-modeling-and-simulation-for-food-safety/821916/",
+          "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+          "description": "See how simulation software has been used in optimizing food testing, drying and packaging.",
+          "category": "ma",
+          "score": 64,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+          "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
+          "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
+          "description": "The fried chicken chain is making its first entry into the grocery aisle, while Cuervo Tequila cracks into ready-to-drink canned cocktails.",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2372,19 +2349,19 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Ahold Delhaize USA’s head of private label talks strategy",
-          "link": "https://www.fooddive.com/news/ahold-delhaize-adusa-private-label-own-brands-abby-cook-executive/821241/",
-          "pubDate": "Wed, 03 Jun 2026 10:31:00 -0400",
-          "description": "Abby Cook, the grocer’s newly appointed SVP of Own Brands, shares why its store brands continue to outpace the rest of its assortment in sales and volume.",
+          "title": "Celsius under investigation for marketing high-caffeine drinks to minors",
+          "link": "https://www.fooddive.com/news/texas-ag-investigates-celsius-for-marketing-high-caffeine-energy-drinks-to/822047/",
+          "pubDate": "Fri, 05 Jun 2026 10:00:00 -0400",
+          "description": "Texas AG Ken Paxton’s review marks his latest crusade against a big CPG firm after previously targeting WK Kellogg, General Mills and Mars.",
           "category": "ma",
           "score": 63,
           "matchedKeywords": [
-            "sale"
+            "m&a"
           ],
-          "reason": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal detecte autour de sale. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Signal detected around sale. Hot item. Strategic transactions angle.",
-          "reason_nl": "Signaal gedetecteerd rond sale. Actueel signaal. Strategische transactieshoek."
+          "reason": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal detecte autour de m&a. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Signal detected around m&a. Hot item. Strategic transactions angle.",
+          "reason_nl": "Signaal gedetecteerd rond m&a. Actueel signaal. Strategische transactieshoek."
         },
         {
           "source": "AgFunderNews",
@@ -2425,21 +2402,6 @@
           "link": "https://agfundernews.com/purdues-dial-ventures-says-its-a-defining-moment-for-ai-in-agriculture-after-first-close-of-fund-ii",
           "pubDate": "Wed, 03 Jun 2026 17:14:03 +0000",
           "description": "The venture studio will explore AI tools, reducing inputs, and improving supply chains ahead of its program's next installment. The post Purdue’s DIAL Ventures says it’s a ‘defining moment’ for AI in agriculture after first close of Fund II appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 58,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Hershey sees s’mores catching fire with more consumers",
-          "link": "https://www.fooddive.com/news/hershey-sees-smores-catching-fire-with-more-consumers/821630/",
-          "pubDate": "Wed, 03 Jun 2026 09:00:00 -0400",
-          "description": "The gooey campfire staple is a “significant and growing piece” for the company’s namesake chocolate brand, generating nearly $250 million annually, a top executive said.",
           "category": "ma",
           "score": 58,
           "matchedKeywords": [],
@@ -2605,6 +2567,21 @@
           "link": "https://agfundernews.com/apeel-founder-on-maha-misinformation-layoffs-and-a-second-act-in-post-harvest-tech",
           "pubDate": "Mon, 01 Jun 2026 16:16:30 +0000",
           "description": "In today's febrile social media environment, facts that don’t fit pre-conceived narratives are discarded and conspiracy theories abound, says Apeel cofounder James Rogers. The post Apeel founder on MAHA, misinformation, layoffs, and a second act in post-harvest tech appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
+          "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
+          "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
+          "description": "A spot digging at Reese’s shows a focus group composed of people named Reese who assess the flavor and texture of Snickers Peanut Butter.",
           "category": "ma",
           "score": 58,
           "matchedKeywords": [],
@@ -2819,19 +2796,19 @@
   },
   "digest": [
     {
-      "category": "trends",
-      "label_fr": "Tendances",
-      "label_en": "Trends",
-      "label_nl": "Trends",
-      "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+      "category": "ingredients",
+      "label_fr": "Ingredients",
+      "label_en": "Ingredients",
+      "label_nl": "Ingredienten",
+      "title": "The next recall risk isn’t ingredients—it’s your packaging data",
       "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
-      "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
-      "score": 80,
-      "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-      "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
-      "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
-      "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
+      "link": "https://www.fooddive.com/spons/the-next-recall-risk-isnt-ingredientsits-your-packaging-data/821831/",
+      "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
+      "score": 84,
+      "reason": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
+      "reason_fr": "Signal detecte autour de ingredient, ingredients. Actualite chaude. Angle ingredients.",
+      "reason_en": "Signal detected around ingredient, ingredients. Hot item. Ingredients angle.",
+      "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Actueel signaal. Ingredientenhoek."
     },
     {
       "category": "tech",
@@ -2883,15 +2860,15 @@
       "label_fr": "Technologies",
       "label_en": "Technology",
       "label_nl": "Technologie",
-      "title": "California EPR deadlines spur urgent flexible film recycling solutions",
+      "title": "Making the case for modular insulation in the modern cold chain",
       "source": "Packaging Dive",
-      "link": "https://www.packagingdive.com/news/flexible-film-recycling-recycling-california-epr/821600/",
-      "pubDate": "Mon, 01 Jun 2026 11:00:00 -0400",
+      "link": "https://www.packagingdive.com/spons/making-the-case-for-modular-insulation-in-the-modern-cold-chain/822091/",
+      "pubDate": "Mon, 08 Jun 2026 05:00:00 -0400",
       "score": 74,
-      "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-      "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-      "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-      "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
+      "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+      "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
     },
     {
       "category": "trends",
@@ -2902,6 +2879,21 @@
       "source": "Food Dive",
       "link": "https://www.fooddive.com/news/coca-colas-bodyarmor-launches-first-sparkling-sports-drink/821854/",
       "pubDate": "Wed, 03 Jun 2026 10:37:00 -0400",
+      "score": 74,
+      "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
+      "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
+      "reason_en": "Signal detected around launch. Hot item. Sensory trend angle.",
+      "reason_nl": "Signaal gedetecteerd rond launch. Actueel signaal. Sensorische trendhoek."
+    },
+    {
+      "category": "trends",
+      "label_fr": "Tendances",
+      "label_en": "Trends",
+      "label_nl": "Trends",
+      "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
+      "source": "Food Dive",
+      "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
+      "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
       "score": 74,
       "reason": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
       "reason_fr": "Signal detecte autour de launch. Actualite chaude. Angle tendances sensorielles.",
@@ -2954,49 +2946,34 @@
       "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients, nutrition. Op te volgen in de tijd. Ingredientenhoek."
     },
     {
-      "category": "ingredients",
-      "label_fr": "Ingredients",
-      "label_en": "Ingredients",
-      "label_nl": "Ingredienten",
-      "title": "Slideshow: Serving up seasonal menu innovations",
-      "source": "Food Business News - Ingredients",
-      "link": "https://www.foodbusinessnews.net/articles/30446-slideshow-serving-up-seasonal-menu-innovations",
-      "pubDate": "Fri, 05 Jun 2026 10:41:13 -0400",
+      "category": "aroma",
+      "label_fr": "Aromatique",
+      "label_en": "Flavour regulation",
+      "label_nl": "Aromaregulering",
+      "title": "WFSD 2026: Exclusive WHO Interview on New Global Foodborne Disease Estimates",
+      "source": "Food Safety - Regulatory",
+      "link": "https://www.food-safety.com/articles/11490-wfsd-2026-exclusive-who-interview-on-new-global-foodborne-disease-estimates",
+      "pubDate": "Sun, 07 Jun 2026 02:45:00 -0400",
       "score": 70,
-      "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-      "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-      "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-      "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+      "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+      "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+      "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+      "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
     },
     {
-      "category": "ma",
-      "label_fr": "M&A",
-      "label_en": "M&A",
-      "label_nl": "M&A",
-      "title": "Popeyes launches at-home biscuits | Tom Holland’s Bero expands into shandies",
-      "source": "Food Dive - Deals",
-      "link": "https://www.fooddive.com/news/popeyes-retail-biscuits-tom-holland-bero-shandy-jose-cuervo-tequila-canned-cocktails/822107/",
-      "pubDate": "Fri, 05 Jun 2026 09:34:00 -0400",
-      "score": 70,
-      "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-      "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-      "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-      "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-    },
-    {
-      "category": "trends",
-      "label_fr": "Tendances",
-      "label_en": "Trends",
-      "label_nl": "Trends",
-      "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
-      "source": "Food Dive",
-      "link": "https://www.fooddive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/822080/",
-      "pubDate": "Fri, 05 Jun 2026 09:45:00 -0400",
+      "category": "aroma",
+      "label_fr": "Aromatique",
+      "label_en": "Flavour regulation",
+      "label_nl": "Aromaregulering",
+      "title": "New Research Reveals Addictive Design, Health Harms of Ultra-Processed Foods; Calls for Systemic Change",
+      "source": "Food Safety - Regulatory",
+      "link": "https://www.food-safety.com/articles/11478-new-research-reveals-addictive-design-health-harms-of-ultra-processed-foods-calls-for-systemic-change",
+      "pubDate": "Wed, 03 Jun 2026 05:15:00 -0400",
       "score": 69,
-      "reason": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
-      "reason_fr": "Signal detecte autour de texture. Actualite chaude. Angle tendances sensorielles.",
-      "reason_en": "Signal detected around texture. Hot item. Sensory trend angle.",
-      "reason_nl": "Signaal gedetecteerd rond texture. Actueel signaal. Sensorische trendhoek."
+      "reason": "Signal detecte autour de regulation. Actualite chaude. Angle regulation aromatique.",
+      "reason_fr": "Signal detecte autour de regulation. Actualite chaude. Angle regulation aromatique.",
+      "reason_en": "Signal detected around regulation. Hot item. Flavour regulation angle.",
+      "reason_nl": "Signaal gedetecteerd rond regulation. Actueel signaal. Aromareguleringhoek."
     }
   ],
   "errors": []

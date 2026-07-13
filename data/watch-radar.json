@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:37:19.867Z",
+  "generatedAt": "2026-07-13T08:27:54.217Z",
   "generatedBy": "site/tools/build-watch-radar.py",
   "totals": {
     "categories": 5,
@@ -88,23 +88,6 @@
           "reason_fr": "Signal detecte autour de precision fermentation, ai, ia. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around precision fermentation, ai, ia. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond precision fermentation, ai, ia. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "Packaging Dive",
-          "feedUrl": "https://www.packagingdive.com/feeds/news/",
-          "title": "5 packaging EPR lawsuits to watch",
-          "link": "https://www.packagingdive.com/news/5-packaging-epr-lawsuits-oregon-california-colorado/824926/",
-          "pubDate": "Fri, 10 Jul 2026 12:00:00 -0400",
-          "description": "From Oregon to California, these cases have been filed in the last year.",
-          "category": "tech",
-          "score": 69,
-          "matchedKeywords": [
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
-          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -295,6 +278,23 @@
           "reason_nl": "Signaal gedetecteerd rond technology. Actueel signaal. Technologiehoek."
         },
         {
+          "source": "Packaging Dive",
+          "feedUrl": "https://www.packagingdive.com/feeds/news/",
+          "title": "5 packaging EPR lawsuits to watch",
+          "link": "https://www.packagingdive.com/news/5-packaging-epr-lawsuits-oregon-california-colorado/824926/",
+          "pubDate": "Fri, 10 Jul 2026 12:00:00 -0400",
+          "description": "From Oregon to California, these cases have been filed in the last year.",
+          "category": "tech",
+          "score": 63,
+          "matchedKeywords": [
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ia. Actualite chaude. Angle technologie.",
+          "reason_en": "Signal detected around ia. Hot item. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ia. Actueel signaal. Technologiehoek."
+        },
+        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Deep innovation, limited capital define Argentina’s agrifoodtech opportunity",
@@ -414,41 +414,6 @@
           "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "The Protein Brewery says FDA GRAS setback won’t derail US plans as it raises $20.5m Series B extension",
-          "link": "https://agfundernews.com/the-protein-brewery-says-fda-gras-setback-wont-derail-us-plans-as-it-raises-20-5m-series-b-extension",
-          "pubDate": "Mon, 29 Jun 2026 07:00:19 +0000",
-          "description": "The Protein Brewery was advised by the FDA to withdraw and refile its GRAS notice due to “deficiencies” but insists the move won't derail its US plans. The post The Protein Brewery says FDA GRAS setback won’t derail US plans as it raises $20.5m Series B extension appeared first on AgFunderNews .",
-          "category": "tech",
-          "score": 60,
-          "matchedKeywords": [
-            "ai"
-          ],
-          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
-        },
-        {
-          "source": "Google News - technologies agroalimentaires",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Salon international pour l’alimentation et la transformation alimentaire : un cadre pour nouer des partenariats stratégiques avec les fournisseurs – DEKKBI.com - dekkbi.com",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9ya0FBWTJKVjk1QWRvRkdPR3VSZi1RSHdzZkI4Z0lrQWh2TXdHc3FBenc5b296NnBKZVdCNFB4eFc?oc=5",
-          "pubDate": "Fri, 12 Jun 2026 10:47:05 GMT",
-          "description": "Salon international pour l’alimentation et la transformation alimentaire : un cadre pour nouer des partenariats stratégiques avec les fournisseurs – DEKKBI.com dekkbi.com",
-          "category": "tech",
-          "score": 60,
-          "matchedKeywords": [
-            "ai",
-            "ia"
-          ],
-          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
-          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
-          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
         },
         {
           "source": "AgFunderNews",
@@ -655,6 +620,41 @@
           "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
           "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
           "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "Google News - technologies agroalimentaires",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Cinq entreprises de transformation alimentaire s'unissent sous la bannière de Foodera - FreshPlaza.fr",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPei1RNFd5M29xRVgyZDlYa1MwM3ljRUFCQmxOeGNkYnBCTUJjYWJ6cVB1RGRla1YtRFF4WXBfUllmMUhWZnh3bHdIWVFaTW5lNUhWRF9vQ3EzNU53WkRKTWhKSmM3Z2ZKWTlUYmV6Mm43UnVvSlQxYUs5RUU2bXNsSEhXUVJ6NjhTcHVRLTVQQU9XT1pqVG5MS0Q2UWZJOGZsZWgwa1JvU0JHLVlXLXUyZ21wSnVUT21KTXoxdHpLTHRBR0FfZ2dR?oc=5",
+          "pubDate": "Tue, 30 Jun 2026 11:43:00 GMT",
+          "description": "Cinq entreprises de transformation alimentaire s'unissent sous la bannière de Foodera FreshPlaza.fr",
+          "category": "tech",
+          "score": 56,
+          "matchedKeywords": [
+            "ai"
+          ],
+          "reason": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai. Op te volgen in de tijd. Technologiehoek."
+        },
+        {
+          "source": "Google News - technologies agroalimentaires",
+          "feedUrl": "https://news.google.com/rss/search?q=%28%22technologie+agroalimentaire%22+OR+%22transformation+alimentaire%22+OR+%22fermentation+de+precision%22+OR+%22ingredients+innovants%22%29&hl=fr&gl=FR&ceid=FR:fr",
+          "title": "Salon culinaire Der/Fj- UNAFRES : «nous avons déjà soutenu plus de 6000 entrepreneurs du secteur de la transformation alimentaire avec près de 2,8 milliards F Cfa financés» (Aida Mbodj) - actusen",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdkxaSm0tRDMwSzk0SW9lTHdVXzRfQkt0bnF0QTZQMTNUak55RVVrLXVvSnk1Rm9PWURIUzlDUWwxbFhvQWhpNUlBX3pNTC1IOFFndTg3VDJiVzF3TmJWb1VmbGlpTEtJMHl1M04wbzY2bkl5ZmU4OFZDaktnQ19uTWhQNXdOSHVTRjlreFYtQmZvcHE1QWVMOWxBbWVSYWZRMXVGLUdVQjk0RTM5bC1udnY5N251eDBBcVZEUVI5QzFMT0xKOEFwbjJnZE5jdkx2eGV1aFJveGs2eTNuN29kQjlPX3lEVHRvdGdKOGdTTl9zNnZWYjFfR0pmMURjVnZTZ3NadlNpUGptakxxaWYtamhTUVVNcGlOOW5CQm1HOEd5WjA?oc=5",
+          "pubDate": "Tue, 27 May 2025 07:00:00 GMT",
+          "description": "Salon culinaire Der/Fj- UNAFRES : «nous avons déjà soutenu plus de 6000 entrepreneurs du secteur de la transformation alimentaire avec près de 2,8 milliards F Cfa financés» (Aida Mbodj) actusen",
+          "category": "tech",
+          "score": 56,
+          "matchedKeywords": [
+            "ai",
+            "ia"
+          ],
+          "reason": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_fr": "Signal detecte autour de ai, ia. A suivre dans la duree. Angle technologie.",
+          "reason_en": "Signal detected around ai, ia. Worth tracking over time. Technology angle.",
+          "reason_nl": "Signaal gedetecteerd rond ai, ia. Op te volgen in de tijd. Technologiehoek."
         }
       ]
     },
@@ -693,7 +693,7 @@
           "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
           "description": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
           "category": "trends",
-          "score": 95,
+          "score": 89,
           "matchedKeywords": [
             "new flavor",
             "texture",
@@ -711,21 +711,6 @@
           "link": "https://www.fooddive.com/news/Candy-confections-Turtles-innovation-marketing/824082/",
           "pubDate": "Thu, 09 Jul 2026 09:27:00 -0400",
           "description": "The caramel nut cluster brand is boosting innovation and marketing to reach a new generation of consumers inundated with choice in the $55 billion confectionery space.",
-          "category": "trends",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "California standardizes date labeling, Virginia bans foam food containers",
-          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
-          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
-          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
           "category": "trends",
           "score": 64,
           "matchedKeywords": [],
@@ -831,6 +816,21 @@
           "link": "https://www.fooddive.com/news/how-doritos-gets-global-year-round-scale-with-formula-1-partnership/824816/",
           "pubDate": "Thu, 09 Jul 2026 09:44:00 -0400",
           "description": "Kyle Gore, vice president of global marketing for Doritos, compares the brand’s efforts to what’s required for the Super Bowl — but on a much larger scale.",
+          "category": "trends",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle tendances sensorielles.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Sensory trend angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Sensorische trendhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "California standardizes date labeling, Virginia bans foam food containers",
+          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
+          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
+          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
           "category": "trends",
           "score": 58,
           "matchedKeywords": [],
@@ -1054,40 +1054,6 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "UK FSA Finds Persisting Compliance Issues in Targeted Survey of Retail Foods",
-          "link": "https://www.food-safety.com/articles/11616-uk-fsa-finds-persisting-compliance-issues-in-targeted-survey-of-retail-foods",
-          "pubDate": "Fri, 10 Jul 2026 13:03:21 -0400",
-          "description": "Overall, 72 percent of targeted surveillance samples were deemed satisfactory. FSA flagged imported, niche products, like Dubai-style chocolates, South Asian snacks, and ashwagandha supplements, as especially problematic.",
-          "category": "aroma",
-          "score": 74,
-          "matchedKeywords": [
-            "compliance"
-          ],
-          "reason": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Signal detected around compliance. Hot item. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond compliance. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "JECFA Evaluates Safety of Certain Food Additives; Monk Fruit Presents Potential Concern",
-          "link": "https://www.food-safety.com/articles/11609-jecfa-evaluates-safety-of-certain-food-additives-monk-fruit-presents-potential-concern",
-          "pubDate": "Fri, 10 Jul 2026 05:15:00 -0400",
-          "description": "The 102nd meeting of the Joint FAO/WHO Expert Committee on Food Additives (JECFA) took place in June 2026 in Nanjing, China. Key outcomes included the establishment of new, temporary acceptable daily intakes (ADIs) for two substances.",
-          "category": "aroma",
-          "score": 74,
-          "matchedKeywords": [
-            "additive"
-          ],
-          "reason": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Signal detected around additive. Hot item. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond additive. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Danish Researchers Propose Voluntary Labeling Scheme for Listeria-Stabilized RTE Foods",
           "link": "https://www.food-safety.com/articles/11591-danish-researchers-propose-voluntary-labeling-scheme-for-listeria-stabilized-rte-foods",
           "pubDate": "Wed, 08 Jul 2026 05:00:00 -0400",
@@ -1139,40 +1105,44 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "UK FSA Finds Persisting Compliance Issues in Targeted Survey of Retail Foods",
+          "link": "https://www.food-safety.com/articles/11616-uk-fsa-finds-persisting-compliance-issues-in-targeted-survey-of-retail-foods",
+          "pubDate": "Fri, 10 Jul 2026 13:03:21 -0400",
+          "description": "Overall, 72 percent of targeted surveillance samples were deemed satisfactory. FSA flagged imported, niche products, like Dubai-style chocolates, South Asian snacks, and ashwagandha supplements, as especially problematic.",
+          "category": "aroma",
+          "score": 68,
+          "matchedKeywords": [
+            "compliance"
+          ],
+          "reason": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Signal detected around compliance. Hot item. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond compliance. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "JECFA Evaluates Safety of Certain Food Additives; Monk Fruit Presents Potential Concern",
+          "link": "https://www.food-safety.com/articles/11609-jecfa-evaluates-safety-of-certain-food-additives-monk-fruit-presents-potential-concern",
+          "pubDate": "Fri, 10 Jul 2026 05:15:00 -0400",
+          "description": "The 102nd meeting of the Joint FAO/WHO Expert Committee on Food Additives (JECFA) took place in June 2026 in Nanjing, China. Key outcomes included the establishment of new, temporary acceptable daily intakes (ADIs) for two substances.",
+          "category": "aroma",
+          "score": 68,
+          "matchedKeywords": [
+            "additive"
+          ],
+          "reason": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Signal detected around additive. Hot item. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond additive. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Food Safety NEXT Executive Roundtable Examines AI Solutions for Supply Chain Risk Management",
           "link": "https://www.food-safety.com/articles/11585-food-safety-next-executive-roundtable-examines-ai-solutions-for-supply-chain-risk-management",
           "pubDate": "Mon, 06 Jul 2026 07:00:00 -0400",
           "description": "At a Food Safety NEXT Industry Roundtable on June 25, senior business leaders came together to share, collaborate, and innovate meaningful improvements for supply chain risk management using enterprise AI. Food Safety Magazine is the exclusive media partner for Food Safety NEXT.",
-          "category": "aroma",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "UK FSA Publishes Guidances for Cell-Cultivated Food Producers",
-          "link": "https://www.food-safety.com/articles/11613-uk-fsa-publishes-guidances-for-cell-cultivated-food-producers",
-          "pubDate": "Fri, 10 Jul 2026 08:20:03 -0400",
-          "description": "The resources were produced through the Cell-Cultivated Products Sandbox Program and cover hygiene requirements; identity, production, and microbiology; product applications; and novel food taste trials.",
-          "category": "aroma",
-          "score": 64,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
-        },
-        {
-          "source": "Food Safety - Regulatory",
-          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Shigella Vaccine Shows Promise in Phase 2 Clinical Trial",
-          "link": "https://www.food-safety.com/articles/11601-shigella-vaccine-shows-promise-in-phase-2-clinical-trial",
-          "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
-          "description": "The vaccine provided 89 percent protection against S. sonnei infection compared with the placebo. Vaccinated participants also experienced less severe symptoms and lower levels of bacterial shedding. The vaccine is being developed as drug resistance among Shigella continues to increase.",
           "category": "aroma",
           "score": 64,
           "matchedKeywords": [],
@@ -1325,10 +1295,25 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
-          "title": "Allergens Remained Leading Cause of New Zealand Food Recalls in 2025",
-          "link": "https://www.food-safety.com/articles/11578-allergens-remained-leading-cause-of-new-zealand-food-recalls-in-2025",
-          "pubDate": "Mon, 06 Jul 2026 00:00:00 -0400",
-          "description": "New Zealand Food Safety (NZFS) supported 57 consumer-level food recalls in 2025, a 35.2 percent decrease from the 88 recalls initiated in 2024.",
+          "title": "UK FSA Publishes Guidances for Cell-Cultivated Food Producers",
+          "link": "https://www.food-safety.com/articles/11613-uk-fsa-publishes-guidances-for-cell-cultivated-food-producers",
+          "pubDate": "Fri, 10 Jul 2026 08:20:03 -0400",
+          "description": "The resources were produced through the Cell-Cultivated Products Sandbox Program and cover hygiene requirements; identity, production, and microbiology; product applications; and novel food taste trials.",
+          "category": "aroma",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "Shigella Vaccine Shows Promise in Phase 2 Clinical Trial",
+          "link": "https://www.food-safety.com/articles/11601-shigella-vaccine-shows-promise-in-phase-2-clinical-trial",
+          "pubDate": "Fri, 10 Jul 2026 05:00:00 -0400",
+          "description": "The vaccine provided 89 percent protection against S. sonnei infection compared with the placebo. Vaccinated participants also experienced less severe symptoms and lower levels of bacterial shedding. The vaccine is being developed as drug resistance among Shigella continues to increase.",
           "category": "aroma",
           "score": 58,
           "matchedKeywords": [],
@@ -1358,20 +1343,20 @@
         {
           "source": "Google News - regulation aromes",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Dioxyde de titane : le E171 n'est plus considéré comme sûr en tant qu’additif alimentaire - EFSA",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ05GMnlKVXNlSW5Oay10aHJPZUY3UFl5YVZFMnExMkVUNFdSQk5LQVZsREIyY3BZeE5neU1OT2FjclM4NkRBNGxWYmJaUGZiOXVueWVGb3RxX1NBTnFXZEdxZTF4NmlsUWdFdjB1TWdtMTd1ZWJDVEFSYW5UMEY2VlYxTzZYbEw5eTF0OGhGandvQVNRa3U1RlpMa0VLREp5SlZEWGU0VjRrQQ?oc=5",
-          "pubDate": "Thu, 06 May 2021 07:00:00 GMT",
-          "description": "Dioxyde de titane : le E171 n'est plus considéré comme sûr en tant qu’additif alimentaire EFSA",
+          "title": "La FDA interdit 7 additifs alimentaires, et l’Europe? - Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42bkJieVY0VVBVZ0ZLUnhjc0QzMzNsU0pzMlVzME9KaVJSMHhqVXFfWXZDcVR5UE9MRWw5ZHFjTHg3eGNmVW0tMlZuSFNpdUlYNDhVMU5FeVNLRUJzYnc?oc=5",
+          "pubDate": "Fri, 12 Oct 2018 07:00:00 GMT",
+          "description": "La FDA interdit 7 additifs alimentaires, et l’Europe? Medscape",
           "category": "aroma",
           "score": 56,
           "matchedKeywords": [
-            "efsa",
+            "fda",
             "additif"
           ],
-          "reason": "Signal detecte autour de efsa, additif. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de efsa, additif. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around efsa, additif. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond efsa, additif. Op te volgen in de tijd. Aromareguleringhoek."
+          "reason": "Signal detecte autour de fda, additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de fda, additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around fda, additif. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond fda, additif. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Food Safety - Regulatory",
@@ -1498,6 +1483,21 @@
         {
           "source": "Food Safety - Regulatory",
           "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
+          "title": "Allergens Remained Leading Cause of New Zealand Food Recalls in 2025",
+          "link": "https://www.food-safety.com/articles/11578-allergens-remained-leading-cause-of-new-zealand-food-recalls-in-2025",
+          "pubDate": "Mon, 06 Jul 2026 00:00:00 -0400",
+          "description": "New Zealand Food Safety (NZFS) supported 57 consumer-level food recalls in 2025, a 35.2 percent decrease from the 88 recalls initiated in 2024.",
+          "category": "aroma",
+          "score": 50,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Aromareguleringhoek."
+        },
+        {
+          "source": "Food Safety - Regulatory",
+          "feedUrl": "https://www.food-safety.com/rss/topic/296-regulatory",
           "title": "Foodborne Campylobacter, Listeria Infections Rose in Denmark in 2025",
           "link": "https://www.food-safety.com/articles/11579-foodborne-campylobacter-listeria-infections-rose-in-denmark-in-2025",
           "pubDate": "Fri, 03 Jul 2026 04:00:00 -0400",
@@ -1528,10 +1528,10 @@
         {
           "source": "Google News - regulation aromes",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "PHOTOS. Les 10 additifs alimentaires les plus mauvais pour la santé - Le HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNUgyWV9ydTJ0NzJDZ3dHS0xMRW9aU1lrQ0pPb24wUl9ZNmlkOHExMkRlZlh5OEJBaXcxREdJSVMyQXFtUjhqWUFvSzk5SjNKTjllRndYX1Z2di1MNDZiYTItOFQxWTFMOTQ2aGlzRXZhY2hhemhfSnR5T2pTNnZ6cW1TSDc0bFhLcVZqUXFEVC1nX3FXQjRjUUk5Nlc3bHBEbUFXdjhNcDVUM1ZVaWxoUkFmWi1BdU1YaGR1aw?oc=5",
-          "pubDate": "Wed, 28 Nov 2012 08:00:00 GMT",
-          "description": "PHOTOS. Les 10 additifs alimentaires les plus mauvais pour la santé Le HuffPost",
+          "title": "Le dioxyde de titane qui cache la forêt : quels additifs alimentaires encore autorisés sont-ils dangereux pour la santé - Alternatives Santé",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMlJzV0dLNkhYdzlfa0VvTkJJWUNCTjNOOWtzaFczbVJPVUdpVmMxTkdLbUtKOEpJMm5KV012clBHeTlRTzdoenl1Y0U1cDdlejlQTFVaV2FLaHJ2SkVjOGpOaUVGVzlaTEs4ZWFEdThpeGNEeXRDZ1dRbVoxbGNTUzVuUFBaVTFSTkRBaXN1ZHk4UHJpUGpwN1Z3RC1Rb0dvZmhPUUhMdFl3VzltajNZSTdFUWNIWG94SEhRQnpBWjlVSXNGb3pEU1VNS09EeTdGZVo2UWhFaFJEV1NnSk1zbDBTR19UZFNhc2ZubWtGY04?oc=5",
+          "pubDate": "Wed, 04 Mar 2020 08:00:00 GMT",
+          "description": "Le dioxyde de titane qui cache la forêt : quels additifs alimentaires encore autorisés sont-ils dangereux pour la santé Alternatives Santé",
           "category": "aroma",
           "score": 46,
           "matchedKeywords": [
@@ -1545,44 +1545,44 @@
         {
           "source": "Google News - regulation aromes",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Données - EFSA",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbUlCcDhELVVfbkVvUmVZQ2FqOEZlbVFFY215clV1Qk9nZlZpRThBS1NCTlFoMk9aeFEzRjVYU1NPZ09paG5Qb1lmOE9IX1dJcnVuTWVWek1ZZEU?oc=5",
-          "pubDate": "Wed, 14 Nov 2018 10:56:31 GMT",
-          "description": "Données EFSA",
+          "title": "E120 : rôle de cet additif, bienfaits, danger, où le trouver ? - Doctissimo",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTWNnMVNhWEliSDR0RUszbWxiRXN1cmlpb0dPclhETXcyb2Y1QURpUV8wRmdmUWJGdkdWMW5iQWkyMldZbTBXWFlaLWVqLW1DNllYeUhVVV90cXFKMUlxUW5hLXhXejd6ak5DZHlEY2U4WmdpczdXdnoxOWZZM0d3MVRuMnF0MHlNd2RucDlCWG0xSW1jcXhwcmVVX0ZqeE1fN0o5MzBaaUdGRUtVeDBnTXNaMm1hRkFHT1IxSTdoS3Y4Vjl4ODVXMkFUSWVIN0k3dUJhLXBfWDl3RGtFTFJqN1Q1WTR6VUtHVXdwb3lJai1tY2tTM1E?oc=5",
+          "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+          "description": "E120 : rôle de cet additif, bienfaits, danger, où le trouver ? Doctissimo",
           "category": "aroma",
           "score": 46,
           "matchedKeywords": [
-            "efsa"
+            "additif"
           ],
-          "reason": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around efsa. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond efsa. Op te volgen in de tijd. Aromareguleringhoek."
+          "reason": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around additif. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond additif. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Google News - regulation aromes",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Nouvel avis scientifique de l’EFSA sur les phosphates - EFSA",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlYlBnX2x5QWZubGVBdkQ3eHg1bVIzSk1YLTkzUTZ5NVZUYk5EOVFhWVFGUGg0R2RPVzNKTTNGWG91V3BPbUl5WGVmVDJTdFJtZ3A1SU1Cc2tNeVU?oc=5",
-          "pubDate": "Wed, 12 Jun 2019 07:00:00 GMT",
-          "description": "Nouvel avis scientifique de l’EFSA sur les phosphates EFSA",
+          "title": "Réglementation : mise à jour de la norme portant sur les additifs alimentaires - Team France Export",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQVBSVlJJOXVJRDhPS2xQZE0wMEhFYkZtSkNiZEdLNm5aaEZsLWlnZl9kSWhkSEx3NnUySGs3b19PZ1dFV01CbXBLNTNxSUMzaWMzT0NJMjh2MmtoeHY4dVVudGxCXzVLcjh4c3NiMW1adE5feWwyR1NrSGdqMDF2akhjSGZONTI5aXY2VGR6TUhtVDdkSEhENTJVNlpDRjN5eFIzUDRqeldsR2J0VHhNQlVWdC1oM0R2eTZvN0RKWTNWRUJZMFZZeThBOExGeGlNdG5Ca0ZrNA?oc=5",
+          "pubDate": "Tue, 07 May 2024 07:00:00 GMT",
+          "description": "Réglementation : mise à jour de la norme portant sur les additifs alimentaires Team France Export",
           "category": "aroma",
           "score": 46,
           "matchedKeywords": [
-            "efsa"
+            "additif"
           ],
-          "reason": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_fr": "Signal detecte autour de efsa. A suivre dans la duree. Angle regulation aromatique.",
-          "reason_en": "Signal detected around efsa. Worth tracking over time. Flavour regulation angle.",
-          "reason_nl": "Signaal gedetecteerd rond efsa. Op te volgen in de tijd. Aromareguleringhoek."
+          "reason": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_fr": "Signal detecte autour de additif. A suivre dans la duree. Angle regulation aromatique.",
+          "reason_en": "Signal detected around additif. Worth tracking over time. Flavour regulation angle.",
+          "reason_nl": "Signaal gedetecteerd rond additif. Op te volgen in de tijd. Aromareguleringhoek."
         },
         {
           "source": "Google News - regulation aromes",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22reglementation+aromes%22+OR+%22substances+aromatisantes%22+OR+%22additifs+alimentaires%22+OR+EFSA%29+arome&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "Le dioxyde de titane qui cache la forêt : quels additifs alimentaires encore autorisés sont-ils dangereux pour la santé - Alternatives Santé",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMlJzV0dLNkhYdzlfa0VvTkJJWUNCTjNOOWtzaFczbVJPVUdpVmMxTkdLbUtKOEpJMm5KV012clBHeTlRTzdoenl1Y0U1cDdlejlQTFVaV2FLaHJ2SkVjOGpOaUVGVzlaTEs4ZWFEdThpeGNEeXRDZ1dRbVoxbGNTUzVuUFBaVTFSTkRBaXN1ZHk4UHJpUGpwN1Z3RC1Rb0dvZmhPUUhMdFl3VzltajNZSTdFUWNIWG94SEhRQnpBWjlVSXNGb3pEU1VNS09EeTdGZVo2UWhFaFJEV1NnSk1zbDBTR19UZFNhc2ZubWtGY04?oc=5",
-          "pubDate": "Wed, 04 Mar 2020 08:00:00 GMT",
-          "description": "Le dioxyde de titane qui cache la forêt : quels additifs alimentaires encore autorisés sont-ils dangereux pour la santé Alternatives Santé",
+          "title": "La liste des additifs alimentaires dangereux pour la santé à éviter - Doctissimo",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyYlZwM2FUX0VSRnRkQUJ0RG5YR1VOWGlkMVZsSzhsd25mWGhDZjJGVGdvYmNIV3hPVEVGN01fRmFCNkVuWTJ6QnktQ2UtbGswdmE0QUhyZ25KWkdaY0V1aTRUTVN6Qll5ZWZ3Xy1CWVdFdDRTSE93?oc=5",
+          "pubDate": "Tue, 04 Nov 2025 08:00:00 GMT",
+          "description": "La liste des additifs alimentaires dangereux pour la santé à éviter Doctissimo",
           "category": "aroma",
           "score": 46,
           "matchedKeywords": [
@@ -1677,21 +1677,6 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Leftovers: Reese’s Pieces launches first new flavor in 10 years | Quaker shakes up oats",
-          "link": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
-          "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
-          "description": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
-          "category": "ingredients",
-          "score": 70,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Food Dive",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
           "title": "Better Meat Co rebrands to focus on plant-based protein",
           "link": "https://www.fooddive.com/news/better-meat-rebrand-bmc-ingredients-plant-protein/824698/",
           "pubDate": "Wed, 08 Jul 2026 11:12:00 -0400",
@@ -1743,10 +1728,10 @@
         {
           "source": "Food Dive",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "California standardizes date labeling, Virginia bans foam food containers",
-          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
-          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
-          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
+          "title": "Leftovers: Reese’s Pieces launches first new flavor in 10 years | Quaker shakes up oats",
+          "link": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
+          "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
+          "description": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
           "category": "ingredients",
           "score": 64,
           "matchedKeywords": [],
@@ -1790,96 +1775,6 @@
           "reason_fr": "Signal detecte autour de ingredient, ingredients. A suivre dans la duree. Angle ingredients.",
           "reason_en": "Signal detected around ingredient, ingredients. Worth tracking over time. Ingredients angle.",
           "reason_nl": "Signaal gedetecteerd rond ingredient, ingredients. Op te volgen in de tijd. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "$$~~[GRATUIT/TV] Argentine contre Suisse match en direct streaming - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxNNG1GTFA2NjVmVm1NODlScHJkZFQ5azJQZXREN2ZzcEhmVEVRWFI2ZFd3SlRqNEE3YU9rek52LUI5S25hbzZ6eF9wcFVEMVkxX3FXSm0yQUpWaEJxRHdYSXJEZmV5ekpBNE9VSDZOak5xcnVkRnNWUWwybzVfbTJENUkxalR4cDRpSGdkc0VpVlZEUV9vN0J1WURHQnB3U3o1YzVac1lRR0FoNGx1bXF4MWRfNUlfbmJsb05KWlVTM3FJMGJlSW85S19acjMzQTVJVjZ2WXhKV1FuNlA0alpXQ1NJYmV4WkdIcHdVT01KOVRwdVRMQW52c1E0VlJQZ1NIb2RTZGxLQS1mQnBYUGlHNms2WEJkNklXc09mMVVSOGpWdGxoLTQ1MUQ1T2hIZjE2ZE1Rd0JGWjlIQzMwWnJoZW8yWnhyaHdYc0o5eTVYSWJZblh6Y2xReFgyT1hoQ1R0TjVrX0Q5YldGNDEtbTZJV0NXY1J6UVNNcnVVV0NZVHhMWTBxTUppVWo4S3pkaGJMbDhOZFdpTnZaZUEyZTBwNEFUeXFXamFMbklEcXZNVWpXUGJC?oc=5",
-          "pubDate": "Sun, 12 Jul 2026 01:52:36 GMT",
-          "description": "$$~~[GRATUIT/TV] Argentine contre Suisse match en direct streaming Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "!!+[Officiel@!] Norvège - Angleterre en direct et gratuit, Coupe du Monde de la FIFA, 11 juillet 2026 - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQQjZZNmV0bHMya1pPM24xXzc5WEotNFFUWldzUGFRMWJpQ2U1Y2RZekxqajU1alB3T08ycFpYaHVWZzNSOEtiZzZmdGh6UVpKR0ZRNk5DRVZwczByWVcyaHBkUGl0VlY4VGlNX1hXQzZYTVNucnNXalhtZkpEU0F6T2xmUmlYbWd1WTE5NkU3cnB5NG1OMHlMUTBuaHczY05TNUM0WXFmZkh6b01pc0RaX1FjZmxnYld6N0RkQi1CbWQ5bUdOdzdpUUt6VmZoeUhKV3l0V1ZqaldLTUhCZzZFTXlvMFkxc0lLVGFidWJtYmlJV2VCM0hBei00NXhsemVhMmNqZTdLU3ltaDh6dVdyNG8xMzF2dmtDejZPMDBYY0Zxd01wMzRIQlRRSjJnWFRVY0RsYjhpcWtVTFY0N2FFMHZjaUJ5Zm80RkQ5OWhCX01FMkwwQkxCVTVtRFdIbmJBdnhGTmNwcWlhbEo5eGRCYkxGRERkVExYUWdnakJ6TWF3T3M0UDhCdUM1UjBWU2RNcnlmUQ?oc=5",
-          "pubDate": "Sat, 11 Jul 2026 21:19:59 GMT",
-          "description": "!!+[Officiel@!] Norvège - Angleterre en direct et gratuit, Coupe du Monde de la FIFA, 11 juillet 2026 Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "[WCLIVE]GRATUIT]* Angleterre - Norvège en direct et gratuit à la TV le 11 juillet 2026 - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOZ0xEcm02a3hmVnZGOWRudmtuODVIbXU5Z1ZsWkRsSWtBRk5YZ2ZNb2pId080WHBqSi1sSEhHNHFoSklMR01salJnM3JvcmFDemVFOVFjVkd3ZUUwWFpncmpGOFQtdXM5WFdaeXRrNEQ3YXQtaklUQ1VkbENMekV3eVo3Ymd0NEU0RS0wQ0swbC02WUFHZXNEVWx3THBUSWxaWF9ldUFQcGZWa2d0U3JFU3VNbzVnOWhKMjJ3YnVyaGcydW1KTy1qaTVGbWRreXBCQjMyT05GLUNmT3c5LTU5d3BCZ2phaE5GUFF0N1lKWTMtMmRsazdlMGhIaGowYUhNZW9RT2JaUDRrdnUzWG9GcjY0MWY1eEFWVnhoQkdYMl9UTHo0Mnh4Z1B3R0x1RFBETzFnMC1LaWFCU0tNVkR6QkdhN3JaR2tfN3Npek1za2lQYVM3MEdpRUxhVTZOOUdteVpYNkJxWV9faDFQS0VuV1hNaGFUWWdRa2ZqbEdxcDRxbG5kRDFsM0drWkhHNnkzNjZDdg?oc=5",
-          "pubDate": "Sat, 11 Jul 2026 21:16:17 GMT",
-          "description": "[WCLIVE]GRATUIT]* Angleterre - Norvège en direct et gratuit à la TV le 11 juillet 2026 Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "[FOOTBALLLIVE]GRATUIT]* Angleterre Norvège en direct Coupe du Monde FIFA 11 juillet 2026 - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPemJHbWdkQ2xxaUZmRGoyYlZBUGNGRndwQm13S1NpTFdnVVpra0FCMHVKWFB2ZjE4d2xra1hiOUhkS1lKREdYRVMyVUlUdk1NV3BmeEpzZkx1cy1USlZVaTVXYnpzUnpNMnNYaXU0VkxTLXhXR21udy1ad3Y1d3YyZEtYNEdNUlRVYlAtZlJJMUNfMFdlNFVSTlI2SmE0UjdQUi1VcVItbkd4Yk5VSkRhZ3VlN3lOZjZKa20xWEhZWWN1Q1RGY2xXMmk5Q0FMWllBeGd2dG1lUkdNc0hFSWp6RnZsd3VONXRKSGM1R0FvTEhSMDVleDFuaEZHRElvWTBZeWlpMDBOd0xTUUF3X2Jya3pCdjBwUGNKeGljNGowaGRROEdSVnQyUGtfVEhka2JvRFV2U0pZOGNma2VFaTlhb3U1UWxWdkYtXzROaUl4eUNIYmhsSEk2RmtTSERnSzR2YlBTeEU5TEVrSzgxaUJ3cExiZVhLOEpGYUZzSlp4Q19kTTNmZUZreFFFT3NIY29Yd1FuSw?oc=5",
-          "pubDate": "Sat, 11 Jul 2026 21:16:16 GMT",
-          "description": "[FOOTBALLLIVE]GRATUIT]* Angleterre Norvège en direct Coupe du Monde FIFA 11 juillet 2026 Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "🏆+)REGARDER : Norvège - Angleterre En streaming - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR21VbE1VTzBUY3JKVVhHNHVmQ1ZmV2pTQ3NBekltaWMzb2ZnelNZUjN4NUtKZGtGcGVBQUc3YVRkS2t1U0pxWFYyWmlPdmxvS3NhNWJSWG5MbUNpRHc3SGxPc3NDb0w3V1VlNnBpU3d5TFJMRzFvTzBZOG5BTU13ZDNTTjZaa0Z5YnpBSXY0QnZQWTJiTmtXRmVSd2t5bFRJSWltOGt2MjFDSjI3NldQei11QmNyNEc3OFFfLU81bW9sMG9zdlUwengxQm1Kd216VlZscWFHZElpMkZMSlhJSmMxSHI3M0sxSXhrVHRBc0JPQUFfOHBRdmlXUzJNdHNNbkR2bEJwUTJwNGx4Y3Y2TnVNTTVlaTBOVVBFUFl2aDZ5RXhaUG5WWW5ZcTB2QUd0VC1BZU9KbzBrRkh0UzkxWjdRc1gzSFliSzFNWDBqcjgyMnFtRFo0Q1ZYSWtielVxa1YyMnJMODBuMFFmSWREV05wTVRLeFl5WXUydl9wVXg4bHl4SmJUSVhVVDRtU0NLSWxvWks4WDlPZw?oc=5",
-          "pubDate": "Sat, 11 Jul 2026 20:52:52 GMT",
-          "description": "🏆+)REGARDER : Norvège - Angleterre En streaming Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
-        },
-        {
-          "source": "Google News - ingredient development",
-          "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "[REGARDER EN DIRECT] Norvège - Angleterre Ｅｎ Ｓｔｒｅａｍｉｎｇ - Business and Investment Development Agency - CzechInvest",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPWVZIREhIdnVJZURSSkNHSk13eTJJM1pjYXJycHFPSFRldUYtc3hOcW5mTXpkR3R6b25RakFNZzVCWUJkczkwNC1uLTNPcUZzbExnYzZkeEFVRy13ZWQwdVoxdk5ITG5GMHlkWkpfX3JDbUxmeHI1ZnIzSFRzZ0pWb0o5VC1ZUEZYaFpvRGtoVnpKVUJSNGtDaUQxZ1Qzdlp0MVVndWttaDNRWE5RWHI2TlN4ZVBUNXJBLVAzR0Y1aFRQN1JHanN4RWc2Q3ZMbHZ3X21aRnItVW0xMnkxZWh4bTRYU3hjVFRhSmYwZEUzcmZ3MWRabjI5ZDNsUm1SRVRJMnpWTTNJWXhOUXVnTllsTWdzaHVOdUMzOFZSUkJ6eUpEOFlGVXhicDA1MTZSSlZ0dHBTYVdpS19fTTllTG5tV3F4dzZMSzJtZ2NXdWJVZEwtWllCSFdwTkhHQzYzTUd3QVM1VGtKdVUySVBNQlV3Rm1ZdVp0Ym1XWGsyNW1HNTZhY3Z3QlV6YU1PZ01md3lSbTZLag?oc=5",
-          "pubDate": "Sat, 11 Jul 2026 19:27:21 GMT",
-          "description": "[REGARDER EN DIRECT] Norvège - Angleterre Ｅｎ Ｓｔｒｅａｍｉｎｇ Business and Investment Development Agency - CzechInvest",
-          "category": "ingredients",
-          "score": 60,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
         },
         {
           "source": "Food Dive",
@@ -1933,6 +1828,21 @@
           "link": "https://www.fooddive.com/news/how-doritos-gets-global-year-round-scale-with-formula-1-partnership/824816/",
           "pubDate": "Thu, 09 Jul 2026 09:44:00 -0400",
           "description": "Kyle Gore, vice president of global marketing for Doritos, compares the brand’s efforts to what’s required for the Super Bowl — but on a much larger scale.",
+          "category": "ingredients",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Ingredientenhoek."
+        },
+        {
+          "source": "Food Dive",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "California standardizes date labeling, Virginia bans foam food containers",
+          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
+          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
+          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
           "category": "ingredients",
           "score": 58,
           "matchedKeywords": [],
@@ -2175,10 +2085,10 @@
         {
           "source": "Google News - ingredient development",
           "feedUrl": "https://news.google.com/rss/search?q=%28%22food+ingredients%22+OR+%22ingredient+innovation%22+OR+%22novel+food+ingredient%22+OR+%22alternative+protein+ingredients%22%29&hl=fr&gl=FR&ceid=FR:fr",
-          "title": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" - Webmanagercenter",
+          "title": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" - webmanagercenter",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUpJcGhMNnY1RjFKWkhWbnVaeDZoNUxZS0YzMm41UUpLQ29LcjkzdWFhUlp4VjI3UUt2ZnU2LWNlZmNHaFc1c1VTU2Rzdy1MaVhkNTNramkyc2N4b2JZeFFLRHdFTmJYNUNlUWJPMXBmMVFXMTJYVDhRTnVQbDMtSE1ZU3k0bnQwU1BkaWVTc2ZQR2ZBZzRLbi1WTzRmTjE1a01qNkwyUlRfQ0FaTnZZOHM4MC01bmI3T0sxOFV2QnJOTnZwLWdWdQ?oc=5",
           "pubDate": "Fri, 03 Jun 2022 07:00:00 GMT",
-          "description": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" Webmanagercenter",
+          "description": "La Tunisie participe au salon \"Food Ingredients & Health Ingredients Europe 2022\" webmanagercenter",
           "category": "ingredients",
           "score": 56,
           "matchedKeywords": [
@@ -2221,6 +2131,96 @@
           "reason_fr": "Signal detecte autour de nutrition. A suivre dans la duree. Angle ingredients.",
           "reason_en": "Signal detected around nutrition. Worth tracking over time. Ingredients angle.",
           "reason_nl": "Signaal gedetecteerd rond nutrition. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Buzzing with energy innovations",
+          "link": "https://www.foodbusinessnews.net/articles/30009-slideshow-buzzing-with-energy-innovations",
+          "pubDate": "Wed, 18 Mar 2026 09:15:02 -0400",
+          "description": "Manufacturers are leaning into energy-focused product launches.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Sweet innovations debut for Valentine’s Day",
+          "link": "https://www.foodbusinessnews.net/articles/29828-slideshow-sweet-innovations-debut-for-valentines-day",
+          "pubDate": "Wed, 18 Feb 2026 09:29:43 -0500",
+          "description": "Introductions spanned across the ready-to-drink beverage, confectionery and foodservice categories.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Halloween innovation — All treats, no tricks",
+          "link": "https://www.foodbusinessnews.net/articles/26996-slideshow-halloween-innovation-all-treats-no-tricks",
+          "pubDate": "Wed, 16 Oct 2024 09:12:11 -0400",
+          "description": "Halloween-inspired products are launching across the retail and foodservice sectors.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Taking a sip of summer beverage innovation",
+          "link": "https://www.foodbusinessnews.net/articles/28776-slideshow-taking-a-sip-of-summer-beverage-innovation",
+          "pubDate": "Wed, 06 Aug 2025 08:29:52 -0400",
+          "description": "Foodservice beverage introductions emphasize refreshing formulations, seasonal flavors.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: Deck the halls with holiday innovations",
+          "link": "https://www.foodbusinessnews.net/articles/27292-slideshow-deck-the-halls-with-holiday-innovations",
+          "pubDate": "Wed, 04 Dec 2024 08:52:21 -0500",
+          "description": "Seasonal offerings are springing up across retail shelves and foodservice menus.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
+        },
+        {
+          "source": "Food Business News - Ingredients",
+          "feedUrl": "https://www.foodbusinessnews.net/rss/topic/335-ingredients",
+          "title": "Slideshow: New menu items from Chick-fil-A, Smoothie King and Sonic Drive-In",
+          "link": "https://www.foodbusinessnews.net/articles/28381-slideshow-new-menu-items-from-chick-fil-a-smoothie-king-and-sonic-drive-in",
+          "pubDate": "Fri, 30 May 2025 11:01:29 -0400",
+          "description": "Summer beverage innovation is heating up.",
+          "category": "ingredients",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle ingredients.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Ingredients angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Ingredientenhoek."
         }
       ]
     },
@@ -2266,21 +2266,6 @@
           "reason_nl": "Signaal gedetecteerd rond investment, m&a. Actueel signaal. Strategische transactieshoek."
         },
         {
-          "source": "Food Dive - Deals",
-          "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "Leftovers: Reese’s Pieces launches first new flavor in 10 years | Quaker shakes up oats",
-          "link": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
-          "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
-          "description": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
-          "category": "ma",
-          "score": 70,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
-        },
-        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "Solar Foods wins $89.2m backing for ‘protein from air’ factory, but final investment decision still pending",
@@ -2316,10 +2301,10 @@
         {
           "source": "Food Dive - Deals",
           "feedUrl": "https://www.fooddive.com/feeds/news/",
-          "title": "California standardizes date labeling, Virginia bans foam food containers",
-          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
-          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
-          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
+          "title": "Leftovers: Reese’s Pieces launches first new flavor in 10 years | Quaker shakes up oats",
+          "link": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
+          "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
+          "description": "The Hershey-owned brand is playing with texture for its first U.S. innovation in a decade, while Brown-Forman brings El Jimador tequila into RTDs.",
           "category": "ma",
           "score": 64,
           "matchedKeywords": [],
@@ -2562,6 +2547,21 @@
           "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
         },
         {
+          "source": "Food Dive - Deals",
+          "feedUrl": "https://www.fooddive.com/feeds/news/",
+          "title": "California standardizes date labeling, Virginia bans foam food containers",
+          "link": "https://www.fooddive.com/news/packaging-laws-july-2026-date-labeling-foam-pfas/824938/",
+          "pubDate": "Fri, 10 Jul 2026 09:47:00 -0400",
+          "description": "While 2026 has already seen multiple new packaging laws implemented, the year’s halfway mark brings a few more.",
+          "category": "ma",
+          "score": 58,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. Actualite chaude. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Hot item. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Actueel signaal. Strategische transactieshoek."
+        },
+        {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
           "title": "ZBiotics takes GM probiotics mainstream with 15m+ ‘pre-alcohol’ shots sold",
@@ -2767,21 +2767,6 @@
         {
           "source": "AgFunderNews",
           "feedUrl": "https://www.agfundernews.com/feed",
-          "title": "The Protein Brewery says FDA GRAS setback won’t derail US plans as it raises $20.5m Series B extension",
-          "link": "https://agfundernews.com/the-protein-brewery-says-fda-gras-setback-wont-derail-us-plans-as-it-raises-20-5m-series-b-extension",
-          "pubDate": "Mon, 29 Jun 2026 07:00:19 +0000",
-          "description": "The Protein Brewery was advised by the FDA to withdraw and refile its GRAS notice due to “deficiencies” but insists the move won't derail its US plans. The post The Protein Brewery says FDA GRAS setback won’t derail US plans as it raises $20.5m Series B extension appeared first on AgFunderNews .",
-          "category": "ma",
-          "score": 50,
-          "matchedKeywords": [],
-          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
-          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
-          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
-        },
-        {
-          "source": "AgFunderNews",
-          "feedUrl": "https://www.agfundernews.com/feed",
           "title": "🎥 Inside Faraday Earth’s bid to make cheap green ammonia without Haber-Bosch",
           "link": "https://agfundernews.com/%f0%9f%8e%a5-inside-faraday-earths-bid-to-make-cheap-green-ammonia-without-haber-bosch",
           "pubDate": "Fri, 03 Jul 2026 12:55:18 +0000",
@@ -2810,6 +2795,21 @@
           "reason_fr": "Signal detecte autour de m&a. A suivre dans la duree. Angle operations strategiques.",
           "reason_en": "Signal detected around m&a. Worth tracking over time. Strategic transactions angle.",
           "reason_nl": "Signaal gedetecteerd rond m&a. Op te volgen in de tijd. Strategische transactieshoek."
+        },
+        {
+          "source": "AgFunderNews",
+          "feedUrl": "https://www.agfundernews.com/feed",
+          "title": "Exclusive: UPSIDE Foods submits $50m stalking horse bid for Believer Meats’ US cultivated meat facility",
+          "link": "https://agfundernews.com/exclusive-upside-foods-submits-50m-stalking-horse-bid-for-believer-meats-us-cultivated-meat-facility",
+          "pubDate": "Tue, 09 Jun 2026 23:34:32 +0000",
+          "description": "Other bidders have until July 20 to submit competing bids for the Believer Meats cultivated meat facility in North Carolina. The post Exclusive: UPSIDE Foods submits $50m stalking horse bid for Believer Meats’ US cultivated meat facility appeared first on AgFunderNews .",
+          "category": "ma",
+          "score": 46,
+          "matchedKeywords": [],
+          "reason": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_fr": "Signal recent repere dans les sources specialisees. A suivre dans la duree. Angle operations strategiques.",
+          "reason_en": "Recent signal found in specialist sources. Worth tracking over time. Strategic transactions angle.",
+          "reason_nl": "Recent signaal gevonden in gespecialiseerde bronnen. Op te volgen in de tijd. Strategische transactieshoek."
         }
       ]
     }
@@ -2824,7 +2824,7 @@
       "source": "Food Dive",
       "link": "https://www.fooddive.com/news/reeses-pieces-cookie-quaker-oats-shake-jimador-spritz/824939/",
       "pubDate": "Fri, 10 Jul 2026 09:35:20 -0400",
-      "score": 95,
+      "score": 89,
       "reason": "Signal detecte autour de new flavor, texture, launch. Actualite chaude. Angle tendances sensorielles.",
       "reason_fr": "Signal detecte autour de new flavor, texture, launch. Actualite chaude. Angle tendances sensorielles.",
       "reason_en": "Signal detected around new flavor, texture, launch. Hot item. Sensory trend angle.",
@@ -2889,36 +2889,6 @@
       "reason_fr": "Signal detecte autour de fda. Actualite chaude. Angle regulation aromatique.",
       "reason_en": "Signal detected around fda. Hot item. Flavour regulation angle.",
       "reason_nl": "Signaal gedetecteerd rond fda. Actueel signaal. Aromareguleringhoek."
-    },
-    {
-      "category": "aroma",
-      "label_fr": "Aromatique",
-      "label_en": "Flavour regulation",
-      "label_nl": "Aromaregulering",
-      "title": "UK FSA Finds Persisting Compliance Issues in Targeted Survey of Retail Foods",
-      "source": "Food Safety - Regulatory",
-      "link": "https://www.food-safety.com/articles/11616-uk-fsa-finds-persisting-compliance-issues-in-targeted-survey-of-retail-foods",
-      "pubDate": "Fri, 10 Jul 2026 13:03:21 -0400",
-      "score": 74,
-      "reason": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
-      "reason_fr": "Signal detecte autour de compliance. Actualite chaude. Angle regulation aromatique.",
-      "reason_en": "Signal detected around compliance. Hot item. Flavour regulation angle.",
-      "reason_nl": "Signaal gedetecteerd rond compliance. Actueel signaal. Aromareguleringhoek."
-    },
-    {
-      "category": "aroma",
-      "label_fr": "Aromatique",
-      "label_en": "Flavour regulation",
-      "label_nl": "Aromaregulering",
-      "title": "JECFA Evaluates Safety of Certain Food Additives; Monk Fruit Presents Potential Concern",
-      "source": "Food Safety - Regulatory",
-      "link": "https://www.food-safety.com/articles/11609-jecfa-evaluates-safety-of-certain-food-additives-monk-fruit-presents-potential-concern",
-      "pubDate": "Fri, 10 Jul 2026 05:15:00 -0400",
-      "score": 74,
-      "reason": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
-      "reason_fr": "Signal detecte autour de additive. Actualite chaude. Angle regulation aromatique.",
-      "reason_en": "Signal detected around additive. Hot item. Flavour regulation angle.",
-      "reason_nl": "Signaal gedetecteerd rond additive. Actueel signaal. Aromareguleringhoek."
     },
     {
       "category": "ingredients",
@@ -2994,6 +2964,36 @@
       "reason_fr": "Signal detecte autour de precision fermentation, ai, ia. A suivre dans la duree. Angle technologie.",
       "reason_en": "Signal detected around precision fermentation, ai, ia. Worth tracking over time. Technology angle.",
       "reason_nl": "Signaal gedetecteerd rond precision fermentation, ai, ia. Op te volgen in de tijd. Technologiehoek."
+    },
+    {
+      "category": "aroma",
+      "label_fr": "Aromatique",
+      "label_en": "Flavour regulation",
+      "label_nl": "Aromaregulering",
+      "title": "Danish Researchers Propose Voluntary Labeling Scheme for Listeria-Stabilized RTE Foods",
+      "source": "Food Safety - Regulatory",
+      "link": "https://www.food-safety.com/articles/11591-danish-researchers-propose-voluntary-labeling-scheme-for-listeria-stabilized-rte-foods",
+      "pubDate": "Wed, 08 Jul 2026 05:00:00 -0400",
+      "score": 69,
+      "reason": "Signal detecte autour de regulation. Actualite chaude. Angle regulation aromatique.",
+      "reason_fr": "Signal detecte autour de regulation. Actualite chaude. Angle regulation aromatique.",
+      "reason_en": "Signal detected around regulation. Hot item. Flavour regulation angle.",
+      "reason_nl": "Signaal gedetecteerd rond regulation. Actueel signaal. Aromareguleringhoek."
+    },
+    {
+      "category": "tech",
+      "label_fr": "Technologies",
+      "label_en": "Technology",
+      "label_nl": "Technologie",
+      "title": "Ambition still outweighs substance for most corporate regen ag strategies, says investor network FAIRR",
+      "source": "AgFunderNews",
+      "link": "https://agfundernews.com/ambition-still-outweighs-substance-for-most-corporate-regen-ag-strategies-says-investor-network-fairr",
+      "pubDate": "Wed, 08 Jul 2026 12:57:26 +0000",
+      "score": 68,
+      "reason": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_fr": "Signal detecte autour de ai. Actualite chaude. Angle technologie.",
+      "reason_en": "Signal detected around ai. Hot item. Technology angle.",
+      "reason_nl": "Signaal gedetecteerd rond ai. Actueel signaal. Technologiehoek."
     }
   ],
   "errors": []
